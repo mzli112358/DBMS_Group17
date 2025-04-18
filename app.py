@@ -10,7 +10,7 @@ app.config['MYSQL_HOST'] = '8.138.123.42'
 app.config['MYSQL_PORT'] = 23036
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = '1234'
-app.config['MYSQL_DB'] = 'gym_0417'
+app.config['MYSQL_DB'] = 'gym_0418'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 mysql = MySQL(app)
 
@@ -484,6 +484,82 @@ def delete_equipment(equipment_id):
         flash(f"Error deleting equipment: {str(e)}")
 
     return redirect(url_for('equipment_manage'))
+
+
+
+@app.route('/lost_and_found')
+def lost_and_found():
+    if 'username' not in session:
+        flash("Please log in to access this page.")
+        return redirect(url_for('login'))
+
+    cur = mysql.connection.cursor()
+    cur.execute("""
+        SELECT laf.pick_id, laf.pick_name, laf.pick_photo, laf.pick_time, laf.pick_place, laf.description, laf.registrant_username, laf.is_claimed
+        FROM LostAndFound laf
+    """)
+    lost_and_found_list = cur.fetchall()
+    return render_template('lost_and_found.html', lost_and_found_list=lost_and_found_list)
+
+
+@app.route('/add_lost_item', methods=['POST'])
+def add_lost_item():
+    if 'username' not in session:
+        flash("Please log in to add a lost item.")
+        return redirect(url_for('login'))
+
+    pick_name = request.form['pick_name']
+    pick_time_str = request.form.get('pick_time')
+    pick_time = datetime.strptime(pick_time_str, '%Y-%m-%dT%H:%M') if pick_time_str else datetime.now()
+    pick_place = request.form['pick_place']
+    description = request.form['description']
+    registrant_username = session['username']
+
+    photo = request.files.get('pick_photo')
+    pick_photo = None
+
+    try:
+        cur = mysql.connection.cursor()
+        cur.execute("""
+            INSERT INTO LostAndFound (pick_name, pick_time, pick_place, description, registrant_username)
+            VALUES (%s, %s, %s, %s, %s)
+        """, (pick_name, pick_time, pick_place, description or None, registrant_username))
+        mysql.connection.commit()
+
+        pick_id = cur.lastrowid
+
+        if photo:
+            # 修改文件名格式
+            photo_filename = f"pick_{pick_id}_{pick_name}.jpg"
+            photo_path = os.path.join('static/images', photo_filename)
+            photo.save(photo_path)
+            cur.execute("UPDATE LostAndFound SET pick_photo = %s WHERE pick_id = %s", (photo_filename, pick_id))
+            mysql.connection.commit()
+
+        flash("Lost item added successfully!")
+    except Exception as e:
+        mysql.connection.rollback()
+        flash(f"Error adding lost item: {str(e)}")
+
+    return redirect(url_for('lost_and_found'))
+
+
+@app.route('/claim_lost_item/<int:pick_id>')
+def claim_lost_item(pick_id):
+    if 'username' not in session:
+        flash("Please log in to claim a lost item.")
+        return redirect(url_for('login'))
+
+    try:
+        cur = mysql.connection.cursor()
+        cur.execute("UPDATE LostAndFound SET is_claimed = TRUE WHERE pick_id = %s", (pick_id,))
+        mysql.connection.commit()
+        flash("Item claimed successfully!")
+    except Exception as e:
+        mysql.connection.rollback()
+        flash(f"Error claiming item: {str(e)}")
+
+    return redirect(url_for('lost_and_found'))
 
 
 # Data dashboard
