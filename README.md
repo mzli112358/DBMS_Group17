@@ -1,8 +1,10 @@
 # DBMS_Group17
 
 # 版本说明
-V3：对管理员账号登录后的导航栏添加，新增staff, equipment, lostandfound
+```
+V2：对管理员账号登录后的导航栏添加，新增staff, equipment, lostandfound
 V1：2025年4月17日12点。基础建站。
+```
 
 # 排期
 ```
