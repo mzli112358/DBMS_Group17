@@ -18,7 +18,7 @@ V1：2025年4月17日12点。基础建站。
 ```
 
 # ER图
-以讨论的`ER图.jpg（讨论拍照）`为基底，结合`gym_0418.sql（当前网页用的数据集）`以及`建数据库的说明(ER).md`，完成ER图
+以讨论的`ER图.jpg（讨论拍照）`为基底，结合`gym_0418.sql（当前网页用的数据集）`以及`gym_0418数据库的说明(ER).md`，完成ER图
 
 https://boardmix.cn/app/share/CAE.CPGegA0gASoQLjnFbbSSCNDDlW-Yj4dhbzAFQAE/aPXjpf
 
