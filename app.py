@@ -486,7 +486,6 @@ def delete_equipment(equipment_id):
     return redirect(url_for('equipment_manage'))
 
 
-# ... 原有代码 ...
 
 @app.route('/lost_and_found')
 def lost_and_found():
@@ -502,6 +501,7 @@ def lost_and_found():
     lost_and_found_list = cur.fetchall()
     return render_template('lost_and_found.html', lost_and_found_list=lost_and_found_list)
 
+
 @app.route('/add_lost_item', methods=['POST'])
 def add_lost_item():
     if 'username' not in session:
@@ -509,7 +509,8 @@ def add_lost_item():
         return redirect(url_for('login'))
 
     pick_name = request.form['pick_name']
-    pick_time = request.form['pick_time']
+    pick_time_str = request.form.get('pick_time')
+    pick_time = datetime.strptime(pick_time_str, '%Y-%m-%dT%H:%M') if pick_time_str else datetime.now()
     pick_place = request.form['pick_place']
     description = request.form['description']
     registrant_username = session['username']
@@ -522,13 +523,14 @@ def add_lost_item():
         cur.execute("""
             INSERT INTO LostAndFound (pick_name, pick_time, pick_place, description, registrant_username)
             VALUES (%s, %s, %s, %s, %s)
-        """, (pick_name, pick_time, pick_place, description, registrant_username))
+        """, (pick_name, pick_time, pick_place, description or None, registrant_username))
         mysql.connection.commit()
 
         pick_id = cur.lastrowid
 
         if photo:
-            photo_filename = f"pick_{pick_id}.jpg"
+            # 修改文件名格式
+            photo_filename = f"pick_{pick_id}_{pick_name}.jpg"
             photo_path = os.path.join('static/images', photo_filename)
             photo.save(photo_path)
             cur.execute("UPDATE LostAndFound SET pick_photo = %s WHERE pick_id = %s", (photo_filename, pick_id))
@@ -540,6 +542,7 @@ def add_lost_item():
         flash(f"Error adding lost item: {str(e)}")
 
     return redirect(url_for('lost_and_found'))
+
 
 @app.route('/claim_lost_item/<int:pick_id>')
 def claim_lost_item(pick_id):
@@ -558,7 +561,6 @@ def claim_lost_item(pick_id):
 
     return redirect(url_for('lost_and_found'))
 
-# ... 原有代码 ...
 
 # Data dashboard
 @app.route('/dashboard')
