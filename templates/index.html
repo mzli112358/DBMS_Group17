@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="text-center mt-5">
+    {% if role=='guest' or not role %}
+        <h1 class="fs-1 mb-3">Welcome to GGGGYM</h1>
+        <p>Welcome! Please <a href="{{ url_for('login') }}">log in/register</a> to access more features!</p>
+    {% elif role=='member' %}
+        <h1 class="fs-1 mb-3">Hello, Member! Welcome to GGGGYM</h1>
+        <p>You can sign up for courses and purchase products.</p>
+    {% elif role=='coach' %}
+        <h1 class="fs-1 mb-3">Hello, Coach! Welcome to GGGGYM</h1>
+        <p>Please check your courses and students.</p>
+    {% elif role=='staff' %}
+        <h1 class="fs-1 mb-3">Hello, Staff! Welcome to GGGGYM</h1>
+        <p>Handle front desk and warehouse operations here.</p>
+    {% elif role=='admin' %}
+        <h1 class="fs-1 mb-3">Hello, Admin! Welcome to GGGGYM Management System</h1>
+        <p>Manage data and system settings.</p>
+    {% endif %}
+
+    <!--
+    你可以按需微调：
+    用style="max-width:XXX"控制整体宽度
+    改变标题样式（display-4换成fs-1或自定义CSS）
+    -->
+
+    <form method="post" class="d-flex justify-content-center align-items-center mb-4" style="max-width:800px; margin:auto;">
+        <input class="form-control w-80" name="q" type="text" value="{{ q }}" placeholder="Search for courses, products, coaches...">
+        <button class="btn btn-primary ms-2" type="submit">Search</button>
+    </form>
+</div>
+{% endblock %}
