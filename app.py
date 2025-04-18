@@ -485,6 +485,7 @@ def delete_equipment(equipment_id):
 
     return redirect(url_for('equipment_manage'))
 
+
 # Data dashboard
 @app.route('/dashboard')
 def dashboard():
