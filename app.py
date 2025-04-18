@@ -10,7 +10,7 @@ app.config['MYSQL_HOST'] = '8.138.123.42'
 app.config['MYSQL_PORT'] = 23036
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = '1234'
-app.config['MYSQL_DB'] = 'gym_0417'
+app.config['MYSQL_DB'] = 'gym_0418'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 mysql = MySQL(app)
 
