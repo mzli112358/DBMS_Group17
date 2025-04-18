@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request, redirect, url_for, session, flash, send_from_directory
 from flask_mysqldb import MySQL
 import os
+import re
 from datetime import datetime
 
 app = Flask(__name__)
@@ -66,6 +67,9 @@ def register():
         gender = request.form.get('gender')
         birthday = request.form.get('birthday')
         phone = request.form.get('phone')
+        if not re.match(r'^1\d{10}$',request.form['phone']):
+            flash('Incorrect format of mobile phone number ')
+            return redirect(url_for('register'))#这里是检测号码是否符合标准
         id_number = request.form.get('id_number')
         password = request.form.get('password')
         branch_id = request.form.get('branch_id')
@@ -606,3 +610,5 @@ if __name__=="__main__":
     if not os.path.isdir('static/images'):
         os.makedirs('static/images')
     app.run(debug=True)
+
+
