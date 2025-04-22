@@ -1,0 +1,1001 @@
+equipment_id,name,quantity,status,branch_id
+600000,Concept2 Rowing Machine 407,13,normal,GY011071
+600001,Kettlebell Kings Kettlebell 559,14,normal,GY122007
+600002,Valeo Medicine Ball 724,29,normal,GY726412
+600003,Lululemon Yoga Mat 400,23,normal,GY652441
+600004,Life Fitness Cable Machine 218,7,normal,GY417261
+600005,SKLZ Medicine Ball 209,19,normal,GY417452
+600006,TheraBand Resistance Bands 563,15,normal,GY802575
+600007,Eleiko Barbell 579,3,normal,GY647256
+600008,Kettlebell Kings Kettlebell 795,11,normal,GY709624
+600009,CAP Weight Bench 386,4,normal,GY026940
+600010,Bowflex Dumbbell Set 545,0,broken,GY332861
+600011,NordicTrack Elliptical 868,14,normal,GY259520
+600012,Schwinn Stationary Bike 287,10,normal,GY933203
+600013,Bowflex Dumbbell Set 728,9,normal,GY954655
+600014,Manduka Yoga Mat 609,22,normal,GY784078
+600015,PowerBlock Dumbbell Set 674,4,normal,GY717311
+600016,Keiser Stationary Bike 713,14,normal,GY267735
+600017,Gaiam Yoga Mat 809,18,normal,GY788302
+600018,Yes4All Dumbbell Set 646,3,fix,GY231870
+600019,Fit Simplify Resistance Bands 500,18,normal,GY140511
+600020,Schwinn Stationary Bike 775,10,normal,GY311348
+600021,CAP Weight Bench 228,3,normal,GY387831
+600022,Peloton Stationary Bike 500,12,normal,GY402209
+600023,Valeo Medicine Ball 633,27,normal,GY005722
+600024,TheraBand Resistance Bands 546,26,fix,GY027076
+600025,Dynamax Medicine Ball 191,16,normal,GY114249
+600026,Life Fitness Cable Machine 433,8,normal,GY988846
+600027,CAP Weight Bench 122,10,normal,GY062267
+600028,NordicTrack Elliptical 279,9,normal,GY575118
+600029,Gaiam Yoga Mat 307,27,fix,GY688607
+600030,Dynamax Medicine Ball 734,0,broken,GY632517
+600031,Fit Simplify Resistance Bands 455,17,normal,GY803163
+600032,Schwinn Stationary Bike 589,5,normal,GY653367
+600033,Life Fitness Treadmill 643,14,normal,GY153386
+600034,Dynamax Medicine Ball 167,19,normal,GY421169
+600035,Life Fitness Treadmill 626,5,normal,GY726412
+600036,Dynamax Medicine Ball 682,27,normal,GY257988
+600037,Bowflex Dumbbell Set 750,5,fix,GY996706
+600038,Valeo Medicine Ball 944,18,normal,GY944912
+600039,TechnoGym Treadmill 727,7,normal,GY339848
+600040,Rogue Barbell 553,4,normal,GY169777
+600041,Cybex Cable Machine 742,9,normal,GY269933
+600042,Matrix Elliptical 949,7,normal,GY312544
+600043,Cybex Cable Machine 890,6,normal,GY626194
+600044,Gaiam Yoga Mat 945,19,normal,GY209197
+600045,Matrix Elliptical 622,7,normal,GY242297
+600046,Yes4All Dumbbell Set 281,7,normal,GY507597
+600047,TheraBand Resistance Bands 420,15,normal,GY311348
+600048,Concept2 Rowing Machine 820,5,normal,GY652441
+600049,Eleiko Barbell 116,8,normal,GY540469
+600050,Concept2 Rowing Machine 391,5,normal,GY471700
+600051,TechnoGym Treadmill 577,8,normal,GY707780
+600052,Body-Solid Weight Bench 240,10,fix,GY435333
+600053,Body-Solid Weight Bench 918,9,normal,GY490481
+600054,CAP Kettlebell 159,13,fix,GY344522
+600055,Schwinn Stationary Bike 535,8,normal,GY417452
+600056,Concept2 Rowing Machine 439,10,normal,GY091593
+600057,Yes4All Dumbbell Set 381,3,fix,GY436106
+600058,Precor Treadmill 255,13,normal,GY327682
+600059,Peloton Stationary Bike 359,14,normal,GY021749
+600060,Yes4All Dumbbell Set 379,8,normal,GY484442
+600061,Rogue Weight Bench 891,4,normal,GY952285
+600062,Fit Simplify Resistance Bands 594,22,normal,GY257988
+600063,Kettlebell Kings Kettlebell 743,23,normal,GY370258
+600064,SKLZ Medicine Ball 808,19,normal,GY933203
+600065,Concept2 Rowing Machine 111,5,normal,GY895647
+600066,ProForm Elliptical 960,5,normal,GY380402
+600067,Lululemon Yoga Mat 480,17,normal,GY733921
+600068,Rogue Kettlebell 656,27,normal,GY417261
+600069,Rogue Barbell 495,6,normal,GY212122
+600070,Concept2 Rowing Machine 195,8,normal,GY165607
+600071,CAP Kettlebell 953,24,normal,GY775302
+600072,ProForm Elliptical 723,10,fix,GY509448
+600073,Ivanko Barbell 333,5,normal,GY058706
+600074,Lululemon Yoga Mat 484,27,normal,GY473306
+600075,Peloton Stationary Bike 167,5,normal,GY909784
+600076,NordicTrack Elliptical 903,14,normal,GY732028
+600077,Matrix Elliptical 805,13,normal,GY293937
+600078,Concept2 Rowing Machine 257,11,normal,GY114249
+600079,Concept2 Rowing Machine 362,11,fix,GY137587
+600080,Body-Solid Weight Bench 218,8,normal,GY399470
+600081,Life Fitness Cable Machine 190,7,normal,GY716403
+600082,Kettlebell Kings Kettlebell 876,16,normal,GY930378
+600083,Yes4All Dumbbell Set 905,5,normal,GY449244
+600084,Ivanko Barbell 738,4,normal,GY161621
+600085,Concept2 Rowing Machine 871,9,normal,GY612381
+600086,Rogue Weight Bench 156,3,normal,GY028745
+600087,CAP Kettlebell 404,29,normal,GY810229
+600088,Yes4All Dumbbell Set 802,10,normal,GY449137
+600089,Gaiam Yoga Mat 476,29,normal,GY469295
+600090,Dynamax Medicine Ball 186,27,fix,GY327682
+600091,Body-Solid Weight Bench 646,3,normal,GY499491
+600092,TheraBand Resistance Bands 861,12,normal,GY177864
+600093,Fit Simplify Resistance Bands 548,22,normal,GY422392
+600094,Life Fitness Treadmill 286,13,normal,GY325013
+600095,Rogue Weight Bench 566,4,normal,GY540469
+600096,Lululemon Yoga Mat 545,30,normal,GY713574
+600097,PowerBlock Dumbbell Set 694,4,normal,GY267735
+600098,Dynamax Medicine Ball 179,25,normal,GY037481
+600099,Keiser Stationary Bike 712,12,normal,GY620487
+600100,SKLZ Medicine Ball 925,13,normal,GY435333
+600101,Concept2 Rowing Machine 583,8,normal,GY135973
+600102,Peloton Stationary Bike 695,14,normal,GY038987
+600103,ProForm Elliptical 959,13,normal,GY907436
+600104,Ivanko Barbell 502,9,normal,GY597157
+600105,TechnoGym Treadmill 671,6,fix,GY326104
+600106,Eleiko Barbell 164,8,normal,GY140511
+600107,TechnoGym Treadmill 330,14,normal,GY620487
+600108,Body-Solid Weight Bench 400,10,fix,GY732773
+600109,CAP Kettlebell 426,18,normal,GY780846
+600110,Life Fitness Treadmill 742,6,normal,GY739492
+600111,NordicTrack Elliptical 512,14,normal,GY438587
+600112,WODFitters Resistance Bands 682,18,normal,GY139035
+600113,Peloton Stationary Bike 645,11,normal,GY025020
+600114,Body-Solid Weight Bench 284,4,normal,GY943983
+600115,SKLZ Medicine Ball 586,16,normal,GY741740
+600116,NordicTrack Elliptical 662,8,fix,GY475709
+600117,Peloton Stationary Bike 770,13,normal,GY293937
+600118,CAP Kettlebell 956,30,normal,GY525339
+600119,Concept2 Rowing Machine 183,15,normal,GY378247
+600120,Dynamax Medicine Ball 190,16,normal,GY325013
+600121,Precor Treadmill 655,14,normal,GY119378
+600122,Valeo Medicine Ball 357,29,normal,GY305280
+600123,Fit Simplify Resistance Bands 606,28,normal,GY692370
+600124,TheraBand Resistance Bands 679,24,normal,GY513307
+600125,Gaiam Yoga Mat 888,11,normal,GY758586
+600126,Eleiko Barbell 348,3,normal,GY974363
+600127,Peloton Stationary Bike 110,10,normal,GY802639
+600128,Cybex Cable Machine 806,10,normal,GY078323
+600129,Body-Solid Weight Bench 564,9,normal,GY252599
+600130,Concept2 Rowing Machine 327,12,normal,GY256065
+600131,Precor Treadmill 478,12,normal,GY982916
+600132,Concept2 Rowing Machine 630,9,normal,GY691321
+600133,CAP Kettlebell 647,19,normal,GY005722
+600134,TechnoGym Treadmill 220,9,normal,GY788302
+600135,Kettlebell Kings Kettlebell 923,18,normal,GY710610
+600136,Schwinn Stationary Bike 682,5,normal,GY780846
+600137,Rogue Kettlebell 829,12,normal,GY703805
+600138,Cybex Cable Machine 464,7,normal,GY326104
+600139,TheraBand Resistance Bands 676,26,normal,GY087383
+600140,Yes4All Dumbbell Set 780,6,normal,GY328261
+600141,Lululemon Yoga Mat 581,0,broken,GY779605
+600142,Rogue Barbell 822,10,normal,GY438587
+600143,Concept2 Rowing Machine 137,6,normal,GY959431
+600144,Keiser Stationary Bike 317,15,normal,GY347198
+600145,Eleiko Barbell 302,7,normal,GY119378
+600146,PowerBlock Dumbbell Set 754,5,normal,GY211095
+600147,Life Fitness Cable Machine 124,8,normal,GY557296
+600148,Rogue Barbell 380,4,normal,GY239292
+600149,Gaiam Yoga Mat 364,26,normal,GY023250
+600150,WODFitters Resistance Bands 732,19,normal,GY709624
+600151,Ivanko Barbell 809,5,normal,GY952195
+600152,SKLZ Medicine Ball 685,28,normal,GY286940
+600153,WODFitters Resistance Bands 683,24,normal,GY378247
+600154,Concept2 Rowing Machine 169,7,normal,GY449244
+600155,TechnoGym Treadmill 406,7,normal,GY267735
+600156,Schwinn Stationary Bike 614,8,normal,GY989661
+600157,Lululemon Yoga Mat 665,22,normal,GY202899
+600158,Cybex Cable Machine 347,10,normal,GY392142
+600159,Dynamax Medicine Ball 349,21,normal,GY807355
+600160,CAP Weight Bench 156,4,normal,GY508427
+600161,Fit Simplify Resistance Bands 838,25,normal,GY708418
+600162,Ivanko Barbell 641,10,normal,GY571263
+600163,ProForm Elliptical 330,11,normal,GY571749
+600164,Cybex Cable Machine 832,3,normal,GY185662
+600165,Bowflex Dumbbell Set 420,10,normal,GY796570
+600166,Bowflex Dumbbell Set 972,10,normal,GY807355
+600167,Matrix Elliptical 705,15,fix,GY048994
+600168,Schwinn Stationary Bike 277,10,normal,GY147429
+600169,Hammer Strength Cable Machine 545,5,normal,GY025020
+600170,SKLZ Medicine Ball 493,17,normal,GY654324
+600171,Peloton Stationary Bike 731,6,normal,GY328261
+600172,Concept2 Rowing Machine 113,13,normal,GY011071
+600173,Matrix Elliptical 715,6,fix,GY771938
+600174,Matrix Elliptical 205,13,normal,GY991101
+600175,Eleiko Barbell 618,10,normal,GY796518
+600176,Keiser Stationary Bike 443,8,normal,GY327800
+600177,Cybex Cable Machine 833,10,normal,GY530688
+600178,Yes4All Dumbbell Set 642,8,normal,GY312544
+600179,TechnoGym Treadmill 210,6,normal,GY054577
+600180,Bowflex Dumbbell Set 888,6,normal,GY565952
+600181,Manduka Yoga Mat 899,16,normal,GY201323
+600182,CAP Kettlebell 147,24,normal,GY289917
+600183,Valeo Medicine Ball 410,20,normal,GY654855
+600184,Gaiam Yoga Mat 498,25,normal,GY956299
+600185,Rogue Weight Bench 707,3,normal,GY733070
+600186,Valeo Medicine Ball 836,30,normal,GY028745
+600187,Precor Treadmill 711,11,normal,GY801404
+600188,Valeo Medicine Ball 272,13,normal,GY081754
+600189,Yes4All Dumbbell Set 112,4,normal,GY732536
+600190,NordicTrack Elliptical 247,12,normal,GY617991
+600191,Cybex Cable Machine 750,7,fix,GY202084
+600192,CAP Weight Bench 483,5,normal,GY739492
+600193,Yes4All Dumbbell Set 730,8,normal,GY895647
+600194,Body-Solid Weight Bench 380,6,normal,GY715536
+600195,Body-Solid Weight Bench 986,5,normal,GY587184
+600196,Bowflex Dumbbell Set 482,5,fix,GY646234
+600197,Ivanko Barbell 549,7,fix,GY421891
+600198,Cybex Cable Machine 148,9,normal,GY653367
+600199,TechnoGym Treadmill 444,11,normal,GY671669
+600200,Ivanko Barbell 785,6,normal,GY212122
+600201,Bowflex Dumbbell Set 412,5,normal,GY575118
+600202,Body-Solid Weight Bench 470,3,normal,GY327682
+600203,Life Fitness Treadmill 578,8,normal,GY021749
+600204,Cybex Cable Machine 902,8,normal,GY795903
+600205,TechnoGym Treadmill 448,10,normal,GY252599
+600206,Precor Treadmill 434,9,normal,GY780708
+600207,CAP Kettlebell 129,0,broken,GY448837
+600208,Keiser Stationary Bike 211,14,normal,GY021749
+600209,Eleiko Barbell 803,5,normal,GY615222
+600210,TechnoGym Treadmill 333,9,normal,GY612381
+600211,TechnoGym Treadmill 683,14,normal,GY466238
+600212,Manduka Yoga Mat 401,14,normal,GY707780
+600213,Lululemon Yoga Mat 465,19,normal,GY374192
+600214,Kettlebell Kings Kettlebell 992,12,normal,GY161336
+600215,Manduka Yoga Mat 292,10,normal,GY734828
+600216,Keiser Stationary Bike 184,9,normal,GY438587
+600217,Fit Simplify Resistance Bands 891,22,normal,GY732536
+600218,Rogue Weight Bench 898,0,broken,GY139035
+600219,Peloton Stationary Bike 402,13,normal,GY671669
+600220,Dynamax Medicine Ball 255,11,normal,GY606566
+600221,TechnoGym Treadmill 424,10,normal,GY239292
+600222,Lululemon Yoga Mat 917,30,normal,GY954342
+600223,NordicTrack Elliptical 437,12,normal,GY303789
+600224,Precor Treadmill 578,12,normal,GY285430
+600225,Schwinn Stationary Bike 785,9,normal,GY600577
+600226,NordicTrack Elliptical 955,11,normal,GY513307
+600227,NordicTrack Elliptical 174,0,broken,GY614482
+600228,Hammer Strength Cable Machine 579,8,normal,GY648787
+600229,Bowflex Dumbbell Set 496,7,normal,GY954291
+600230,TechnoGym Treadmill 470,8,normal,GY577267
+600231,Yes4All Dumbbell Set 651,7,normal,GY866227
+600232,Ivanko Barbell 467,7,normal,GY626194
+600233,TheraBand Resistance Bands 460,11,fix,GY690767
+600234,Rogue Barbell 309,8,normal,GY180063
+600235,Life Fitness Treadmill 986,10,normal,GY525339
+600236,Gaiam Yoga Mat 590,15,normal,GY012784
+600237,Life Fitness Cable Machine 595,4,normal,GY930378
+600238,CAP Weight Bench 961,7,normal,GY110573
+600239,Yes4All Dumbbell Set 184,0,broken,GY833621
+600240,Dynamax Medicine Ball 305,17,normal,GY811259
+600241,Body-Solid Weight Bench 797,3,normal,GY561808
+600242,TheraBand Resistance Bands 890,22,normal,GY036580
+600243,Schwinn Stationary Bike 980,7,normal,GY681531
+600244,Life Fitness Cable Machine 311,9,normal,GY091064
+600245,Gaiam Yoga Mat 770,18,normal,GY136869
+600246,Hammer Strength Cable Machine 954,9,normal,GY827170
+600247,Body-Solid Weight Bench 363,3,normal,GY994209
+600248,Keiser Stationary Bike 235,10,normal,GY241044
+600249,Precor Treadmill 613,5,normal,GY270030
+600250,Rogue Barbell 848,8,normal,GY556759
+600251,TheraBand Resistance Bands 649,21,normal,GY194812
+600252,Precor Treadmill 110,13,normal,GY417452
+600253,Yes4All Dumbbell Set 198,5,fix,GY648763
+600254,Matrix Elliptical 303,13,normal,GY347198
+600255,CAP Kettlebell 610,26,fix,GY325013
+600256,Concept2 Rowing Machine 760,11,normal,GY344522
+600257,Rogue Kettlebell 764,24,normal,GY982123
+600258,TheraBand Resistance Bands 708,10,normal,GY387831
+600259,Schwinn Stationary Bike 315,13,normal,GY732019
+600260,Bowflex Dumbbell Set 818,7,normal,GY648763
+600261,Fit Simplify Resistance Bands 772,14,fix,GY814325
+600262,Matrix Elliptical 425,11,normal,GY422392
+600263,Rogue Barbell 736,8,normal,GY086594
+600264,Hammer Strength Cable Machine 840,9,normal,GY199656
+600265,Rogue Kettlebell 533,19,normal,GY471700
+600266,CAP Weight Bench 828,6,normal,GY943983
+600267,Precor Treadmill 404,10,normal,GY544467
+600268,Rogue Weight Bench 289,5,normal,GY706800
+600269,Gaiam Yoga Mat 228,18,normal,GY710610
+600270,PowerBlock Dumbbell Set 824,5,normal,GY324747
+600271,TheraBand Resistance Bands 429,15,normal,GY784078
+600272,Matrix Elliptical 232,5,normal,GY841872
+600273,Precor Treadmill 847,6,normal,GY327682
+600274,Life Fitness Cable Machine 318,8,normal,GY784078
+600275,SKLZ Medicine Ball 761,15,normal,GY488213
+600276,Hammer Strength Cable Machine 407,4,normal,GY122128
+600277,Bowflex Dumbbell Set 629,5,normal,GY615222
+600278,Peloton Stationary Bike 466,14,normal,GY286940
+600279,Rogue Kettlebell 111,13,normal,GY780846
+600280,Fit Simplify Resistance Bands 371,25,normal,GY620487
+600281,Cybex Cable Machine 722,4,normal,GY952195
+600282,Concept2 Rowing Machine 903,12,normal,GY861178
+600283,Concept2 Rowing Machine 509,5,normal,GY405450
+600284,Ivanko Barbell 113,6,fix,GY507471
+600285,Concept2 Rowing Machine 712,14,normal,GY691039
+600286,Life Fitness Cable Machine 321,6,normal,GY012784
+600287,CAP Weight Bench 708,9,normal,GY683723
+600288,CAP Weight Bench 114,5,normal,GY912891
+600289,Kettlebell Kings Kettlebell 511,22,normal,GY161621
+600290,Body-Solid Weight Bench 189,9,normal,GY135907
+600291,Yes4All Dumbbell Set 889,6,normal,GY331160
+600292,Kettlebell Kings Kettlebell 571,15,normal,GY130019
+600293,Ivanko Barbell 583,3,normal,GY168712
+600294,Rogue Barbell 147,10,fix,GY684131
+600295,CAP Kettlebell 391,19,normal,GY703558
+600296,CAP Kettlebell 375,25,normal,GY833621
+600297,Schwinn Stationary Bike 846,7,normal,GY133366
+600298,Matrix Elliptical 319,10,normal,GY867762
+600299,Matrix Elliptical 384,15,normal,GY449289
+600300,Kettlebell Kings Kettlebell 617,12,normal,GY640289
+600301,Rogue Barbell 685,9,normal,GY952285
+600302,Kettlebell Kings Kettlebell 305,30,normal,GY943983
+600303,Rogue Weight Bench 760,3,normal,GY311348
+600304,Life Fitness Cable Machine 599,7,normal,GY873043
+600305,Schwinn Stationary Bike 730,11,normal,GY833621
+600306,Peloton Stationary Bike 472,13,normal,GY482096
+600307,TechnoGym Treadmill 954,13,normal,GY715327
+600308,CAP Kettlebell 252,18,normal,GY524878
+600309,Schwinn Stationary Bike 731,12,fix,GY833621
+600310,Life Fitness Cable Machine 125,8,fix,GY180063
+600311,Kettlebell Kings Kettlebell 226,10,normal,GY091593
+600312,Concept2 Rowing Machine 393,10,normal,GY749720
+600313,Precor Treadmill 782,6,normal,GY600744
+600314,CAP Kettlebell 185,24,normal,GY885593
+600315,Concept2 Rowing Machine 462,12,normal,GY398592
+600316,Kettlebell Kings Kettlebell 477,27,normal,GY648763
+600317,Concept2 Rowing Machine 907,5,normal,GY312919
+600318,Schwinn Stationary Bike 590,11,normal,GY090479
+600319,Precor Treadmill 683,8,normal,GY289917
+600320,Concept2 Rowing Machine 578,11,normal,GY277631
+600321,Valeo Medicine Ball 508,10,normal,GY866227
+600322,Keiser Stationary Bike 726,8,normal,GY202084
+600323,Rogue Kettlebell 151,28,normal,GY431166
+600324,Manduka Yoga Mat 295,24,normal,GY733921
+600325,Life Fitness Treadmill 718,15,normal,GY632517
+600326,WODFitters Resistance Bands 445,20,normal,GY522627
+600327,Eleiko Barbell 787,6,normal,GY384360
+600328,Manduka Yoga Mat 170,10,normal,GY137870
+600329,CAP Weight Bench 122,7,normal,GY025020
+600330,Life Fitness Cable Machine 623,6,normal,GY934081
+600331,Cybex Cable Machine 235,6,normal,GY483589
+600332,TechnoGym Treadmill 154,10,normal,GY653367
+600333,NordicTrack Elliptical 823,14,normal,GY708418
+600334,Concept2 Rowing Machine 941,7,fix,GY575673
+600335,Kettlebell Kings Kettlebell 925,23,normal,GY344522
+600336,Kettlebell Kings Kettlebell 765,15,normal,GY254611
+600337,Eleiko Barbell 108,7,normal,GY514730
+600338,Rogue Weight Bench 156,9,fix,GY249557
+600339,Concept2 Rowing Machine 200,6,normal,GY507597
+600340,NordicTrack Elliptical 129,11,normal,GY241044
+600341,Dynamax Medicine Ball 775,30,normal,GY713574
+600342,Valeo Medicine Ball 470,18,normal,GY644515
+600343,NordicTrack Elliptical 556,10,normal,GY429615
+600344,TheraBand Resistance Bands 463,17,normal,GY746186
+600345,TheraBand Resistance Bands 645,14,normal,GY908649
+600346,Life Fitness Treadmill 115,10,normal,GY577267
+600347,ProForm Elliptical 999,7,normal,GY402209
+600348,Precor Treadmill 980,0,broken,GY286940
+600349,PowerBlock Dumbbell Set 371,4,fix,GY690767
+600350,Yes4All Dumbbell Set 638,10,normal,GY820447
+600351,Hammer Strength Cable Machine 339,7,normal,GY168712
+600352,TheraBand Resistance Bands 194,30,normal,GY811259
+600353,Rogue Kettlebell 412,20,normal,GY392142
+600354,Rogue Barbell 883,8,normal,GY151081
+600355,Kettlebell Kings Kettlebell 102,14,normal,GY745311
+600356,CAP Kettlebell 120,24,normal,GY366005
+600357,TechnoGym Treadmill 252,9,normal,GY732536
+600358,Concept2 Rowing Machine 650,0,broken,GY285430
+600359,Precor Treadmill 922,14,normal,GY620487
+600360,Eleiko Barbell 656,8,normal,GY137870
+600361,Hammer Strength Cable Machine 418,10,normal,GY524878
+600362,Rogue Barbell 926,6,normal,GY674477
+600363,Ivanko Barbell 803,5,normal,GY571263
+600364,Cybex Cable Machine 849,7,fix,GY293326
+600365,Fit Simplify Resistance Bands 840,10,normal,GY301352
+600366,Eleiko Barbell 842,7,normal,GY069721
+600367,Rogue Barbell 979,7,normal,GY854734
+600368,PowerBlock Dumbbell Set 214,9,normal,GY270890
+600369,Hammer Strength Cable Machine 546,7,normal,GY270890
+600370,Life Fitness Cable Machine 548,6,normal,GY621809
+600371,PowerBlock Dumbbell Set 841,7,normal,GY956299
+600372,Valeo Medicine Ball 145,13,fix,GY320116
+600373,Yes4All Dumbbell Set 776,10,fix,GY039784
+600374,Kettlebell Kings Kettlebell 481,20,normal,GY954291
+600375,Bowflex Dumbbell Set 298,4,normal,GY681531
+600376,Concept2 Rowing Machine 675,6,normal,GY873043
+600377,TheraBand Resistance Bands 961,22,fix,GY161336
+600378,Manduka Yoga Mat 135,30,normal,GY788302
+600379,Cybex Cable Machine 573,9,normal,GY324747
+600380,Fit Simplify Resistance Bands 691,24,normal,GY091593
+600381,CAP Kettlebell 522,28,normal,GY861583
+600382,Matrix Elliptical 636,15,normal,GY320116
+600383,Dynamax Medicine Ball 826,21,normal,GY577267
+600384,Peloton Stationary Bike 464,13,normal,GY436106
+600385,Gaiam Yoga Mat 497,0,broken,GY087761
+600386,Rogue Weight Bench 264,5,normal,GY325707
+600387,Eleiko Barbell 763,8,normal,GY380402
+600388,WODFitters Resistance Bands 631,15,normal,GY293326
+600389,ProForm Elliptical 751,12,normal,GY582944
+600390,TheraBand Resistance Bands 723,25,normal,GY743300
+600391,Rogue Kettlebell 903,17,normal,GY145654
+600392,Life Fitness Treadmill 331,11,normal,GY525339
+600393,Matrix Elliptical 997,8,fix,GY080718
+600394,WODFitters Resistance Bands 866,28,normal,GY642724
+600395,Ivanko Barbell 104,3,normal,GY495596
+600396,Eleiko Barbell 388,9,normal,GY123898
+600397,Peloton Stationary Bike 724,5,normal,GY544503
+600398,Yes4All Dumbbell Set 678,9,normal,GY301559
+600399,CAP Kettlebell 281,10,normal,GY231870
+600400,NordicTrack Elliptical 358,8,normal,GY023250
+600401,Manduka Yoga Mat 943,24,normal,GY220250
+600402,Keiser Stationary Bike 641,5,normal,GY692370
+600403,TheraBand Resistance Bands 724,14,normal,GY311348
+600404,Bowflex Dumbbell Set 498,8,fix,GY978564
+600405,WODFitters Resistance Bands 828,26,normal,GY814424
+600406,Concept2 Rowing Machine 145,6,normal,GY814325
+600407,Rogue Barbell 396,4,normal,GY069721
+600408,Concept2 Rowing Machine 740,13,normal,GY147429
+600409,NordicTrack Elliptical 966,14,normal,GY256065
+600410,Kettlebell Kings Kettlebell 581,29,fix,GY421169
+600411,Rogue Barbell 789,7,normal,GY167439
+600412,Dynamax Medicine Ball 346,23,fix,GY106685
+600413,Hammer Strength Cable Machine 550,3,normal,GY507471
+600414,Dynamax Medicine Ball 510,13,normal,GY045514
+600415,Body-Solid Weight Bench 399,5,fix,GY475709
+600416,CAP Weight Bench 480,9,normal,GY147429
+600417,Concept2 Rowing Machine 686,13,normal,GY069721
+600418,Manduka Yoga Mat 904,12,normal,GY703185
+600419,NordicTrack Elliptical 385,11,normal,GY114249
+600420,Rogue Barbell 618,10,normal,GY612381
+600421,Matrix Elliptical 838,9,normal,GY814424
+600422,Kettlebell Kings Kettlebell 951,15,normal,GY259520
+600423,Manduka Yoga Mat 549,21,normal,GY937906
+600424,ProForm Elliptical 486,10,normal,GY954291
+600425,TheraBand Resistance Bands 106,10,fix,GY421037
+600426,Ivanko Barbell 963,3,normal,GY544467
+600427,Precor Treadmill 953,6,normal,GY254611
+600428,TheraBand Resistance Bands 423,17,normal,GY745311
+600429,Manduka Yoga Mat 313,24,normal,GY715327
+600430,Bowflex Dumbbell Set 383,4,normal,GY139035
+600431,Fit Simplify Resistance Bands 136,15,normal,GY684131
+600432,Rogue Barbell 583,4,fix,GY170656
+600433,PowerBlock Dumbbell Set 867,0,broken,GY707924
+600434,Ivanko Barbell 697,10,normal,GY286940
+600435,Rogue Weight Bench 766,9,fix,GY841954
+600436,Body-Solid Weight Bench 682,4,normal,GY147429
+600437,Fit Simplify Resistance Bands 945,14,normal,GY895647
+600438,Manduka Yoga Mat 943,30,normal,GY784078
+600439,Valeo Medicine Ball 172,27,fix,GY339848
+600440,Schwinn Stationary Bike 720,0,broken,GY841872
+600441,ProForm Elliptical 886,13,fix,GY212122
+600442,Bowflex Dumbbell Set 993,10,normal,GY417452
+600443,Peloton Stationary Bike 296,11,normal,GY471700
+600444,Manduka Yoga Mat 730,25,normal,GY240005
+600445,Life Fitness Treadmill 663,14,normal,GY387831
+600446,Peloton Stationary Bike 389,14,normal,GY040202
+600447,Concept2 Rowing Machine 314,14,normal,GY206862
+600448,Kettlebell Kings Kettlebell 673,13,normal,GY281837
+600449,PowerBlock Dumbbell Set 361,3,normal,GY086594
+600450,Cybex Cable Machine 824,9,normal,GY086401
+600451,NordicTrack Elliptical 609,14,fix,GY494364
+600452,Dynamax Medicine Ball 919,0,broken,GY124284
+600453,Life Fitness Treadmill 720,11,normal,GY841954
+600454,Rogue Weight Bench 267,5,normal,GY180063
+600455,Life Fitness Cable Machine 195,4,normal,GY368836
+600456,Lululemon Yoga Mat 623,17,fix,GY954342
+600457,Concept2 Rowing Machine 159,7,normal,GY937518
+600458,Keiser Stationary Bike 218,9,normal,GY249557
+600459,SKLZ Medicine Ball 374,24,normal,GY305883
+600460,ProForm Elliptical 376,0,broken,GY398592
+600461,Rogue Barbell 501,7,normal,GY632224
+600462,Lululemon Yoga Mat 383,29,normal,GY233873
+600463,Fit Simplify Resistance Bands 286,28,normal,GY251523
+600464,Hammer Strength Cable Machine 613,7,normal,GY996706
+600465,Rogue Barbell 268,7,normal,GY421169
+600466,SKLZ Medicine Ball 485,25,normal,GY997519
+600467,Manduka Yoga Mat 637,13,fix,GY766786
+600468,CAP Weight Bench 752,8,normal,GY347198
+600469,WODFitters Resistance Bands 164,16,fix,GY209197
+600470,Matrix Elliptical 948,9,normal,GY328750
+600471,Schwinn Stationary Bike 335,12,normal,GY996027
+600472,Rogue Barbell 472,5,normal,GY690767
+600473,Gaiam Yoga Mat 665,23,normal,GY595334
+600474,Gaiam Yoga Mat 798,11,normal,GY045760
+600475,Rogue Barbell 437,8,fix,GY062267
+600476,Bowflex Dumbbell Set 737,5,normal,GY425016
+600477,TheraBand Resistance Bands 627,21,normal,GY347198
+600478,TechnoGym Treadmill 905,0,broken,GY788302
+600479,Ivanko Barbell 886,6,fix,GY101318
+600480,Matrix Elliptical 155,12,normal,GY861980
+600481,CAP Weight Bench 275,0,broken,GY908649
+600482,Body-Solid Weight Bench 896,9,normal,GY089276
+600483,Lululemon Yoga Mat 624,21,normal,GY708418
+600484,WODFitters Resistance Bands 322,15,normal,GY141350
+600485,Eleiko Barbell 714,8,normal,GY277631
+600486,Dynamax Medicine Ball 749,14,normal,GY135973
+600487,Rogue Barbell 277,3,normal,GY170656
+600488,Kettlebell Kings Kettlebell 171,24,normal,GY833621
+600489,Gaiam Yoga Mat 274,21,normal,GY305280
+600490,Life Fitness Treadmill 814,10,normal,GY326104
+600491,PowerBlock Dumbbell Set 674,8,normal,GY289917
+600492,Bowflex Dumbbell Set 946,3,normal,GY721727
+600493,Peloton Stationary Bike 267,14,normal,GY239292
+600494,Dynamax Medicine Ball 936,13,normal,GY312919
+600495,Ivanko Barbell 834,5,normal,GY504745
+600496,Concept2 Rowing Machine 682,9,normal,GY293326
+600497,Fit Simplify Resistance Bands 680,16,fix,GY632224
+600498,Rogue Kettlebell 135,10,normal,GY488844
+600499,SKLZ Medicine Ball 287,25,normal,GY061415
+600500,CAP Weight Bench 719,3,normal,GY260254
+600501,Fit Simplify Resistance Bands 756,12,normal,GY259152
+600502,WODFitters Resistance Bands 374,16,normal,GY713574
+600503,Valeo Medicine Ball 122,22,normal,GY561808
+600504,Kettlebell Kings Kettlebell 893,28,fix,GY387831
+600505,Life Fitness Treadmill 158,12,normal,GY063283
+600506,Life Fitness Treadmill 643,13,normal,GY251108
+600507,Body-Solid Weight Bench 894,4,fix,GY328750
+600508,Lululemon Yoga Mat 518,22,normal,GY180063
+600509,Kettlebell Kings Kettlebell 977,23,fix,GY650332
+600510,TheraBand Resistance Bands 886,21,fix,GY202084
+600511,CAP Kettlebell 461,18,normal,GY634522
+600512,Concept2 Rowing Machine 461,14,normal,GY119378
+600513,Concept2 Rowing Machine 129,12,normal,GY112850
+600514,Precor Treadmill 418,15,fix,GY226202
+600515,CAP Weight Bench 138,6,normal,GY827170
+600516,Cybex Cable Machine 357,5,normal,GY588204
+600517,Kettlebell Kings Kettlebell 368,23,normal,GY405450
+600518,Schwinn Stationary Bike 108,12,normal,GY796570
+600519,Concept2 Rowing Machine 678,14,normal,GY930069
+600520,Rogue Weight Bench 822,3,normal,GY482128
+600521,Life Fitness Cable Machine 837,5,normal,GY133366
+600522,Schwinn Stationary Bike 629,12,fix,GY771938
+600523,PowerBlock Dumbbell Set 179,8,normal,GY540469
+600524,Bowflex Dumbbell Set 451,5,normal,GY579507
+600525,Gaiam Yoga Mat 719,12,fix,GY137587
+600526,NordicTrack Elliptical 476,0,broken,GY699570
+600527,Ivanko Barbell 989,3,normal,GY988846
+600528,CAP Kettlebell 701,24,normal,GY419404
+600529,SKLZ Medicine Ball 578,22,normal,GY853432
+600530,Matrix Elliptical 454,6,normal,GY254611
+600531,Valeo Medicine Ball 247,22,normal,GY509448
+600532,Cybex Cable Machine 392,4,normal,GY141350
+600533,Lululemon Yoga Mat 233,16,normal,GY495596
+600534,Bowflex Dumbbell Set 860,7,normal,GY525339
+600535,PowerBlock Dumbbell Set 213,4,normal,GY620487
+600536,Kettlebell Kings Kettlebell 368,17,normal,GY091593
+600537,Concept2 Rowing Machine 250,10,normal,GY975912
+600538,CAP Kettlebell 673,15,normal,GY106685
+600539,Life Fitness Cable Machine 223,9,normal,GY713574
+600540,Yes4All Dumbbell Set 562,9,normal,GY021749
+600541,Hammer Strength Cable Machine 375,10,fix,GY814424
+600542,Gaiam Yoga Mat 721,12,normal,GY086594
+600543,Schwinn Stationary Bike 887,13,normal,GY959431
+600544,Concept2 Rowing Machine 450,11,normal,GY011071
+600545,Concept2 Rowing Machine 411,8,normal,GY710610
+600546,CAP Kettlebell 828,18,normal,GY779605
+600547,Eleiko Barbell 224,8,normal,GY608847
+600548,Manduka Yoga Mat 885,23,normal,GY833621
+600549,Valeo Medicine Ball 599,30,normal,GY608812
+600550,Fit Simplify Resistance Bands 818,16,normal,GY325707
+600551,Precor Treadmill 666,6,normal,GY634522
+600552,Lululemon Yoga Mat 733,20,normal,GY347198
+600553,Fit Simplify Resistance Bands 164,18,normal,GY637616
+600554,Peloton Stationary Bike 235,8,normal,GY683723
+600555,Rogue Barbell 682,8,normal,GY952195
+600556,PowerBlock Dumbbell Set 449,6,normal,GY141350
+600557,Rogue Weight Bench 101,10,normal,GY587184
+600558,Peloton Stationary Bike 327,12,normal,GY678177
+600559,Hammer Strength Cable Machine 653,8,normal,GY194812
+600560,Yes4All Dumbbell Set 319,5,normal,GY549381
+600561,TechnoGym Treadmill 268,6,normal,GY973474
+600562,Concept2 Rowing Machine 408,7,normal,GY027076
+600563,NordicTrack Elliptical 880,13,normal,GY937906
+600564,Concept2 Rowing Machine 793,10,normal,GY841872
+600565,Bowflex Dumbbell Set 340,8,normal,GY799431
+600566,Life Fitness Cable Machine 356,6,normal,GY732806
+600567,TechnoGym Treadmill 331,8,normal,GY123898
+600568,CAP Weight Bench 375,4,normal,GY011071
+600569,Cybex Cable Machine 172,9,normal,GY652441
+600570,Matrix Elliptical 450,6,normal,GY060762
+600571,CAP Weight Bench 663,4,normal,GY684131
+600572,Gaiam Yoga Mat 283,17,normal,GY506643
+600573,Kettlebell Kings Kettlebell 591,29,normal,GY675998
+600574,Life Fitness Treadmill 297,11,normal,GY078698
+600575,Bowflex Dumbbell Set 909,8,normal,GY707780
+600576,Schwinn Stationary Bike 110,14,normal,GY733070
+600577,TheraBand Resistance Bands 148,13,normal,GY940224
+600578,Keiser Stationary Bike 978,7,normal,GY556759
+600579,Rogue Weight Bench 174,3,normal,GY688583
+600580,Dynamax Medicine Ball 668,21,normal,GY431166
+600581,TechnoGym Treadmill 891,13,normal,GY477479
+600582,Kettlebell Kings Kettlebell 700,15,normal,GY482128
+600583,ProForm Elliptical 721,15,normal,GY853432
+600584,Ivanko Barbell 534,3,normal,GY956299
+600585,WODFitters Resistance Bands 776,28,normal,GY640708
+600586,Rogue Weight Bench 355,7,normal,GY507597
+600587,Schwinn Stationary Bike 421,12,normal,GY544467
+600588,Hammer Strength Cable Machine 804,5,fix,GY873043
+600589,Life Fitness Treadmill 186,14,normal,GY504745
+600590,Cybex Cable Machine 127,6,normal,GY103551
+600591,CAP Weight Bench 298,6,normal,GY758586
+600592,Rogue Kettlebell 805,17,normal,GY802639
+600593,TheraBand Resistance Bands 108,22,normal,GY544467
+600594,Valeo Medicine Ball 481,14,fix,GY170656
+600595,Hammer Strength Cable Machine 676,10,normal,GY709624
+600596,Matrix Elliptical 485,14,normal,GY978564
+600597,NordicTrack Elliptical 524,9,normal,GY692370
+600598,Ivanko Barbell 767,6,normal,GY802639
+600599,Keiser Stationary Bike 210,5,normal,GY151081
+600600,Hammer Strength Cable Machine 792,3,normal,GY614482
+600601,Keiser Stationary Bike 925,8,normal,GY982916
+600602,Matrix Elliptical 238,14,fix,GY895647
+600603,PowerBlock Dumbbell Set 260,4,normal,GY211095
+600604,Concept2 Rowing Machine 352,0,broken,GY037481
+600605,SKLZ Medicine Ball 658,13,normal,GY212081
+600606,TechnoGym Treadmill 140,6,normal,GY106685
+600607,Schwinn Stationary Bike 117,7,normal,GY766786
+600608,Schwinn Stationary Bike 794,6,normal,GY324747
+600609,Life Fitness Treadmill 950,13,fix,GY640708
+600610,WODFitters Resistance Bands 362,21,normal,GY984907
+600611,Matrix Elliptical 666,10,normal,GY930378
+600612,WODFitters Resistance Bands 553,25,normal,GY668198
+600613,ProForm Elliptical 909,6,normal,GY791312
+600614,TheraBand Resistance Bands 265,11,normal,GY429615
+600615,ProForm Elliptical 598,10,normal,GY974363
+600616,PowerBlock Dumbbell Set 348,6,normal,GY281837
+600617,CAP Weight Bench 190,6,fix,GY598004
+600618,Hammer Strength Cable Machine 159,4,normal,GY961403
+600619,CAP Weight Bench 967,3,normal,GY646108
+600620,Rogue Weight Bench 204,4,normal,GY833621
+600621,Rogue Weight Bench 542,4,fix,GY055830
+600622,Ivanko Barbell 963,3,normal,GY546544
+600623,Body-Solid Weight Bench 116,5,normal,GY620487
+600624,NordicTrack Elliptical 377,12,fix,GY606566
+600625,TechnoGym Treadmill 306,14,fix,GY597157
+600626,TechnoGym Treadmill 806,9,normal,GY943983
+600627,Rogue Kettlebell 705,27,normal,GY885593
+600628,Kettlebell Kings Kettlebell 375,0,broken,GY807195
+600629,Rogue Kettlebell 652,18,fix,GY691039
+600630,Concept2 Rowing Machine 699,8,normal,GY775302
+600631,Dynamax Medicine Ball 113,10,fix,GY540469
+600632,Peloton Stationary Bike 251,14,fix,GY721727
+600633,NordicTrack Elliptical 604,12,normal,GY421037
+600634,CAP Kettlebell 707,25,normal,GY600744
+600635,Hammer Strength Cable Machine 968,6,normal,GY867762
+600636,CAP Weight Bench 590,9,normal,GY781273
+600637,Rogue Barbell 852,7,normal,GY571749
+600638,Concept2 Rowing Machine 473,12,normal,GY632517
+600639,Ivanko Barbell 612,8,normal,GY376815
+600640,Keiser Stationary Bike 654,10,normal,GY384360
+600641,Matrix Elliptical 159,7,normal,GY554748
+600642,Cybex Cable Machine 682,7,normal,GY626194
+600643,PowerBlock Dumbbell Set 339,10,normal,GY615691
+600644,PowerBlock Dumbbell Set 999,4,normal,GY956610
+600645,Rogue Weight Bench 247,5,normal,GY165607
+600646,Yes4All Dumbbell Set 484,0,broken,GY954342
+600647,Yes4All Dumbbell Set 849,9,normal,GY775691
+600648,Yes4All Dumbbell Set 124,4,normal,GY133366
+600649,TechnoGym Treadmill 332,14,normal,GY559623
+600650,Valeo Medicine Ball 934,27,normal,GY110573
+600651,Bowflex Dumbbell Set 353,10,normal,GY509448
+600652,Rogue Kettlebell 793,21,normal,GY956299
+600653,Manduka Yoga Mat 494,17,normal,GY427955
+600654,Lululemon Yoga Mat 562,29,normal,GY544503
+600655,Rogue Barbell 620,7,normal,GY579507
+600656,CAP Kettlebell 692,27,normal,GY775691
+600657,Gaiam Yoga Mat 522,22,fix,GY086394
+600658,Valeo Medicine Ball 117,29,normal,GY062267
+600659,CAP Weight Bench 577,7,normal,GY732019
+600660,Keiser Stationary Bike 396,7,normal,GY226202
+600661,Rogue Kettlebell 452,26,normal,GY598004
+600662,Kettlebell Kings Kettlebell 305,12,normal,GY301352
+600663,Bowflex Dumbbell Set 539,6,normal,GY600577
+600664,WODFitters Resistance Bands 267,0,broken,GY795903
+600665,Rogue Barbell 104,10,normal,GY436106
+600666,Kettlebell Kings Kettlebell 477,28,normal,GY311348
+600667,Precor Treadmill 828,9,normal,GY608812
+600668,Eleiko Barbell 753,6,normal,GY259085
+600669,Life Fitness Cable Machine 187,4,fix,GY380402
+600670,Cybex Cable Machine 113,4,normal,GY588204
+600671,Lululemon Yoga Mat 917,23,normal,GY201323
+600672,TheraBand Resistance Bands 641,18,fix,GY270030
+600673,Matrix Elliptical 318,8,normal,GY347198
+600674,Concept2 Rowing Machine 246,6,normal,GY733921
+600675,Kettlebell Kings Kettlebell 222,30,normal,GY209197
+600676,NordicTrack Elliptical 275,15,normal,GY571749
+600677,Dynamax Medicine Ball 200,22,normal,GY482096
+600678,Manduka Yoga Mat 533,22,normal,GY312544
+600679,Yes4All Dumbbell Set 936,9,normal,GY565952
+600680,Kettlebell Kings Kettlebell 903,14,normal,GY169777
+600681,Matrix Elliptical 831,12,normal,GY868073
+600682,Life Fitness Cable Machine 593,3,normal,GY854734
+600683,Dynamax Medicine Ball 217,26,normal,GY199656
+600684,Dynamax Medicine Ball 106,16,normal,GY796570
+600685,Eleiko Barbell 376,8,normal,GY621789
+600686,Schwinn Stationary Bike 343,13,normal,GY528607
+600687,Kettlebell Kings Kettlebell 218,11,normal,GY037481
+600688,Body-Solid Weight Bench 956,5,normal,GY982916
+600689,CAP Weight Bench 370,6,normal,GY784078
+600690,Life Fitness Treadmill 329,6,normal,GY301352
+600691,Eleiko Barbell 427,3,fix,GY281837
+600692,CAP Kettlebell 110,10,normal,GY756830
+600693,Concept2 Rowing Machine 986,10,fix,GY779605
+600694,ProForm Elliptical 533,6,normal,GY529155
+600695,Eleiko Barbell 425,3,normal,GY796508
+600696,Matrix Elliptical 297,11,normal,GY802639
+600697,SKLZ Medicine Ball 604,18,normal,GY087761
+600698,Kettlebell Kings Kettlebell 684,11,normal,GY988846
+600699,Peloton Stationary Bike 818,13,normal,GY106685
+600700,Concept2 Rowing Machine 829,8,normal,GY703185
+600701,Gaiam Yoga Mat 372,19,normal,GY488844
+600702,Lululemon Yoga Mat 911,15,normal,GY325707
+600703,Life Fitness Treadmill 414,8,normal,GY646108
+600704,TheraBand Resistance Bands 429,28,normal,GY608847
+600705,TechnoGym Treadmill 690,15,normal,GY079302
+600706,Precor Treadmill 252,14,normal,GY122007
+600707,Lululemon Yoga Mat 152,16,normal,GY658160
+600708,ProForm Elliptical 456,12,fix,GY575673
+600709,Dynamax Medicine Ball 728,18,normal,GY507597
+600710,Lululemon Yoga Mat 965,12,normal,GY211147
+600711,NordicTrack Elliptical 644,5,fix,GY803163
+600712,Manduka Yoga Mat 128,16,normal,GY129628
+600713,SKLZ Medicine Ball 742,19,fix,GY595334
+600714,Lululemon Yoga Mat 532,12,normal,GY254611
+600715,Lululemon Yoga Mat 290,20,normal,GY331160
+600716,Yes4All Dumbbell Set 781,7,normal,GY654455
+600717,PowerBlock Dumbbell Set 192,0,broken,GY867762
+600718,Precor Treadmill 197,9,fix,GY814325
+600719,Yes4All Dumbbell Set 685,3,normal,GY632517
+600720,Kettlebell Kings Kettlebell 459,21,normal,GY096554
+600721,Life Fitness Cable Machine 134,9,normal,GY241044
+600722,Rogue Kettlebell 162,20,normal,GY324747
+600723,Valeo Medicine Ball 341,20,fix,GY154640
+600724,WODFitters Resistance Bands 823,14,normal,GY332861
+600725,Concept2 Rowing Machine 224,5,normal,GY908432
+600726,Yes4All Dumbbell Set 699,5,fix,GY758586
+600727,Fit Simplify Resistance Bands 363,15,normal,GY733070
+600728,Yes4All Dumbbell Set 923,4,normal,GY745311
+600729,Concept2 Rowing Machine 576,12,fix,GY529155
+600730,Keiser Stationary Bike 416,9,normal,GY037481
+600731,TheraBand Resistance Bands 872,18,normal,GY037481
+600732,Dynamax Medicine Ball 776,20,normal,GY239292
+600733,Bowflex Dumbbell Set 634,4,fix,GY442600
+600734,Valeo Medicine Ball 280,29,normal,GY078698
+600735,Manduka Yoga Mat 666,12,fix,GY378247
+600736,Schwinn Stationary Bike 417,14,normal,GY422392
+600737,CAP Kettlebell 652,20,normal,GY270890
+600738,Keiser Stationary Bike 843,15,normal,GY254611
+600739,CAP Weight Bench 492,3,normal,GY953190
+600740,Keiser Stationary Bike 938,7,normal,GY170837
+600741,TechnoGym Treadmill 215,15,normal,GY504745
+600742,Valeo Medicine Ball 660,11,normal,GY868073
+600743,Kettlebell Kings Kettlebell 155,30,normal,GY640289
+600744,Concept2 Rowing Machine 764,12,normal,GY325013
+600745,Kettlebell Kings Kettlebell 129,16,normal,GY347198
+600746,NordicTrack Elliptical 253,8,normal,GY040202
+600747,SKLZ Medicine Ball 437,25,normal,GY119378
+600748,Cybex Cable Machine 306,8,normal,GY668198
+600749,Concept2 Rowing Machine 542,5,normal,GY510299
+600750,WODFitters Resistance Bands 194,14,normal,GY694611
+600751,Life Fitness Cable Machine 704,3,normal,GY005722
+600752,TechnoGym Treadmill 853,14,normal,GY122128
+600753,Manduka Yoga Mat 702,11,normal,GY054577
+600754,TheraBand Resistance Bands 611,17,normal,GY930069
+600755,Schwinn Stationary Bike 103,14,normal,GY732773
+600756,Lululemon Yoga Mat 403,27,normal,GY436106
+600757,Life Fitness Treadmill 960,14,normal,GY303560
+600758,ProForm Elliptical 642,11,normal,GY023250
+600759,CAP Weight Bench 454,7,normal,GY438587
+600760,CAP Weight Bench 395,9,normal,GY529155
+600761,Schwinn Stationary Bike 424,11,normal,GY853432
+600762,TechnoGym Treadmill 247,0,broken,GY168712
+600763,WODFitters Resistance Bands 428,18,normal,GY854734
+600764,CAP Weight Bench 472,4,normal,GY419404
+600765,Life Fitness Treadmill 778,6,normal,GY325707
+600766,Rogue Kettlebell 442,22,fix,GY513307
+600767,Body-Solid Weight Bench 790,9,normal,GY733070
+600768,Rogue Barbell 478,9,normal,GY683723
+600769,Keiser Stationary Bike 995,11,normal,GY398592
+600770,SKLZ Medicine Ball 246,11,normal,GY490481
+600771,ProForm Elliptical 585,11,normal,GY723470
+600772,CAP Kettlebell 144,26,normal,GY825514
+600773,Fit Simplify Resistance Bands 548,10,normal,GY257988
+600774,CAP Kettlebell 995,19,fix,GY374192
+600775,Keiser Stationary Bike 883,12,normal,GY405450
+600776,Keiser Stationary Bike 288,13,normal,GY466402
+600777,Dynamax Medicine Ball 927,14,normal,GY858824
+600778,Rogue Kettlebell 433,10,normal,GY135973
+600779,SKLZ Medicine Ball 134,27,normal,GY588204
+600780,Manduka Yoga Mat 223,13,normal,GY442600
+600781,Manduka Yoga Mat 323,19,fix,GY703805
+600782,TechnoGym Treadmill 180,6,normal,GY209197
+600783,Concept2 Rowing Machine 433,7,normal,GY647811
+600784,Concept2 Rowing Machine 333,15,normal,GY079513
+600785,Concept2 Rowing Machine 255,8,normal,GY215387
+600786,Eleiko Barbell 382,6,normal,GY030844
+600787,ProForm Elliptical 362,6,normal,GY482128
+600788,Concept2 Rowing Machine 462,14,normal,GY402209
+600789,Concept2 Rowing Machine 221,7,normal,GY956610
+600790,Keiser Stationary Bike 557,8,normal,GY259520
+600791,Cybex Cable Machine 737,10,fix,GY449289
+600792,Matrix Elliptical 195,13,normal,GY997519
+600793,Manduka Yoga Mat 873,24,normal,GY895647
+600794,Matrix Elliptical 796,12,normal,GY809175
+600795,NordicTrack Elliptical 730,5,normal,GY137587
+600796,Life Fitness Cable Machine 878,6,normal,GY775691
+600797,Lululemon Yoga Mat 641,27,normal,GY194071
+600798,Gaiam Yoga Mat 627,14,normal,GY133366
+600799,Keiser Stationary Bike 259,6,normal,GY246100
+600800,Precor Treadmill 585,9,normal,GY908649
+600801,Peloton Stationary Bike 140,12,normal,GY749810
+600802,Manduka Yoga Mat 882,16,normal,GY401247
+600803,Eleiko Barbell 609,4,fix,GY036580
+600804,Dynamax Medicine Ball 349,22,fix,GY257988
+600805,Rogue Kettlebell 574,11,normal,GY507471
+600806,Peloton Stationary Bike 976,7,normal,GY894831
+600807,ProForm Elliptical 198,8,normal,GY621789
+600808,Life Fitness Treadmill 183,15,fix,GY514730
+600809,Schwinn Stationary Bike 348,9,normal,GY908432
+600810,TheraBand Resistance Bands 647,15,normal,GY654324
+600811,Hammer Strength Cable Machine 448,8,normal,GY780846
+600812,Rogue Barbell 677,5,normal,GY707924
+600813,CAP Kettlebell 789,27,normal,GY868073
+600814,Concept2 Rowing Machine 664,13,normal,GY145693
+600815,Gaiam Yoga Mat 878,18,normal,GY626194
+600816,Matrix Elliptical 578,7,normal,GY784078
+600817,Lululemon Yoga Mat 372,22,normal,GY827170
+600818,Body-Solid Weight Bench 779,6,normal,GY626194
+600819,Rogue Barbell 273,5,normal,GY448837
+600820,Concept2 Rowing Machine 866,12,normal,GY448837
+600821,Life Fitness Treadmill 850,12,normal,GY119378
+600822,Rogue Weight Bench 465,6,normal,GY320116
+600823,Cybex Cable Machine 505,3,fix,GY011071
+600824,Life Fitness Treadmill 332,11,normal,GY285430
+600825,CAP Weight Bench 799,6,normal,GY652441
+600826,WODFitters Resistance Bands 275,22,normal,GY211147
+600827,CAP Weight Bench 963,3,fix,GY587184
+600828,Cybex Cable Machine 954,6,normal,GY939135
+600829,Eleiko Barbell 461,10,normal,GY530688
+600830,Precor Treadmill 603,10,normal,GY807355
+600831,Eleiko Barbell 374,9,normal,GY868653
+600832,Fit Simplify Resistance Bands 252,11,normal,GY701189
+600833,Keiser Stationary Bike 728,10,fix,GY600577
+600834,Life Fitness Cable Machine 863,4,normal,GY855611
+600835,Hammer Strength Cable Machine 372,6,normal,GY387831
+600836,Schwinn Stationary Bike 153,6,fix,GY703185
+600837,CAP Weight Bench 812,5,normal,GY579507
+600838,TheraBand Resistance Bands 121,25,fix,GY688607
+600839,CAP Weight Bench 554,9,normal,GY709586
+600840,WODFitters Resistance Bands 813,28,normal,GY621789
+600841,Gaiam Yoga Mat 414,28,normal,GY180063
+600842,Eleiko Barbell 159,10,normal,GY510299
+600843,Precor Treadmill 308,10,fix,GY604256
+600844,Yes4All Dumbbell Set 280,5,normal,GY707924
+600845,Rogue Weight Bench 745,6,normal,GY080718
+600846,CAP Kettlebell 530,22,normal,GY616460
+600847,Life Fitness Cable Machine 876,9,normal,GY168712
+600848,Hammer Strength Cable Machine 291,8,normal,GY854734
+600849,Concept2 Rowing Machine 485,11,normal,GY494364
+600850,Yes4All Dumbbell Set 787,8,normal,GY180063
+600851,TechnoGym Treadmill 888,11,normal,GY124284
+600852,Eleiko Barbell 594,9,normal,GY087761
+600853,TheraBand Resistance Bands 891,30,normal,GY153386
+600854,Lululemon Yoga Mat 408,19,normal,GY145654
+600855,Peloton Stationary Bike 673,11,normal,GY435333
+600856,Rogue Weight Bench 356,6,normal,GY376130
+600857,WODFitters Resistance Bands 506,11,normal,GY090479
+600858,Rogue Weight Bench 777,8,normal,GY040202
+600859,WODFitters Resistance Bands 191,13,normal,GY640289
+600860,Peloton Stationary Bike 355,9,normal,GY211147
+600861,Keiser Stationary Bike 279,10,normal,GY037481
+600862,Dynamax Medicine Ball 122,18,normal,GY707780
+600863,CAP Weight Bench 526,5,normal,GY055813
+600864,Dynamax Medicine Ball 391,29,normal,GY732806
+600865,Rogue Kettlebell 846,25,normal,GY976979
+600866,WODFitters Resistance Bands 768,28,normal,GY122128
+600867,Precor Treadmill 898,11,normal,GY795903
+600868,WODFitters Resistance Bands 910,18,fix,GY249557
+600869,Lululemon Yoga Mat 406,16,normal,GY442600
+600870,CAP Kettlebell 577,22,normal,GY122007
+600871,Concept2 Rowing Machine 288,10,normal,GY270890
+600872,Peloton Stationary Bike 356,15,normal,GY525339
+600873,Ivanko Barbell 582,10,normal,GY153386
+600874,NordicTrack Elliptical 942,7,normal,GY810229
+600875,Ivanko Barbell 782,10,normal,GY938900
+600876,Peloton Stationary Bike 766,9,normal,GY807195
+600877,Schwinn Stationary Bike 159,5,normal,GY325707
+600878,Schwinn Stationary Bike 194,12,normal,GY137870
+600879,Life Fitness Cable Machine 155,6,normal,GY471700
+600880,TheraBand Resistance Bands 188,29,normal,GY211095
+600881,Cybex Cable Machine 318,10,normal,GY707780
+600882,Eleiko Barbell 212,7,normal,GY861980
+600883,Kettlebell Kings Kettlebell 291,27,normal,GY045760
+600884,Precor Treadmill 963,11,normal,GY954291
+600885,Life Fitness Cable Machine 127,9,fix,GY154640
+600886,Yes4All Dumbbell Set 832,3,normal,GY861583
+600887,Keiser Stationary Bike 500,12,normal,GY012784
+600888,Yes4All Dumbbell Set 619,10,normal,GY833621
+600889,PowerBlock Dumbbell Set 645,5,normal,GY471700
+600890,Bowflex Dumbbell Set 422,8,normal,GY885593
+600891,CAP Kettlebell 748,10,normal,GY540469
+600892,Cybex Cable Machine 378,4,normal,GY814325
+600893,Fit Simplify Resistance Bands 271,26,normal,GY026940
+600894,Cybex Cable Machine 491,10,normal,GY937518
+600895,PowerBlock Dumbbell Set 859,10,normal,GY257988
+600896,Kettlebell Kings Kettlebell 749,18,normal,GY380402
+600897,Manduka Yoga Mat 265,27,fix,GY165607
+600898,Hammer Strength Cable Machine 930,4,normal,GY011071
+600899,Cybex Cable Machine 193,5,normal,GY506643
+600900,CAP Weight Bench 771,4,fix,GY339848
+600901,SKLZ Medicine Ball 729,27,normal,GY544503
+600902,Concept2 Rowing Machine 760,7,normal,GY303560
+600903,Valeo Medicine Ball 698,29,normal,GY270030
+600904,TechnoGym Treadmill 955,9,normal,GY571263
+600905,Keiser Stationary Bike 256,7,normal,GY499491
+600906,TheraBand Resistance Bands 351,27,normal,GY802639
+600907,NordicTrack Elliptical 440,11,normal,GY417452
+600908,TheraBand Resistance Bands 665,10,normal,GY784279
+600909,Matrix Elliptical 325,6,normal,GY953190
+600910,Life Fitness Treadmill 991,13,normal,GY561808
+600911,PowerBlock Dumbbell Set 453,5,normal,GY145693
+600912,Rogue Barbell 366,5,normal,GY671669
+600913,Body-Solid Weight Bench 262,0,broken,GY745311
+600914,WODFitters Resistance Bands 413,12,normal,GY978564
+600915,Eleiko Barbell 380,4,normal,GY165607
+600916,PowerBlock Dumbbell Set 620,5,normal,GY469295
+600917,Fit Simplify Resistance Bands 131,14,fix,GY011071
+600918,Bowflex Dumbbell Set 744,0,broken,GY637616
+600919,TechnoGym Treadmill 729,15,normal,GY565952
+600920,Ivanko Barbell 572,3,normal,GY642724
+600921,ProForm Elliptical 496,7,normal,GY241678
+600922,Fit Simplify Resistance Bands 237,0,broken,GY827170
+600923,Precor Treadmill 265,13,normal,GY199656
+600924,Life Fitness Cable Machine 111,5,fix,GY653367
+600925,Keiser Stationary Bike 895,7,normal,GY087761
+600926,SKLZ Medicine Ball 679,23,fix,GY913040
+600927,TheraBand Resistance Bands 930,26,normal,GY732536
+600928,Manduka Yoga Mat 370,20,normal,GY546544
+600929,Eleiko Barbell 399,8,normal,GY678177
+600930,NordicTrack Elliptical 220,9,normal,GY640708
+600931,Gaiam Yoga Mat 468,25,fix,GY570730
+600932,ProForm Elliptical 942,8,fix,GY005722
+600933,WODFitters Resistance Bands 739,21,fix,GY449137
+600934,PowerBlock Dumbbell Set 654,7,fix,GY814424
+600935,NordicTrack Elliptical 219,10,normal,GY721727
+600936,Ivanko Barbell 500,3,normal,GY332861
+600937,Body-Solid Weight Bench 549,6,normal,GY668198
+600938,Cybex Cable Machine 794,7,normal,GY807195
+600939,Concept2 Rowing Machine 319,10,normal,GY726412
+600940,Body-Solid Weight Bench 220,4,normal,GY036580
+600941,ProForm Elliptical 115,10,normal,GY036580
+600942,Matrix Elliptical 403,15,normal,GY303560
+600943,Life Fitness Cable Machine 949,6,fix,GY311348
+600944,Matrix Elliptical 811,8,fix,GY055830
+600945,Life Fitness Treadmill 357,8,normal,GY431166
+600946,Peloton Stationary Bike 785,15,normal,GY112024
+600947,Matrix Elliptical 135,11,normal,GY289917
+600948,Rogue Kettlebell 861,30,normal,GY745311
+600949,Body-Solid Weight Bench 707,3,normal,GY422392
+600950,NordicTrack Elliptical 883,12,normal,GY216610
+600951,Kettlebell Kings Kettlebell 410,26,normal,GY387831
+600952,Rogue Kettlebell 886,24,normal,GY742406
+600953,Hammer Strength Cable Machine 546,3,normal,GY861980
+600954,Rogue Kettlebell 298,22,normal,GY775691
+600955,TechnoGym Treadmill 442,8,normal,GY170837
+600956,WODFitters Resistance Bands 110,11,normal,GY963557
+600957,WODFitters Resistance Bands 207,21,normal,GY715536
+600958,Ivanko Barbell 403,3,normal,GY211095
+600959,Eleiko Barbell 794,6,normal,GY529155
+600960,Yes4All Dumbbell Set 991,3,normal,GY180063
+600961,PowerBlock Dumbbell Set 391,4,normal,GY637616
+600962,Rogue Kettlebell 177,29,normal,GY214013
+600963,Rogue Barbell 664,9,normal,GY087383
+600964,Life Fitness Treadmill 166,9,normal,GY571263
+600965,ProForm Elliptical 260,7,normal,GY170837
+600966,SKLZ Medicine Ball 592,16,normal,GY833824
+600967,Fit Simplify Resistance Bands 830,11,normal,GY743300
+600968,Eleiko Barbell 650,8,normal,GY328750
+600969,Peloton Stationary Bike 577,15,normal,GY006309
+600970,Rogue Weight Bench 923,3,normal,GY671669
+600971,Eleiko Barbell 944,10,normal,GY165607
+600972,Ivanko Barbell 801,8,normal,GY293937
+600973,WODFitters Resistance Bands 505,12,normal,GY216942
+600974,Manduka Yoga Mat 679,21,normal,GY681531
+600975,Rogue Weight Bench 178,6,normal,GY890947
+600976,Concept2 Rowing Machine 178,12,normal,GY749720
+600977,Keiser Stationary Bike 721,11,normal,GY030844
+600978,NordicTrack Elliptical 255,14,normal,GY055830
+600979,Kettlebell Kings Kettlebell 676,28,fix,GY690767
+600980,TheraBand Resistance Bands 406,13,normal,GY775302
+600981,Precor Treadmill 832,9,fix,GY556759
+600982,PowerBlock Dumbbell Set 283,4,normal,GY087383
+600983,PowerBlock Dumbbell Set 264,8,normal,GY045514
+600984,NordicTrack Elliptical 612,12,normal,GY707924
+600985,Bowflex Dumbbell Set 538,0,broken,GY449137
+600986,Concept2 Rowing Machine 510,12,normal,GY242167
+600987,Lululemon Yoga Mat 425,25,normal,GY779883
+600988,SKLZ Medicine Ball 911,22,normal,GY674477
+600989,Bowflex Dumbbell Set 679,4,normal,GY482128
+600990,Concept2 Rowing Machine 740,9,normal,GY861583
+600991,Precor Treadmill 445,7,normal,GY653367
+600992,Manduka Yoga Mat 850,15,normal,GY302585
+600993,Dynamax Medicine Ball 647,15,normal,GY086401
+600994,Body-Solid Weight Bench 109,4,normal,GY216610
+600995,Life Fitness Treadmill 694,14,normal,GY267735
+600996,Rogue Weight Bench 741,7,normal,GY841872
+600997,Gaiam Yoga Mat 274,15,fix,GY867762
+600998,PowerBlock Dumbbell Set 195,7,normal,GY908649
+600999,Ivanko Barbell 213,9,normal,GY331160
