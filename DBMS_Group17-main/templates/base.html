@@ -20,26 +20,28 @@
     </button>
     <div class="collapse navbar-collapse" id="ugymNav">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('index') }}">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ url_for('courses') }}">Courses</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('course_instances') }}">Cycle Courses</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ url_for('products') }}">Products</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('lost_and_found') }}">Lost & Found</a></li>
+      
         {% if session.get('role') == 'member' %}
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('my_purchase') }}">My Purchases</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('my_purchase') }}">My Purchases</a></li>
         {% endif %}
+      
         {% if session.get('role') == 'coach' %}
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('coach_schedule') }}">Coach Schedule</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('coach_schedule') }}">Coach Schedule</a></li>
         {% endif %}
+      
         {% if session.get('role') == 'staff' or session.get('role') == 'admin' %}
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('dashboard') }}">Dashboard</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('branch_manage') }}">Branch</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('admin_manage') }}">Staff</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('equipment_manage') }}">Equipment</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('dashboard') }}">Dashboard</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('branch_manage') }}">Branch</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('admin_manage') }}">Staff</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('equipment_manage') }}">Equipment</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('course_template_manage') }}">Template Manage</a></li>
         {% endif %}
-        <!-- ... 原有代码 ... -->
-        {% if session.get('username') %}
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('lost_and_found') }}">Lost and Found</a></li>
-        {% endif %}
-        <!-- ... 原有代码 ... -->
-      </ul>
+      </ul>      
       <ul class="navbar-nav ms-auto">
         {% if session.get('username') %}
         <li class="nav-item">
