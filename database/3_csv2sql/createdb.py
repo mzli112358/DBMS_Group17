@@ -3,8 +3,9 @@ import re
 import csv
 from datetime import datetime
 
-# 全局变量：指定数据文件夹路径
-DATA_FOLDER = "./data_new"
+# 全局变量：指定数据文件夹路径和 SQL 文件路径
+DATA_FOLDER = r"database/2_data_new_0423_0108"
+CREATE_TABLE_SQL_INPUT_FILE = r"database/3_csv2sql/tables_sql.sql"  # 输入的 SQL 文件路径
 
 def parse_table_names(sql_content):
     """
@@ -77,7 +78,7 @@ def main():
     sql_file_name = f"{db_name}.sql"
     
     # 读取 tables_sql.sql 文件内容
-    with open("tables_sql.sql", "r", encoding="utf-8") as sql_file:
+    with open(CREATE_TABLE_SQL_INPUT_FILE, "r", encoding="utf-8") as sql_file:
         sql_content = sql_file.read()
     
     # 解析表名并计数

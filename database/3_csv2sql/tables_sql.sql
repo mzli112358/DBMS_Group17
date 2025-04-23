@@ -1,15 +1,3 @@
--- 删除已存在的数据库（如果存在）
-DROP DATABASE IF EXISTS gym_0423_041203;
-
--- 创建新的数据库
-CREATE DATABASE gym_0423_041203
-  DEFAULT CHARACTER SET utf8mb4
-  DEFAULT COLLATE utf8mb4_bin;
-
--- 切换到新创建的数据库
-USE gym_0423_041203;
-
-
 -- 创建 Branch 表：存储健身房分店信息
 CREATE TABLE Branch (
     branch_id INT PRIMARY KEY AUTO_INCREMENT,
