@@ -97,7 +97,7 @@ def generate_gym_data(num_records):
 
 # 生成并保存数据
 gym_df = generate_gym_data(500)
-gym_df.to_csv('gym_branches_en.csv', index=False)
+gym_df.to_csv('branch.csv', index=False)
 
 # 示例输出
 print(gym_df.head())
