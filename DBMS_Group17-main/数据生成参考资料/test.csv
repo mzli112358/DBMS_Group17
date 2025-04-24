@@ -1,0 +1,2001 @@
+room_num,hotel_id,floor,is_smoking,room_type,price
+001,H1,6,yes,Standard Room,3000
+002,H1,10,yes,Standard Room,3001
+003,H1,1,yes,Standard Room,3002
+004,H1,1,yes,Standard Room,3003
+005,H1,8,yes,Standard Room,3004
+006,H1,4,yes,Standard Room,3005
+007,H1,7,yes,Standard Room,3006
+008,H1,3,yes,Standard Room,3007
+009,H1,6,yes,Standard Room,3008
+010,H1,1,yes,Standard Room,3009
+011,H1,2,yes,Standard Room,3010
+012,H1,1,yes,Standard Room,3011
+013,H1,6,yes,Standard Room,3012
+014,H1,3,yes,Standard Room,3013
+015,H1,7,yes,Standard Room,3014
+016,H1,3,yes,Standard Room,3015
+017,H1,2,yes,Standard Room,3016
+018,H1,1,yes,Standard Room,3017
+019,H1,9,yes,Standard Room,3018
+020,H1,10,yes,Standard Room,3019
+021,H1,8,yes,Standard Room,3020
+022,H1,1,yes,Standard Room,3021
+023,H1,1,yes,Standard Room,3022
+024,H1,8,yes,Standard Room,3023
+025,H1,9,yes,Standard Room,3024
+026,H1,1,yes,Standard Room,3025
+027,H1,4,yes,Standard Room,3026
+028,H1,3,yes,Standard Room,3027
+029,H1,5,yes,Standard Room,3028
+030,H1,1,yes,Standard Room,3029
+031,H1,10,yes,Standard Room,3030
+032,H1,9,yes,Standard Room,3031
+033,H1,3,yes,Standard Room,3032
+034,H1,1,yes,Standard Room,3033
+035,H1,3,yes,Standard Room,3034
+036,H1,10,yes,Standard Room,3035
+037,H1,3,yes,Standard Room,3036
+038,H1,3,yes,Standard Room,3037
+039,H1,1,yes,Standard Room,3038
+040,H1,3,yes,Standard Room,3039
+041,H1,7,yes,Standard Room,3040
+042,H1,2,yes,Standard Room,3041
+043,H1,1,yes,Standard Room,3042
+044,H1,8,yes,Standard Room,3043
+045,H1,8,yes,Standard Room,3044
+046,H1,6,yes,Standard Room,3045
+047,H1,1,yes,Standard Room,3046
+048,H1,7,yes,Standard Room,3047
+049,H1,7,yes,Standard Room,3048
+050,H1,7,yes,Standard Room,3049
+051,H1,6,no,Standard Room,3050
+052,H1,2,no,Standard Room,3051
+053,H1,6,no,Standard Room,3052
+054,H1,1,no,Standard Room,3053
+055,H1,7,no,Standard Room,3054
+056,H1,2,no,Standard Room,3055
+057,H1,5,no,Standard Room,3056
+058,H1,1,no,Standard Room,3057
+059,H1,2,no,Standard Room,3058
+060,H1,4,no,Standard Room,3059
+061,H1,1,no,Standard Room,3060
+062,H1,2,no,Standard Room,3061
+063,H1,7,no,Standard Room,3062
+064,H1,8,no,Standard Room,3063
+065,H1,1,no,Standard Room,3064
+066,H1,1,no,Standard Room,3065
+067,H1,6,no,Standard Room,3066
+068,H1,7,no,Standard Room,3067
+069,H1,1,no,Standard Room,3068
+070,H1,5,no,Standard Room,3069
+071,H1,10,no,Standard Room,3070
+072,H1,3,no,Standard Room,3071
+073,H1,9,no,Standard Room,3072
+074,H1,9,no,Standard Room,3073
+075,H1,2,no,Standard Room,3074
+076,H1,1,no,Standard Room,3075
+077,H1,9,no,Standard Room,3076
+078,H1,8,no,Standard Room,3077
+079,H1,8,no,Standard Room,3078
+080,H1,9,no,Standard Room,3079
+081,H1,6,no,Standard Room,3080
+082,H1,10,no,Standard Room,3081
+083,H1,4,no,Standard Room,3082
+084,H1,4,no,Standard Room,3083
+085,H1,9,no,Standard Room,3084
+086,H1,2,no,Standard Room,3085
+087,H1,1,no,Standard Room,3086
+088,H1,9,no,Standard Room,3087
+089,H1,1,no,Standard Room,3088
+090,H1,8,no,Standard Room,3089
+091,H1,9,no,Standard Room,3090
+092,H1,3,no,Standard Room,3091
+093,H1,6,no,Standard Room,3092
+094,H1,2,no,Standard Room,3093
+095,H1,10,no,Standard Room,3094
+096,H1,9,no,Standard Room,3095
+097,H1,6,no,Standard Room,3096
+098,H1,10,no,Standard Room,3097
+099,H1,9,no,Standard Room,3098
+100,H1,3,no,Standard Room,3099
+101,H1,1,yes,Superior Room,3100
+102,H1,7,yes,Superior Room,3101
+103,H1,2,yes,Superior Room,3102
+104,H1,10,yes,Superior Room,3103
+105,H1,6,yes,Superior Room,3104
+106,H1,1,yes,Superior Room,3105
+107,H1,10,yes,Superior Room,3106
+108,H1,7,yes,Superior Room,3107
+109,H1,3,yes,Superior Room,3108
+110,H1,10,yes,Superior Room,3109
+111,H1,5,yes,Superior Room,3110
+112,H1,1,yes,Superior Room,3111
+113,H1,10,yes,Superior Room,3112
+114,H1,9,yes,Superior Room,3113
+115,H1,8,yes,Superior Room,3114
+116,H1,7,yes,Superior Room,3115
+117,H1,8,yes,Superior Room,3116
+118,H1,5,yes,Superior Room,3117
+119,H1,5,yes,Superior Room,3118
+120,H1,8,yes,Superior Room,3119
+121,H1,2,no,Superior Room,3120
+122,H1,3,no,Superior Room,3121
+123,H1,7,no,Superior Room,3122
+124,H1,6,no,Superior Room,3123
+125,H1,5,no,Superior Room,3124
+126,H1,2,no,Superior Room,3125
+127,H1,9,no,Superior Room,3126
+128,H1,3,no,Superior Room,3127
+129,H1,4,no,Superior Room,3128
+130,H1,2,no,Superior Room,3129
+131,H1,3,no,Superior Room,3130
+132,H1,7,no,Superior Room,3131
+133,H1,9,no,Superior Room,3132
+134,H1,7,no,Superior Room,3133
+135,H1,7,no,Superior Room,3134
+136,H1,8,no,Superior Room,3135
+137,H1,3,no,Superior Room,3136
+138,H1,4,no,Superior Room,3137
+139,H1,9,no,Superior Room,3138
+140,H1,6,no,Superior Room,3139
+141,H1,10,yes,Deluxe Room,3140
+142,H1,5,yes,Deluxe Room,3141
+143,H1,1,yes,Deluxe Room,3142
+144,H1,7,yes,Deluxe Room,3143
+145,H1,5,yes,Deluxe Room,3144
+146,H1,2,yes,Deluxe Room,3145
+147,H1,2,yes,Deluxe Room,3146
+148,H1,5,yes,Deluxe Room,3147
+149,H1,2,yes,Deluxe Room,3148
+150,H1,9,yes,Deluxe Room,3149
+151,H1,4,yes,Deluxe Room,3150
+152,H1,1,yes,Deluxe Room,3151
+153,H1,3,yes,Deluxe Room,3152
+154,H1,9,yes,Deluxe Room,3153
+155,H1,1,yes,Deluxe Room,3154
+156,H1,8,no,Deluxe Room,3155
+157,H1,9,no,Deluxe Room,3156
+158,H1,2,no,Deluxe Room,3157
+159,H1,3,no,Deluxe Room,3158
+160,H1,6,no,Deluxe Room,3159
+161,H1,2,no,Deluxe Room,3160
+162,H1,6,no,Deluxe Room,3161
+163,H1,9,no,Deluxe Room,3162
+164,H1,9,no,Deluxe Room,3163
+165,H1,1,no,Deluxe Room,3164
+166,H1,3,no,Deluxe Room,3165
+167,H1,6,no,Deluxe Room,3166
+168,H1,9,no,Deluxe Room,3167
+169,H1,1,no,Deluxe Room,3168
+170,H1,5,no,Deluxe Room,3169
+171,H1,6,yes,Suite,3170
+172,H1,9,yes,Suite,3171
+173,H1,1,yes,Suite,3172
+174,H1,10,yes,Suite,3173
+175,H1,3,yes,Suite,3174
+176,H1,7,yes,Suite,3175
+177,H1,4,yes,Suite,3176
+178,H1,1,yes,Suite,3177
+179,H1,1,yes,Suite,3178
+180,H1,2,yes,Suite,3179
+181,H1,2,no,Suite,3180
+182,H1,10,no,Suite,3181
+183,H1,3,no,Suite,3182
+184,H1,3,no,Suite,3183
+185,H1,4,no,Suite,3184
+186,H1,2,no,Suite,3185
+187,H1,7,no,Suite,3186
+188,H1,2,no,Suite,3187
+189,H1,2,no,Suite,3188
+190,H1,8,no,Suite,3189
+191,H1,3,yes,Presidential Suite,3190
+192,H1,7,yes,Presidential Suite,3191
+193,H1,10,yes,Presidential Suite,3192
+194,H1,10,yes,Presidential Suite,3193
+195,H1,6,yes,Presidential Suite,3194
+196,H1,8,no,Presidential Suite,3195
+197,H1,9,no,Presidential Suite,3196
+198,H1,2,no,Presidential Suite,3197
+199,H1,9,no,Presidential Suite,3198
+200,H1,4,no,Presidential Suite,3199
+001,H2,10,yes,Standard Room,4000
+002,H2,5,yes,Standard Room,4001
+003,H2,8,yes,Standard Room,4002
+004,H2,8,yes,Standard Room,4003
+005,H2,6,yes,Standard Room,4004
+006,H2,2,yes,Standard Room,4005
+007,H2,5,yes,Standard Room,4006
+008,H2,5,yes,Standard Room,4007
+009,H2,1,yes,Standard Room,4008
+010,H2,4,yes,Standard Room,4009
+011,H2,9,yes,Standard Room,4010
+012,H2,7,yes,Standard Room,4011
+013,H2,8,yes,Standard Room,4012
+014,H2,2,yes,Standard Room,4013
+015,H2,9,yes,Standard Room,4014
+016,H2,8,yes,Standard Room,4015
+017,H2,10,yes,Standard Room,4016
+018,H2,7,yes,Standard Room,4017
+019,H2,2,yes,Standard Room,4018
+020,H2,4,yes,Standard Room,4019
+021,H2,2,yes,Standard Room,4020
+022,H2,4,yes,Standard Room,4021
+023,H2,6,yes,Standard Room,4022
+024,H2,8,yes,Standard Room,4023
+025,H2,3,yes,Standard Room,4024
+026,H2,8,yes,Standard Room,4025
+027,H2,10,yes,Standard Room,4026
+028,H2,1,yes,Standard Room,4027
+029,H2,7,yes,Standard Room,4028
+030,H2,10,yes,Standard Room,4029
+031,H2,8,yes,Standard Room,4030
+032,H2,3,yes,Standard Room,4031
+033,H2,3,yes,Standard Room,4032
+034,H2,4,yes,Standard Room,4033
+035,H2,1,yes,Standard Room,4034
+036,H2,1,yes,Standard Room,4035
+037,H2,10,yes,Standard Room,4036
+038,H2,6,yes,Standard Room,4037
+039,H2,6,yes,Standard Room,4038
+040,H2,1,yes,Standard Room,4039
+041,H2,3,yes,Standard Room,4040
+042,H2,5,yes,Standard Room,4041
+043,H2,8,yes,Standard Room,4042
+044,H2,10,yes,Standard Room,4043
+045,H2,5,yes,Standard Room,4044
+046,H2,2,yes,Standard Room,4045
+047,H2,10,yes,Standard Room,4046
+048,H2,9,yes,Standard Room,4047
+049,H2,5,yes,Standard Room,4048
+050,H2,1,yes,Standard Room,4049
+051,H2,10,no,Standard Room,4050
+052,H2,1,no,Standard Room,4051
+053,H2,10,no,Standard Room,4052
+054,H2,2,no,Standard Room,4053
+055,H2,8,no,Standard Room,4054
+056,H2,8,no,Standard Room,4055
+057,H2,7,no,Standard Room,4056
+058,H2,10,no,Standard Room,4057
+059,H2,7,no,Standard Room,4058
+060,H2,9,no,Standard Room,4059
+061,H2,10,no,Standard Room,4060
+062,H2,2,no,Standard Room,4061
+063,H2,8,no,Standard Room,4062
+064,H2,9,no,Standard Room,4063
+065,H2,6,no,Standard Room,4064
+066,H2,6,no,Standard Room,4065
+067,H2,4,no,Standard Room,4066
+068,H2,4,no,Standard Room,4067
+069,H2,3,no,Standard Room,4068
+070,H2,4,no,Standard Room,4069
+071,H2,7,no,Standard Room,4070
+072,H2,5,no,Standard Room,4071
+073,H2,7,no,Standard Room,4072
+074,H2,3,no,Standard Room,4073
+075,H2,8,no,Standard Room,4074
+076,H2,5,no,Standard Room,4075
+077,H2,10,no,Standard Room,4076
+078,H2,3,no,Standard Room,4077
+079,H2,6,no,Standard Room,4078
+080,H2,7,no,Standard Room,4079
+081,H2,6,no,Standard Room,4080
+082,H2,3,no,Standard Room,4081
+083,H2,7,no,Standard Room,4082
+084,H2,5,no,Standard Room,4083
+085,H2,10,no,Standard Room,4084
+086,H2,9,no,Standard Room,4085
+087,H2,1,no,Standard Room,4086
+088,H2,4,no,Standard Room,4087
+089,H2,2,no,Standard Room,4088
+090,H2,6,no,Standard Room,4089
+091,H2,4,no,Standard Room,4090
+092,H2,4,no,Standard Room,4091
+093,H2,8,no,Standard Room,4092
+094,H2,10,no,Standard Room,4093
+095,H2,3,no,Standard Room,4094
+096,H2,9,no,Standard Room,4095
+097,H2,2,no,Standard Room,4096
+098,H2,7,no,Standard Room,4097
+099,H2,2,no,Standard Room,4098
+100,H2,4,no,Standard Room,4099
+101,H2,10,yes,Superior Room,4100
+102,H2,6,yes,Superior Room,4101
+103,H2,1,yes,Superior Room,4102
+104,H2,8,yes,Superior Room,4103
+105,H2,1,yes,Superior Room,4104
+106,H2,6,yes,Superior Room,4105
+107,H2,8,yes,Superior Room,4106
+108,H2,8,yes,Superior Room,4107
+109,H2,10,yes,Superior Room,4108
+110,H2,9,yes,Superior Room,4109
+111,H2,6,yes,Superior Room,4110
+112,H2,8,yes,Superior Room,4111
+113,H2,4,yes,Superior Room,4112
+114,H2,3,yes,Superior Room,4113
+115,H2,9,yes,Superior Room,4114
+116,H2,8,yes,Superior Room,4115
+117,H2,1,yes,Superior Room,4116
+118,H2,1,yes,Superior Room,4117
+119,H2,6,yes,Superior Room,4118
+120,H2,10,yes,Superior Room,4119
+121,H2,10,no,Superior Room,4120
+122,H2,4,no,Superior Room,4121
+123,H2,6,no,Superior Room,4122
+124,H2,8,no,Superior Room,4123
+125,H2,2,no,Superior Room,4124
+126,H2,8,no,Superior Room,4125
+127,H2,7,no,Superior Room,4126
+128,H2,7,no,Superior Room,4127
+129,H2,9,no,Superior Room,4128
+130,H2,10,no,Superior Room,4129
+131,H2,7,no,Superior Room,4130
+132,H2,4,no,Superior Room,4131
+133,H2,1,no,Superior Room,4132
+134,H2,3,no,Superior Room,4133
+135,H2,7,no,Superior Room,4134
+136,H2,6,no,Superior Room,4135
+137,H2,5,no,Superior Room,4136
+138,H2,5,no,Superior Room,4137
+139,H2,6,no,Superior Room,4138
+140,H2,7,no,Superior Room,4139
+141,H2,2,yes,Deluxe Room,4140
+142,H2,1,yes,Deluxe Room,4141
+143,H2,7,yes,Deluxe Room,4142
+144,H2,10,yes,Deluxe Room,4143
+145,H2,3,yes,Deluxe Room,4144
+146,H2,3,yes,Deluxe Room,4145
+147,H2,4,yes,Deluxe Room,4146
+148,H2,7,yes,Deluxe Room,4147
+149,H2,3,yes,Deluxe Room,4148
+150,H2,6,yes,Deluxe Room,4149
+151,H2,3,yes,Deluxe Room,4150
+152,H2,10,yes,Deluxe Room,4151
+153,H2,2,yes,Deluxe Room,4152
+154,H2,5,yes,Deluxe Room,4153
+155,H2,9,yes,Deluxe Room,4154
+156,H2,6,no,Deluxe Room,4155
+157,H2,1,no,Deluxe Room,4156
+158,H2,2,no,Deluxe Room,4157
+159,H2,4,no,Deluxe Room,4158
+160,H2,5,no,Deluxe Room,4159
+161,H2,5,no,Deluxe Room,4160
+162,H2,5,no,Deluxe Room,4161
+163,H2,2,no,Deluxe Room,4162
+164,H2,1,no,Deluxe Room,4163
+165,H2,5,no,Deluxe Room,4164
+166,H2,6,no,Deluxe Room,4165
+167,H2,2,no,Deluxe Room,4166
+168,H2,9,no,Deluxe Room,4167
+169,H2,1,no,Deluxe Room,4168
+170,H2,6,no,Deluxe Room,4169
+171,H2,8,yes,Suite,4170
+172,H2,3,yes,Suite,4171
+173,H2,2,yes,Suite,4172
+174,H2,2,yes,Suite,4173
+175,H2,6,yes,Suite,4174
+176,H2,4,yes,Suite,4175
+177,H2,3,yes,Suite,4176
+178,H2,4,yes,Suite,4177
+179,H2,2,yes,Suite,4178
+180,H2,8,yes,Suite,4179
+181,H2,1,no,Suite,4180
+182,H2,3,no,Suite,4181
+183,H2,4,no,Suite,4182
+184,H2,9,no,Suite,4183
+185,H2,9,no,Suite,4184
+186,H2,8,no,Suite,4185
+187,H2,2,no,Suite,4186
+188,H2,8,no,Suite,4187
+189,H2,9,no,Suite,4188
+190,H2,5,no,Suite,4189
+191,H2,1,yes,Presidential Suite,4190
+192,H2,8,yes,Presidential Suite,4191
+193,H2,3,yes,Presidential Suite,4192
+194,H2,5,yes,Presidential Suite,4193
+195,H2,4,yes,Presidential Suite,4194
+196,H2,6,no,Presidential Suite,4195
+197,H2,6,no,Presidential Suite,4196
+198,H2,2,no,Presidential Suite,4197
+199,H2,9,no,Presidential Suite,4198
+200,H2,9,no,Presidential Suite,4199
+001,H3,10,yes,Standard Room,5368
+002,H3,5,yes,Standard Room,6086
+003,H3,9,yes,Standard Room,6133
+004,H3,9,yes,Standard Room,9090
+005,H3,5,yes,Standard Room,5817
+006,H3,3,yes,Standard Room,8931
+007,H3,4,yes,Standard Room,9236
+008,H3,9,yes,Standard Room,8597
+009,H3,3,yes,Standard Room,7223
+010,H3,5,yes,Standard Room,8867
+011,H3,5,yes,Standard Room,7141
+012,H3,3,yes,Standard Room,7350
+013,H3,10,yes,Standard Room,9256
+014,H3,3,yes,Standard Room,9065
+015,H3,10,yes,Standard Room,8274
+016,H3,10,yes,Standard Room,8390
+017,H3,10,yes,Standard Room,6768
+018,H3,4,yes,Standard Room,7739
+019,H3,3,yes,Standard Room,7596
+020,H3,7,yes,Standard Room,8012
+021,H3,1,yes,Standard Room,7972
+022,H3,10,yes,Standard Room,9320
+023,H3,1,yes,Standard Room,5762
+024,H3,9,yes,Standard Room,8280
+025,H3,3,yes,Standard Room,9907
+026,H3,7,yes,Standard Room,8339
+027,H3,3,yes,Standard Room,7036
+028,H3,7,yes,Standard Room,7320
+029,H3,9,yes,Standard Room,9975
+030,H3,10,yes,Standard Room,5734
+031,H3,4,yes,Standard Room,5793
+032,H3,3,yes,Standard Room,6761
+033,H3,5,yes,Standard Room,9822
+034,H3,6,yes,Standard Room,6193
+035,H3,9,yes,Standard Room,6711
+036,H3,9,yes,Standard Room,9661
+037,H3,6,yes,Standard Room,5325
+038,H3,9,yes,Standard Room,7092
+039,H3,4,yes,Standard Room,9036
+040,H3,1,yes,Standard Room,5896
+041,H3,9,yes,Standard Room,5435
+042,H3,2,yes,Standard Room,6809
+043,H3,4,yes,Standard Room,6196
+044,H3,7,yes,Standard Room,9385
+045,H3,8,yes,Standard Room,8451
+046,H3,8,yes,Standard Room,7284
+047,H3,7,yes,Standard Room,6169
+048,H3,8,yes,Standard Room,8307
+049,H3,5,yes,Standard Room,6018
+050,H3,1,yes,Standard Room,5230
+051,H3,7,no,Standard Room,8302
+052,H3,3,no,Standard Room,6000
+053,H3,8,no,Standard Room,9984
+054,H3,6,no,Standard Room,9254
+055,H3,1,no,Standard Room,7188
+056,H3,3,no,Standard Room,9849
+057,H3,2,no,Standard Room,5720
+058,H3,3,no,Standard Room,5921
+059,H3,9,no,Standard Room,8055
+060,H3,9,no,Standard Room,9346
+061,H3,8,no,Standard Room,9486
+062,H3,7,no,Standard Room,7553
+063,H3,8,no,Standard Room,8336
+064,H3,3,no,Standard Room,7262
+065,H3,10,no,Standard Room,5643
+066,H3,4,no,Standard Room,8618
+067,H3,9,no,Standard Room,8731
+068,H3,10,no,Standard Room,7032
+069,H3,7,no,Standard Room,8811
+070,H3,6,no,Standard Room,5715
+071,H3,10,no,Standard Room,8145
+072,H3,3,no,Standard Room,9425
+073,H3,1,no,Standard Room,6783
+074,H3,2,no,Standard Room,6311
+075,H3,5,no,Standard Room,7281
+076,H3,10,no,Standard Room,5808
+077,H3,10,no,Standard Room,7404
+078,H3,6,no,Standard Room,7147
+079,H3,2,no,Standard Room,9588
+080,H3,10,no,Standard Room,7781
+081,H3,7,no,Standard Room,5645
+082,H3,8,no,Standard Room,9028
+083,H3,4,no,Standard Room,8586
+084,H3,3,no,Standard Room,5343
+085,H3,1,no,Standard Room,5247
+086,H3,4,no,Standard Room,9580
+087,H3,7,no,Standard Room,9387
+088,H3,1,no,Standard Room,5819
+089,H3,5,no,Standard Room,8316
+090,H3,4,no,Standard Room,5700
+091,H3,9,no,Standard Room,9442
+092,H3,2,no,Standard Room,7682
+093,H3,5,no,Standard Room,9065
+094,H3,8,no,Standard Room,5690
+095,H3,6,no,Standard Room,6022
+096,H3,6,no,Standard Room,8451
+097,H3,7,no,Standard Room,5395
+098,H3,5,no,Standard Room,6776
+099,H3,2,no,Standard Room,5974
+100,H3,4,no,Standard Room,6621
+101,H3,9,yes,Superior Room,6890
+102,H3,7,yes,Superior Room,5027
+103,H3,7,yes,Superior Room,9092
+104,H3,5,yes,Superior Room,7067
+105,H3,6,yes,Superior Room,7310
+106,H3,5,yes,Superior Room,5829
+107,H3,8,yes,Superior Room,6086
+108,H3,8,yes,Superior Room,6058
+109,H3,10,yes,Superior Room,5270
+110,H3,3,yes,Superior Room,7837
+111,H3,9,yes,Superior Room,7011
+112,H3,10,yes,Superior Room,5137
+113,H3,9,yes,Superior Room,6059
+114,H3,7,yes,Superior Room,8750
+115,H3,2,yes,Superior Room,7025
+116,H3,7,yes,Superior Room,6431
+117,H3,3,yes,Superior Room,8891
+118,H3,1,yes,Superior Room,8105
+119,H3,5,yes,Superior Room,6593
+120,H3,10,yes,Superior Room,9292
+121,H3,6,no,Superior Room,9999
+122,H3,2,no,Superior Room,5124
+123,H3,1,no,Superior Room,5994
+124,H3,6,no,Superior Room,8182
+125,H3,5,no,Superior Room,9464
+126,H3,6,no,Superior Room,9839
+127,H3,5,no,Superior Room,6625
+128,H3,7,no,Superior Room,9242
+129,H3,4,no,Superior Room,8758
+130,H3,6,no,Superior Room,6953
+131,H3,4,no,Superior Room,9235
+132,H3,3,no,Superior Room,8089
+133,H3,8,no,Superior Room,7122
+134,H3,1,no,Superior Room,7560
+135,H3,1,no,Superior Room,9161
+136,H3,8,no,Superior Room,6263
+137,H3,3,no,Superior Room,9249
+138,H3,3,no,Superior Room,9065
+139,H3,10,no,Superior Room,5231
+140,H3,2,no,Superior Room,6753
+141,H3,7,yes,Deluxe Room,6282
+142,H3,8,yes,Deluxe Room,7492
+143,H3,5,yes,Deluxe Room,6710
+144,H3,1,yes,Deluxe Room,9836
+145,H3,5,yes,Deluxe Room,5720
+146,H3,2,yes,Deluxe Room,5720
+147,H3,9,yes,Deluxe Room,6633
+148,H3,9,yes,Deluxe Room,8845
+149,H3,5,yes,Deluxe Room,9465
+150,H3,8,yes,Deluxe Room,5628
+151,H3,10,yes,Deluxe Room,5022
+152,H3,2,yes,Deluxe Room,5137
+153,H3,1,yes,Deluxe Room,9204
+154,H3,5,yes,Deluxe Room,6780
+155,H3,10,yes,Deluxe Room,8733
+156,H3,9,no,Deluxe Room,8198
+157,H3,3,no,Deluxe Room,6843
+158,H3,1,no,Deluxe Room,7076
+159,H3,10,no,Deluxe Room,5518
+160,H3,3,no,Deluxe Room,8948
+161,H3,7,no,Deluxe Room,8853
+162,H3,3,no,Deluxe Room,5409
+163,H3,9,no,Deluxe Room,6384
+164,H3,5,no,Deluxe Room,7266
+165,H3,2,no,Deluxe Room,9132
+166,H3,2,no,Deluxe Room,9943
+167,H3,7,no,Deluxe Room,5406
+168,H3,6,no,Deluxe Room,5717
+169,H3,6,no,Deluxe Room,9821
+170,H3,10,no,Deluxe Room,9149
+171,H3,2,yes,Suite,9552
+172,H3,3,yes,Suite,6987
+173,H3,6,yes,Suite,8959
+174,H3,2,yes,Suite,6900
+175,H3,4,yes,Suite,5038
+176,H3,9,yes,Suite,8913
+177,H3,2,yes,Suite,7045
+178,H3,10,yes,Suite,6255
+179,H3,5,yes,Suite,7270
+180,H3,2,yes,Suite,8944
+181,H3,8,no,Suite,6710
+182,H3,4,no,Suite,9031
+183,H3,7,no,Suite,8550
+184,H3,7,no,Suite,7965
+185,H3,5,no,Suite,8631
+186,H3,10,no,Suite,5382
+187,H3,1,no,Suite,8565
+188,H3,5,no,Suite,7550
+189,H3,1,no,Suite,6784
+190,H3,10,no,Suite,6616
+191,H3,3,yes,Presidential Suite,6796
+192,H3,10,yes,Presidential Suite,8856
+193,H3,2,yes,Presidential Suite,6796
+194,H3,9,yes,Presidential Suite,6383
+195,H3,6,yes,Presidential Suite,8601
+196,H3,5,no,Presidential Suite,8959
+197,H3,7,no,Presidential Suite,5983
+198,H3,8,no,Presidential Suite,6557
+199,H3,9,no,Presidential Suite,5119
+200,H3,6,no,Presidential Suite,5983
+001,H4,4,yes,Standard Room,9865
+002,H4,7,yes,Standard Room,8452
+003,H4,1,yes,Standard Room,6436
+004,H4,2,yes,Standard Room,9305
+005,H4,2,yes,Standard Room,9198
+006,H4,6,yes,Standard Room,7533
+007,H4,3,yes,Standard Room,8543
+008,H4,8,yes,Standard Room,6151
+009,H4,1,yes,Standard Room,7896
+010,H4,5,yes,Standard Room,6165
+011,H4,3,yes,Standard Room,5107
+012,H4,8,yes,Standard Room,7794
+013,H4,8,yes,Standard Room,7882
+014,H4,3,yes,Standard Room,8118
+015,H4,6,yes,Standard Room,8003
+016,H4,3,yes,Standard Room,8765
+017,H4,7,yes,Standard Room,7913
+018,H4,9,yes,Standard Room,8059
+019,H4,1,yes,Standard Room,7024
+020,H4,3,yes,Standard Room,5419
+021,H4,9,yes,Standard Room,8700
+022,H4,8,yes,Standard Room,5692
+023,H4,3,yes,Standard Room,9787
+024,H4,7,yes,Standard Room,7780
+025,H4,8,yes,Standard Room,5852
+026,H4,8,yes,Standard Room,8677
+027,H4,5,yes,Standard Room,9269
+028,H4,2,yes,Standard Room,5618
+029,H4,9,yes,Standard Room,5731
+030,H4,9,yes,Standard Room,9757
+031,H4,6,yes,Standard Room,7033
+032,H4,7,yes,Standard Room,5830
+033,H4,3,yes,Standard Room,7015
+034,H4,5,yes,Standard Room,9714
+035,H4,2,yes,Standard Room,5678
+036,H4,7,yes,Standard Room,5993
+037,H4,4,yes,Standard Room,7827
+038,H4,7,yes,Standard Room,9143
+039,H4,9,yes,Standard Room,6610
+040,H4,10,yes,Standard Room,9257
+041,H4,6,yes,Standard Room,8936
+042,H4,6,yes,Standard Room,8154
+043,H4,10,yes,Standard Room,6127
+044,H4,1,yes,Standard Room,5455
+045,H4,2,yes,Standard Room,9115
+046,H4,9,yes,Standard Room,9081
+047,H4,5,yes,Standard Room,6937
+048,H4,6,yes,Standard Room,7168
+049,H4,10,yes,Standard Room,5385
+050,H4,7,yes,Standard Room,9632
+051,H4,5,no,Standard Room,9925
+052,H4,2,no,Standard Room,8634
+053,H4,7,no,Standard Room,7299
+054,H4,3,no,Standard Room,6201
+055,H4,7,no,Standard Room,9206
+056,H4,4,no,Standard Room,5892
+057,H4,4,no,Standard Room,8458
+058,H4,7,no,Standard Room,7991
+059,H4,7,no,Standard Room,8373
+060,H4,6,no,Standard Room,8785
+061,H4,5,no,Standard Room,5201
+062,H4,5,no,Standard Room,9076
+063,H4,5,no,Standard Room,8577
+064,H4,2,no,Standard Room,7016
+065,H4,3,no,Standard Room,6106
+066,H4,1,no,Standard Room,6977
+067,H4,5,no,Standard Room,5566
+068,H4,1,no,Standard Room,6841
+069,H4,9,no,Standard Room,7623
+070,H4,1,no,Standard Room,6844
+071,H4,6,no,Standard Room,5397
+072,H4,7,no,Standard Room,5415
+073,H4,2,no,Standard Room,8824
+074,H4,1,no,Standard Room,5501
+075,H4,10,no,Standard Room,7082
+076,H4,8,no,Standard Room,7548
+077,H4,1,no,Standard Room,7718
+078,H4,10,no,Standard Room,9502
+079,H4,2,no,Standard Room,6943
+080,H4,5,no,Standard Room,5141
+081,H4,1,no,Standard Room,9571
+082,H4,7,no,Standard Room,9757
+083,H4,9,no,Standard Room,6514
+084,H4,4,no,Standard Room,6264
+085,H4,9,no,Standard Room,7733
+086,H4,8,no,Standard Room,7563
+087,H4,3,no,Standard Room,7293
+088,H4,9,no,Standard Room,6022
+089,H4,8,no,Standard Room,9102
+090,H4,7,no,Standard Room,5759
+091,H4,5,no,Standard Room,6107
+092,H4,1,no,Standard Room,7732
+093,H4,5,no,Standard Room,8965
+094,H4,6,no,Standard Room,8260
+095,H4,8,no,Standard Room,5007
+096,H4,5,no,Standard Room,5906
+097,H4,8,no,Standard Room,8911
+098,H4,9,no,Standard Room,7245
+099,H4,8,no,Standard Room,6666
+100,H4,9,no,Standard Room,7678
+101,H4,5,yes,Superior Room,5695
+102,H4,4,yes,Superior Room,6669
+103,H4,9,yes,Superior Room,9103
+104,H4,4,yes,Superior Room,5430
+105,H4,7,yes,Superior Room,8094
+106,H4,4,yes,Superior Room,9490
+107,H4,10,yes,Superior Room,7902
+108,H4,6,yes,Superior Room,9645
+109,H4,5,yes,Superior Room,5209
+110,H4,10,yes,Superior Room,7075
+111,H4,5,yes,Superior Room,8151
+112,H4,5,yes,Superior Room,5643
+113,H4,9,yes,Superior Room,6089
+114,H4,7,yes,Superior Room,8634
+115,H4,9,yes,Superior Room,7488
+116,H4,9,yes,Superior Room,6369
+117,H4,7,yes,Superior Room,8011
+118,H4,7,yes,Superior Room,7876
+119,H4,1,yes,Superior Room,8417
+120,H4,1,yes,Superior Room,7798
+121,H4,1,no,Superior Room,7735
+122,H4,2,no,Superior Room,8231
+123,H4,7,no,Superior Room,5496
+124,H4,8,no,Superior Room,6485
+125,H4,9,no,Superior Room,8557
+126,H4,9,no,Superior Room,7764
+127,H4,3,no,Superior Room,6360
+128,H4,8,no,Superior Room,9637
+129,H4,2,no,Superior Room,6986
+130,H4,9,no,Superior Room,9464
+131,H4,4,no,Superior Room,6360
+132,H4,3,no,Superior Room,8830
+133,H4,7,no,Superior Room,8632
+134,H4,9,no,Superior Room,7032
+135,H4,1,no,Superior Room,8705
+136,H4,1,no,Superior Room,7474
+137,H4,6,no,Superior Room,9417
+138,H4,8,no,Superior Room,9610
+139,H4,6,no,Superior Room,7906
+140,H4,10,no,Superior Room,8492
+141,H4,4,yes,Deluxe Room,5953
+142,H4,3,yes,Deluxe Room,9105
+143,H4,6,yes,Deluxe Room,9573
+144,H4,4,yes,Deluxe Room,9276
+145,H4,1,yes,Deluxe Room,9380
+146,H4,5,yes,Deluxe Room,6124
+147,H4,2,yes,Deluxe Room,6128
+148,H4,8,yes,Deluxe Room,8395
+149,H4,9,yes,Deluxe Room,7190
+150,H4,10,yes,Deluxe Room,6524
+151,H4,9,yes,Deluxe Room,7933
+152,H4,8,yes,Deluxe Room,6930
+153,H4,9,yes,Deluxe Room,7141
+154,H4,3,yes,Deluxe Room,5992
+155,H4,10,yes,Deluxe Room,9888
+156,H4,5,no,Deluxe Room,9141
+157,H4,10,no,Deluxe Room,6776
+158,H4,7,no,Deluxe Room,6046
+159,H4,10,no,Deluxe Room,7717
+160,H4,5,no,Deluxe Room,8459
+161,H4,6,no,Deluxe Room,7165
+162,H4,10,no,Deluxe Room,8854
+163,H4,9,no,Deluxe Room,9352
+164,H4,7,no,Deluxe Room,5536
+165,H4,6,no,Deluxe Room,8649
+166,H4,7,no,Deluxe Room,7958
+167,H4,5,no,Deluxe Room,8872
+168,H4,10,no,Deluxe Room,6061
+169,H4,4,no,Deluxe Room,7932
+170,H4,4,no,Deluxe Room,7325
+171,H4,2,yes,Suite,6364
+172,H4,9,yes,Suite,7606
+173,H4,1,yes,Suite,5016
+174,H4,7,yes,Suite,9752
+175,H4,2,yes,Suite,7205
+176,H4,8,yes,Suite,6091
+177,H4,3,yes,Suite,9739
+178,H4,7,yes,Suite,7510
+179,H4,6,yes,Suite,8733
+180,H4,1,yes,Suite,7572
+181,H4,5,no,Suite,7251
+182,H4,7,no,Suite,9632
+183,H4,4,no,Suite,7338
+184,H4,4,no,Suite,5102
+185,H4,10,no,Suite,7888
+186,H4,1,no,Suite,5217
+187,H4,10,no,Suite,6453
+188,H4,9,no,Suite,8602
+189,H4,4,no,Suite,5675
+190,H4,3,no,Suite,7010
+191,H4,5,yes,Presidential Suite,5791
+192,H4,1,yes,Presidential Suite,5895
+193,H4,5,yes,Presidential Suite,5955
+194,H4,9,yes,Presidential Suite,8549
+195,H4,4,yes,Presidential Suite,5107
+196,H4,10,no,Presidential Suite,9131
+197,H4,2,no,Presidential Suite,8585
+198,H4,8,no,Presidential Suite,7558
+199,H4,6,no,Presidential Suite,7418
+200,H4,1,no,Presidential Suite,5316
+001,H5,5,yes,Standard Room,6705
+002,H5,2,yes,Standard Room,5648
+003,H5,4,yes,Standard Room,6838
+004,H5,6,yes,Standard Room,5328
+005,H5,7,yes,Standard Room,6982
+006,H5,6,yes,Standard Room,7355
+007,H5,2,yes,Standard Room,5665
+008,H5,4,yes,Standard Room,6736
+009,H5,8,yes,Standard Room,9369
+010,H5,9,yes,Standard Room,8722
+011,H5,4,yes,Standard Room,9729
+012,H5,2,yes,Standard Room,9462
+013,H5,4,yes,Standard Room,9189
+014,H5,4,yes,Standard Room,9412
+015,H5,10,yes,Standard Room,6585
+016,H5,5,yes,Standard Room,8143
+017,H5,1,yes,Standard Room,9868
+018,H5,9,yes,Standard Room,5225
+019,H5,1,yes,Standard Room,6509
+020,H5,2,yes,Standard Room,6084
+021,H5,3,yes,Standard Room,8185
+022,H5,9,yes,Standard Room,5825
+023,H5,3,yes,Standard Room,8124
+024,H5,9,yes,Standard Room,7630
+025,H5,10,yes,Standard Room,7971
+026,H5,7,yes,Standard Room,9640
+027,H5,5,yes,Standard Room,6592
+028,H5,2,yes,Standard Room,5993
+029,H5,8,yes,Standard Room,8370
+030,H5,6,yes,Standard Room,8127
+031,H5,6,yes,Standard Room,7570
+032,H5,7,yes,Standard Room,7436
+033,H5,7,yes,Standard Room,6682
+034,H5,6,yes,Standard Room,9720
+035,H5,10,yes,Standard Room,6160
+036,H5,8,yes,Standard Room,6046
+037,H5,1,yes,Standard Room,9806
+038,H5,9,yes,Standard Room,8603
+039,H5,4,yes,Standard Room,6570
+040,H5,4,yes,Standard Room,7582
+041,H5,8,yes,Standard Room,5952
+042,H5,3,yes,Standard Room,9904
+043,H5,1,yes,Standard Room,8659
+044,H5,8,yes,Standard Room,8905
+045,H5,6,yes,Standard Room,5234
+046,H5,9,yes,Standard Room,5106
+047,H5,3,yes,Standard Room,6720
+048,H5,3,yes,Standard Room,7785
+049,H5,9,yes,Standard Room,9834
+050,H5,7,yes,Standard Room,9212
+051,H5,7,no,Standard Room,5662
+052,H5,9,no,Standard Room,8336
+053,H5,3,no,Standard Room,7204
+054,H5,5,no,Standard Room,8310
+055,H5,6,no,Standard Room,6027
+056,H5,5,no,Standard Room,5413
+057,H5,9,no,Standard Room,9338
+058,H5,10,no,Standard Room,7665
+059,H5,3,no,Standard Room,9430
+060,H5,7,no,Standard Room,6980
+061,H5,7,no,Standard Room,6538
+062,H5,5,no,Standard Room,5496
+063,H5,3,no,Standard Room,9068
+064,H5,9,no,Standard Room,9271
+065,H5,9,no,Standard Room,5458
+066,H5,10,no,Standard Room,7334
+067,H5,3,no,Standard Room,6572
+068,H5,1,no,Standard Room,9656
+069,H5,5,no,Standard Room,7047
+070,H5,9,no,Standard Room,5761
+071,H5,7,no,Standard Room,9227
+072,H5,9,no,Standard Room,9052
+073,H5,7,no,Standard Room,9958
+074,H5,7,no,Standard Room,9594
+075,H5,9,no,Standard Room,7116
+076,H5,6,no,Standard Room,8589
+077,H5,10,no,Standard Room,6425
+078,H5,9,no,Standard Room,5577
+079,H5,7,no,Standard Room,9516
+080,H5,6,no,Standard Room,5130
+081,H5,9,no,Standard Room,8559
+082,H5,2,no,Standard Room,8247
+083,H5,2,no,Standard Room,6342
+084,H5,1,no,Standard Room,7072
+085,H5,6,no,Standard Room,5409
+086,H5,2,no,Standard Room,7562
+087,H5,10,no,Standard Room,9368
+088,H5,5,no,Standard Room,7201
+089,H5,1,no,Standard Room,5980
+090,H5,4,no,Standard Room,5432
+091,H5,7,no,Standard Room,8069
+092,H5,8,no,Standard Room,9472
+093,H5,7,no,Standard Room,8243
+094,H5,6,no,Standard Room,6316
+095,H5,1,no,Standard Room,6695
+096,H5,6,no,Standard Room,7634
+097,H5,9,no,Standard Room,5734
+098,H5,1,no,Standard Room,8274
+099,H5,8,no,Standard Room,9255
+100,H5,8,no,Standard Room,5344
+101,H5,1,yes,Superior Room,6306
+102,H5,5,yes,Superior Room,8887
+103,H5,3,yes,Superior Room,9874
+104,H5,7,yes,Superior Room,9024
+105,H5,5,yes,Superior Room,8538
+106,H5,6,yes,Superior Room,9016
+107,H5,5,yes,Superior Room,8846
+108,H5,7,yes,Superior Room,5892
+109,H5,8,yes,Superior Room,8297
+110,H5,2,yes,Superior Room,6304
+111,H5,4,yes,Superior Room,9087
+112,H5,2,yes,Superior Room,6729
+113,H5,8,yes,Superior Room,7432
+114,H5,1,yes,Superior Room,8793
+115,H5,5,yes,Superior Room,7543
+116,H5,8,yes,Superior Room,6206
+117,H5,9,yes,Superior Room,6022
+118,H5,5,yes,Superior Room,9757
+119,H5,3,yes,Superior Room,5395
+120,H5,5,yes,Superior Room,6296
+121,H5,5,no,Superior Room,7307
+122,H5,2,no,Superior Room,8027
+123,H5,10,no,Superior Room,9732
+124,H5,10,no,Superior Room,7504
+125,H5,8,no,Superior Room,5942
+126,H5,10,no,Superior Room,7261
+127,H5,9,no,Superior Room,5283
+128,H5,3,no,Superior Room,8314
+129,H5,10,no,Superior Room,7004
+130,H5,9,no,Superior Room,8750
+131,H5,10,no,Superior Room,7075
+132,H5,6,no,Superior Room,5331
+133,H5,8,no,Superior Room,7273
+134,H5,4,no,Superior Room,6910
+135,H5,6,no,Superior Room,5589
+136,H5,10,no,Superior Room,8796
+137,H5,4,no,Superior Room,9907
+138,H5,2,no,Superior Room,8577
+139,H5,3,no,Superior Room,9954
+140,H5,5,no,Superior Room,7970
+141,H5,2,yes,Deluxe Room,6894
+142,H5,4,yes,Deluxe Room,9968
+143,H5,6,yes,Deluxe Room,6559
+144,H5,8,yes,Deluxe Room,6902
+145,H5,8,yes,Deluxe Room,7247
+146,H5,9,yes,Deluxe Room,9461
+147,H5,4,yes,Deluxe Room,9075
+148,H5,9,yes,Deluxe Room,9324
+149,H5,9,yes,Deluxe Room,9983
+150,H5,8,yes,Deluxe Room,9104
+151,H5,6,yes,Deluxe Room,7968
+152,H5,5,yes,Deluxe Room,8163
+153,H5,1,yes,Deluxe Room,6077
+154,H5,3,yes,Deluxe Room,5589
+155,H5,9,yes,Deluxe Room,9307
+156,H5,6,no,Deluxe Room,7625
+157,H5,5,no,Deluxe Room,9453
+158,H5,10,no,Deluxe Room,8481
+159,H5,10,no,Deluxe Room,7047
+160,H5,5,no,Deluxe Room,7596
+161,H5,7,no,Deluxe Room,5972
+162,H5,10,no,Deluxe Room,6573
+163,H5,8,no,Deluxe Room,6994
+164,H5,6,no,Deluxe Room,9026
+165,H5,9,no,Deluxe Room,5238
+166,H5,2,no,Deluxe Room,5763
+167,H5,9,no,Deluxe Room,5074
+168,H5,6,no,Deluxe Room,6790
+169,H5,2,no,Deluxe Room,8421
+170,H5,1,no,Deluxe Room,9492
+171,H5,8,yes,Suite,9967
+172,H5,5,yes,Suite,5270
+173,H5,10,yes,Suite,6191
+174,H5,5,yes,Suite,7749
+175,H5,2,yes,Suite,8031
+176,H5,7,yes,Suite,7766
+177,H5,2,yes,Suite,8156
+178,H5,9,yes,Suite,5164
+179,H5,1,yes,Suite,6477
+180,H5,5,yes,Suite,5694
+181,H5,3,no,Suite,5814
+182,H5,4,no,Suite,9930
+183,H5,9,no,Suite,8578
+184,H5,3,no,Suite,6365
+185,H5,5,no,Suite,8296
+186,H5,7,no,Suite,8429
+187,H5,5,no,Suite,9568
+188,H5,5,no,Suite,6979
+189,H5,5,no,Suite,8763
+190,H5,1,no,Suite,6822
+191,H5,9,yes,Presidential Suite,8422
+192,H5,9,yes,Presidential Suite,9566
+193,H5,4,yes,Presidential Suite,7632
+194,H5,2,yes,Presidential Suite,5345
+195,H5,4,yes,Presidential Suite,8847
+196,H5,8,no,Presidential Suite,7281
+197,H5,1,no,Presidential Suite,7713
+198,H5,8,no,Presidential Suite,5814
+199,H5,9,no,Presidential Suite,6637
+200,H5,4,no,Presidential Suite,5508
+001,H6,8,yes,Standard Room,8452
+002,H6,7,yes,Standard Room,5855
+003,H6,2,yes,Standard Room,8944
+004,H6,10,yes,Standard Room,7685
+005,H6,2,yes,Standard Room,5145
+006,H6,2,yes,Standard Room,5467
+007,H6,10,yes,Standard Room,7130
+008,H6,4,yes,Standard Room,7747
+009,H6,5,yes,Standard Room,8036
+010,H6,2,yes,Standard Room,8142
+011,H6,9,yes,Standard Room,8777
+012,H6,7,yes,Standard Room,6696
+013,H6,2,yes,Standard Room,5266
+014,H6,8,yes,Standard Room,6078
+015,H6,6,yes,Standard Room,9942
+016,H6,6,yes,Standard Room,7583
+017,H6,2,yes,Standard Room,6975
+018,H6,6,yes,Standard Room,6225
+019,H6,3,yes,Standard Room,9948
+020,H6,5,yes,Standard Room,8167
+021,H6,5,yes,Standard Room,6577
+022,H6,10,yes,Standard Room,7913
+023,H6,5,yes,Standard Room,5179
+024,H6,4,yes,Standard Room,5922
+025,H6,5,yes,Standard Room,6203
+026,H6,8,yes,Standard Room,6730
+027,H6,9,yes,Standard Room,9410
+028,H6,9,yes,Standard Room,6657
+029,H6,6,yes,Standard Room,9167
+030,H6,7,yes,Standard Room,5801
+031,H6,6,yes,Standard Room,9014
+032,H6,4,yes,Standard Room,5620
+033,H6,3,yes,Standard Room,8328
+034,H6,5,yes,Standard Room,6236
+035,H6,5,yes,Standard Room,8837
+036,H6,3,yes,Standard Room,6455
+037,H6,9,yes,Standard Room,7446
+038,H6,7,yes,Standard Room,9705
+039,H6,1,yes,Standard Room,6400
+040,H6,1,yes,Standard Room,7325
+041,H6,7,yes,Standard Room,8212
+042,H6,8,yes,Standard Room,8673
+043,H6,7,yes,Standard Room,5949
+044,H6,9,yes,Standard Room,5868
+045,H6,6,yes,Standard Room,8645
+046,H6,9,yes,Standard Room,5783
+047,H6,4,yes,Standard Room,7605
+048,H6,10,yes,Standard Room,6547
+049,H6,6,yes,Standard Room,9321
+050,H6,10,yes,Standard Room,5296
+051,H6,7,no,Standard Room,7261
+052,H6,3,no,Standard Room,6354
+053,H6,3,no,Standard Room,9964
+054,H6,6,no,Standard Room,6293
+055,H6,1,no,Standard Room,8345
+056,H6,9,no,Standard Room,8222
+057,H6,5,no,Standard Room,9470
+058,H6,1,no,Standard Room,5924
+059,H6,1,no,Standard Room,6096
+060,H6,3,no,Standard Room,5073
+061,H6,5,no,Standard Room,6724
+062,H6,5,no,Standard Room,6493
+063,H6,8,no,Standard Room,7790
+064,H6,5,no,Standard Room,9661
+065,H6,7,no,Standard Room,9407
+066,H6,3,no,Standard Room,7161
+067,H6,5,no,Standard Room,8663
+068,H6,8,no,Standard Room,8924
+069,H6,8,no,Standard Room,9842
+070,H6,4,no,Standard Room,7864
+071,H6,6,no,Standard Room,8990
+072,H6,5,no,Standard Room,7979
+073,H6,2,no,Standard Room,9037
+074,H6,3,no,Standard Room,8534
+075,H6,9,no,Standard Room,9492
+076,H6,7,no,Standard Room,8539
+077,H6,8,no,Standard Room,9338
+078,H6,2,no,Standard Room,7878
+079,H6,3,no,Standard Room,5564
+080,H6,3,no,Standard Room,6672
+081,H6,4,no,Standard Room,9295
+082,H6,1,no,Standard Room,8170
+083,H6,9,no,Standard Room,7635
+084,H6,5,no,Standard Room,9012
+085,H6,3,no,Standard Room,9474
+086,H6,7,no,Standard Room,6595
+087,H6,1,no,Standard Room,9462
+088,H6,1,no,Standard Room,6331
+089,H6,7,no,Standard Room,5301
+090,H6,9,no,Standard Room,6957
+091,H6,3,no,Standard Room,6294
+092,H6,1,no,Standard Room,9361
+093,H6,2,no,Standard Room,5410
+094,H6,6,no,Standard Room,6229
+095,H6,3,no,Standard Room,9127
+096,H6,6,no,Standard Room,6701
+097,H6,7,no,Standard Room,7758
+098,H6,2,no,Standard Room,7177
+099,H6,4,no,Standard Room,5571
+100,H6,7,no,Standard Room,8694
+101,H6,3,yes,Superior Room,9873
+102,H6,2,yes,Superior Room,6676
+103,H6,9,yes,Superior Room,7000
+104,H6,1,yes,Superior Room,9771
+105,H6,8,yes,Superior Room,7408
+106,H6,6,yes,Superior Room,9447
+107,H6,5,yes,Superior Room,7643
+108,H6,1,yes,Superior Room,6039
+109,H6,9,yes,Superior Room,6324
+110,H6,7,yes,Superior Room,9498
+111,H6,3,yes,Superior Room,7162
+112,H6,1,yes,Superior Room,6354
+113,H6,3,yes,Superior Room,9324
+114,H6,6,yes,Superior Room,5751
+115,H6,2,yes,Superior Room,9651
+116,H6,2,yes,Superior Room,9041
+117,H6,8,yes,Superior Room,8890
+118,H6,9,yes,Superior Room,6676
+119,H6,3,yes,Superior Room,8736
+120,H6,4,yes,Superior Room,9275
+121,H6,2,no,Superior Room,5622
+122,H6,6,no,Superior Room,8360
+123,H6,3,no,Superior Room,5168
+124,H6,1,no,Superior Room,5390
+125,H6,7,no,Superior Room,5440
+126,H6,6,no,Superior Room,7834
+127,H6,2,no,Superior Room,6846
+128,H6,8,no,Superior Room,6936
+129,H6,10,no,Superior Room,5690
+130,H6,2,no,Superior Room,5007
+131,H6,10,no,Superior Room,9376
+132,H6,4,no,Superior Room,7767
+133,H6,1,no,Superior Room,8324
+134,H6,5,no,Superior Room,5591
+135,H6,6,no,Superior Room,9504
+136,H6,6,no,Superior Room,6116
+137,H6,3,no,Superior Room,5954
+138,H6,4,no,Superior Room,9093
+139,H6,10,no,Superior Room,7717
+140,H6,10,no,Superior Room,6655
+141,H6,1,yes,Deluxe Room,8403
+142,H6,5,yes,Deluxe Room,6850
+143,H6,6,yes,Deluxe Room,5570
+144,H6,9,yes,Deluxe Room,6124
+145,H6,9,yes,Deluxe Room,5242
+146,H6,4,yes,Deluxe Room,5493
+147,H6,5,yes,Deluxe Room,9516
+148,H6,10,yes,Deluxe Room,6246
+149,H6,4,yes,Deluxe Room,8627
+150,H6,1,yes,Deluxe Room,7359
+151,H6,2,yes,Deluxe Room,9439
+152,H6,2,yes,Deluxe Room,7557
+153,H6,5,yes,Deluxe Room,9565
+154,H6,4,yes,Deluxe Room,6320
+155,H6,3,yes,Deluxe Room,9345
+156,H6,5,no,Deluxe Room,8028
+157,H6,2,no,Deluxe Room,6713
+158,H6,7,no,Deluxe Room,9859
+159,H6,4,no,Deluxe Room,5969
+160,H6,4,no,Deluxe Room,9732
+161,H6,8,no,Deluxe Room,7820
+162,H6,9,no,Deluxe Room,7269
+163,H6,3,no,Deluxe Room,7932
+164,H6,5,no,Deluxe Room,8591
+165,H6,5,no,Deluxe Room,7354
+166,H6,8,no,Deluxe Room,9791
+167,H6,3,no,Deluxe Room,6156
+168,H6,7,no,Deluxe Room,8650
+169,H6,5,no,Deluxe Room,9413
+170,H6,5,no,Deluxe Room,7349
+171,H6,10,yes,Suite,5287
+172,H6,3,yes,Suite,7489
+173,H6,4,yes,Suite,6917
+174,H6,5,yes,Suite,5166
+175,H6,9,yes,Suite,5945
+176,H6,2,yes,Suite,5556
+177,H6,1,yes,Suite,6854
+178,H6,6,yes,Suite,8065
+179,H6,1,yes,Suite,9613
+180,H6,10,yes,Suite,6301
+181,H6,8,no,Suite,6337
+182,H6,6,no,Suite,8332
+183,H6,9,no,Suite,7407
+184,H6,6,no,Suite,6570
+185,H6,4,no,Suite,5080
+186,H6,2,no,Suite,9551
+187,H6,6,no,Suite,6140
+188,H6,9,no,Suite,9267
+189,H6,10,no,Suite,7157
+190,H6,3,no,Suite,5600
+191,H6,3,yes,Presidential Suite,8336
+192,H6,6,yes,Presidential Suite,8864
+193,H6,3,yes,Presidential Suite,8608
+194,H6,10,yes,Presidential Suite,6709
+195,H6,9,yes,Presidential Suite,6613
+196,H6,7,no,Presidential Suite,5754
+197,H6,9,no,Presidential Suite,7830
+198,H6,9,no,Presidential Suite,8897
+199,H6,10,no,Presidential Suite,8158
+200,H6,8,no,Presidential Suite,8241
+001,H7,2,yes,Standard Room,8731
+002,H7,10,yes,Standard Room,9767
+003,H7,9,yes,Standard Room,5698
+004,H7,9,yes,Standard Room,9219
+005,H7,5,yes,Standard Room,8250
+006,H7,6,yes,Standard Room,8173
+007,H7,10,yes,Standard Room,9746
+008,H7,10,yes,Standard Room,5609
+009,H7,9,yes,Standard Room,9909
+010,H7,4,yes,Standard Room,6899
+011,H7,8,yes,Standard Room,8607
+012,H7,5,yes,Standard Room,8186
+013,H7,3,yes,Standard Room,7063
+014,H7,7,yes,Standard Room,7774
+015,H7,5,yes,Standard Room,9837
+016,H7,3,yes,Standard Room,6883
+017,H7,5,yes,Standard Room,5438
+018,H7,8,yes,Standard Room,7035
+019,H7,3,yes,Standard Room,9521
+020,H7,4,yes,Standard Room,5029
+021,H7,2,yes,Standard Room,7872
+022,H7,2,yes,Standard Room,6098
+023,H7,10,yes,Standard Room,9097
+024,H7,8,yes,Standard Room,7627
+025,H7,2,yes,Standard Room,6369
+026,H7,7,yes,Standard Room,6988
+027,H7,5,yes,Standard Room,8405
+028,H7,4,yes,Standard Room,6618
+029,H7,9,yes,Standard Room,8723
+030,H7,9,yes,Standard Room,5671
+031,H7,5,yes,Standard Room,5517
+032,H7,7,yes,Standard Room,6469
+033,H7,6,yes,Standard Room,6281
+034,H7,4,yes,Standard Room,9387
+035,H7,4,yes,Standard Room,6123
+036,H7,2,yes,Standard Room,9807
+037,H7,7,yes,Standard Room,8846
+038,H7,7,yes,Standard Room,9296
+039,H7,9,yes,Standard Room,8639
+040,H7,8,yes,Standard Room,6843
+041,H7,10,yes,Standard Room,9517
+042,H7,9,yes,Standard Room,6800
+043,H7,6,yes,Standard Room,6841
+044,H7,2,yes,Standard Room,8647
+045,H7,2,yes,Standard Room,8729
+046,H7,3,yes,Standard Room,9620
+047,H7,2,yes,Standard Room,5008
+048,H7,7,yes,Standard Room,8822
+049,H7,9,yes,Standard Room,8389
+050,H7,5,yes,Standard Room,8588
+051,H7,10,no,Standard Room,8112
+052,H7,8,no,Standard Room,5802
+053,H7,7,no,Standard Room,7196
+054,H7,7,no,Standard Room,8581
+055,H7,6,no,Standard Room,9160
+056,H7,5,no,Standard Room,8986
+057,H7,9,no,Standard Room,6538
+058,H7,9,no,Standard Room,9345
+059,H7,1,no,Standard Room,7347
+060,H7,7,no,Standard Room,9578
+061,H7,9,no,Standard Room,6222
+062,H7,2,no,Standard Room,8688
+063,H7,1,no,Standard Room,6531
+064,H7,1,no,Standard Room,5613
+065,H7,10,no,Standard Room,9710
+066,H7,4,no,Standard Room,9405
+067,H7,2,no,Standard Room,8432
+068,H7,7,no,Standard Room,9453
+069,H7,10,no,Standard Room,5901
+070,H7,10,no,Standard Room,5253
+071,H7,4,no,Standard Room,8118
+072,H7,8,no,Standard Room,9900
+073,H7,4,no,Standard Room,6445
+074,H7,6,no,Standard Room,6874
+075,H7,4,no,Standard Room,5541
+076,H7,6,no,Standard Room,9084
+077,H7,7,no,Standard Room,6431
+078,H7,8,no,Standard Room,9441
+079,H7,7,no,Standard Room,7353
+080,H7,4,no,Standard Room,5560
+081,H7,4,no,Standard Room,7015
+082,H7,8,no,Standard Room,6091
+083,H7,1,no,Standard Room,8285
+084,H7,9,no,Standard Room,5177
+085,H7,1,no,Standard Room,6735
+086,H7,5,no,Standard Room,7668
+087,H7,5,no,Standard Room,7350
+088,H7,4,no,Standard Room,6624
+089,H7,4,no,Standard Room,8489
+090,H7,1,no,Standard Room,9872
+091,H7,4,no,Standard Room,8933
+092,H7,3,no,Standard Room,8694
+093,H7,1,no,Standard Room,8201
+094,H7,9,no,Standard Room,9748
+095,H7,7,no,Standard Room,6250
+096,H7,10,no,Standard Room,5596
+097,H7,5,no,Standard Room,7453
+098,H7,8,no,Standard Room,8981
+099,H7,8,no,Standard Room,8963
+100,H7,9,no,Standard Room,5351
+101,H7,1,yes,Superior Room,8291
+102,H7,9,yes,Superior Room,5751
+103,H7,2,yes,Superior Room,7238
+104,H7,5,yes,Superior Room,5934
+105,H7,5,yes,Superior Room,5358
+106,H7,10,yes,Superior Room,9722
+107,H7,4,yes,Superior Room,9384
+108,H7,9,yes,Superior Room,5265
+109,H7,4,yes,Superior Room,8898
+110,H7,10,yes,Superior Room,8582
+111,H7,4,yes,Superior Room,7244
+112,H7,9,yes,Superior Room,8033
+113,H7,9,yes,Superior Room,5990
+114,H7,8,yes,Superior Room,8113
+115,H7,5,yes,Superior Room,5771
+116,H7,2,yes,Superior Room,8862
+117,H7,3,yes,Superior Room,8419
+118,H7,3,yes,Superior Room,8949
+119,H7,9,yes,Superior Room,5438
+120,H7,4,yes,Superior Room,7289
+121,H7,5,no,Superior Room,7072
+122,H7,9,no,Superior Room,9818
+123,H7,8,no,Superior Room,7911
+124,H7,6,no,Superior Room,6918
+125,H7,6,no,Superior Room,6176
+126,H7,10,no,Superior Room,7817
+127,H7,10,no,Superior Room,9108
+128,H7,4,no,Superior Room,9360
+129,H7,8,no,Superior Room,8812
+130,H7,2,no,Superior Room,9490
+131,H7,3,no,Superior Room,7732
+132,H7,8,no,Superior Room,8938
+133,H7,8,no,Superior Room,8044
+134,H7,6,no,Superior Room,8663
+135,H7,8,no,Superior Room,8459
+136,H7,4,no,Superior Room,6062
+137,H7,10,no,Superior Room,8407
+138,H7,6,no,Superior Room,9651
+139,H7,5,no,Superior Room,6326
+140,H7,6,no,Superior Room,7860
+141,H7,2,yes,Deluxe Room,8087
+142,H7,2,yes,Deluxe Room,5610
+143,H7,5,yes,Deluxe Room,8932
+144,H7,4,yes,Deluxe Room,7783
+145,H7,9,yes,Deluxe Room,5787
+146,H7,9,yes,Deluxe Room,5023
+147,H7,3,yes,Deluxe Room,9383
+148,H7,6,yes,Deluxe Room,8440
+149,H7,5,yes,Deluxe Room,9749
+150,H7,10,yes,Deluxe Room,6384
+151,H7,2,yes,Deluxe Room,6085
+152,H7,3,yes,Deluxe Room,5796
+153,H7,6,yes,Deluxe Room,6146
+154,H7,7,yes,Deluxe Room,5168
+155,H7,4,yes,Deluxe Room,7148
+156,H7,3,no,Deluxe Room,9651
+157,H7,10,no,Deluxe Room,8362
+158,H7,4,no,Deluxe Room,5912
+159,H7,5,no,Deluxe Room,5433
+160,H7,4,no,Deluxe Room,7525
+161,H7,1,no,Deluxe Room,6216
+162,H7,10,no,Deluxe Room,7864
+163,H7,6,no,Deluxe Room,5876
+164,H7,6,no,Deluxe Room,6739
+165,H7,6,no,Deluxe Room,6552
+166,H7,8,no,Deluxe Room,5793
+167,H7,7,no,Deluxe Room,7559
+168,H7,2,no,Deluxe Room,9526
+169,H7,4,no,Deluxe Room,8666
+170,H7,8,no,Deluxe Room,9962
+171,H7,9,yes,Suite,5905
+172,H7,5,yes,Suite,9021
+173,H7,10,yes,Suite,7474
+174,H7,3,yes,Suite,8174
+175,H7,1,yes,Suite,5661
+176,H7,5,yes,Suite,8597
+177,H7,3,yes,Suite,7180
+178,H7,9,yes,Suite,8653
+179,H7,4,yes,Suite,5451
+180,H7,8,yes,Suite,5836
+181,H7,8,no,Suite,9894
+182,H7,7,no,Suite,7873
+183,H7,2,no,Suite,8223
+184,H7,1,no,Suite,5685
+185,H7,8,no,Suite,8525
+186,H7,1,no,Suite,5426
+187,H7,10,no,Suite,8814
+188,H7,1,no,Suite,9586
+189,H7,1,no,Suite,8528
+190,H7,10,no,Suite,9282
+191,H7,4,yes,Presidential Suite,9690
+192,H7,2,yes,Presidential Suite,5065
+193,H7,3,yes,Presidential Suite,9653
+194,H7,10,yes,Presidential Suite,5928
+195,H7,3,yes,Presidential Suite,6933
+196,H7,6,no,Presidential Suite,9813
+197,H7,10,no,Presidential Suite,6238
+198,H7,5,no,Presidential Suite,5450
+199,H7,7,no,Presidential Suite,5617
+200,H7,9,no,Presidential Suite,7639
+001,H8,3,yes,Standard Room,5219
+002,H8,10,yes,Standard Room,8467
+003,H8,3,yes,Standard Room,9065
+004,H8,8,yes,Standard Room,9676
+005,H8,3,yes,Standard Room,6784
+006,H8,7,yes,Standard Room,8399
+007,H8,5,yes,Standard Room,9633
+008,H8,3,yes,Standard Room,8369
+009,H8,1,yes,Standard Room,8656
+010,H8,6,yes,Standard Room,9036
+011,H8,6,yes,Standard Room,8485
+012,H8,1,yes,Standard Room,7004
+013,H8,5,yes,Standard Room,5031
+014,H8,8,yes,Standard Room,6348
+015,H8,1,yes,Standard Room,6702
+016,H8,6,yes,Standard Room,6279
+017,H8,2,yes,Standard Room,7043
+018,H8,4,yes,Standard Room,8667
+019,H8,9,yes,Standard Room,8017
+020,H8,1,yes,Standard Room,8568
+021,H8,8,yes,Standard Room,9650
+022,H8,6,yes,Standard Room,5312
+023,H8,8,yes,Standard Room,6996
+024,H8,8,yes,Standard Room,6290
+025,H8,7,yes,Standard Room,6679
+026,H8,2,yes,Standard Room,9329
+027,H8,9,yes,Standard Room,7725
+028,H8,3,yes,Standard Room,5129
+029,H8,4,yes,Standard Room,5965
+030,H8,5,yes,Standard Room,9182
+031,H8,8,yes,Standard Room,5995
+032,H8,1,yes,Standard Room,5417
+033,H8,5,yes,Standard Room,8868
+034,H8,7,yes,Standard Room,9255
+035,H8,2,yes,Standard Room,5498
+036,H8,8,yes,Standard Room,6686
+037,H8,6,yes,Standard Room,6813
+038,H8,3,yes,Standard Room,6502
+039,H8,5,yes,Standard Room,5751
+040,H8,2,yes,Standard Room,7215
+041,H8,3,yes,Standard Room,8059
+042,H8,6,yes,Standard Room,7077
+043,H8,5,yes,Standard Room,6515
+044,H8,6,yes,Standard Room,9894
+045,H8,7,yes,Standard Room,9157
+046,H8,8,yes,Standard Room,9093
+047,H8,8,yes,Standard Room,5263
+048,H8,3,yes,Standard Room,8431
+049,H8,5,yes,Standard Room,8306
+050,H8,6,yes,Standard Room,7702
+051,H8,3,no,Standard Room,8772
+052,H8,6,no,Standard Room,8634
+053,H8,5,no,Standard Room,9261
+054,H8,10,no,Standard Room,9320
+055,H8,1,no,Standard Room,8737
+056,H8,9,no,Standard Room,9811
+057,H8,2,no,Standard Room,6850
+058,H8,9,no,Standard Room,5185
+059,H8,9,no,Standard Room,5223
+060,H8,10,no,Standard Room,7928
+061,H8,3,no,Standard Room,8311
+062,H8,4,no,Standard Room,7840
+063,H8,1,no,Standard Room,9975
+064,H8,3,no,Standard Room,9215
+065,H8,10,no,Standard Room,5040
+066,H8,10,no,Standard Room,9059
+067,H8,7,no,Standard Room,9325
+068,H8,6,no,Standard Room,6829
+069,H8,2,no,Standard Room,7128
+070,H8,10,no,Standard Room,5212
+071,H8,6,no,Standard Room,8317
+072,H8,1,no,Standard Room,6424
+073,H8,1,no,Standard Room,7262
+074,H8,9,no,Standard Room,6426
+075,H8,4,no,Standard Room,7816
+076,H8,6,no,Standard Room,6485
+077,H8,5,no,Standard Room,8049
+078,H8,8,no,Standard Room,8356
+079,H8,10,no,Standard Room,8485
+080,H8,3,no,Standard Room,6372
+081,H8,6,no,Standard Room,5064
+082,H8,5,no,Standard Room,8118
+083,H8,10,no,Standard Room,7764
+084,H8,1,no,Standard Room,7962
+085,H8,3,no,Standard Room,5387
+086,H8,5,no,Standard Room,6391
+087,H8,9,no,Standard Room,8118
+088,H8,10,no,Standard Room,6088
+089,H8,8,no,Standard Room,8842
+090,H8,5,no,Standard Room,9823
+091,H8,9,no,Standard Room,6553
+092,H8,9,no,Standard Room,6560
+093,H8,6,no,Standard Room,7199
+094,H8,7,no,Standard Room,6283
+095,H8,5,no,Standard Room,5590
+096,H8,9,no,Standard Room,7284
+097,H8,10,no,Standard Room,8232
+098,H8,1,no,Standard Room,9225
+099,H8,8,no,Standard Room,6959
+100,H8,4,no,Standard Room,5589
+101,H8,5,yes,Superior Room,8568
+102,H8,8,yes,Superior Room,8252
+103,H8,4,yes,Superior Room,5240
+104,H8,8,yes,Superior Room,7171
+105,H8,5,yes,Superior Room,6264
+106,H8,5,yes,Superior Room,8433
+107,H8,7,yes,Superior Room,7157
+108,H8,3,yes,Superior Room,5685
+109,H8,5,yes,Superior Room,5195
+110,H8,6,yes,Superior Room,6564
+111,H8,6,yes,Superior Room,5051
+112,H8,3,yes,Superior Room,9935
+113,H8,1,yes,Superior Room,6169
+114,H8,7,yes,Superior Room,6338
+115,H8,3,yes,Superior Room,8611
+116,H8,9,yes,Superior Room,7997
+117,H8,4,yes,Superior Room,9319
+118,H8,7,yes,Superior Room,6646
+119,H8,2,yes,Superior Room,8845
+120,H8,6,yes,Superior Room,6441
+121,H8,7,no,Superior Room,5257
+122,H8,5,no,Superior Room,7855
+123,H8,10,no,Superior Room,8169
+124,H8,8,no,Superior Room,5392
+125,H8,7,no,Superior Room,8551
+126,H8,2,no,Superior Room,5461
+127,H8,6,no,Superior Room,6621
+128,H8,10,no,Superior Room,9718
+129,H8,10,no,Superior Room,9214
+130,H8,9,no,Superior Room,5110
+131,H8,3,no,Superior Room,5808
+132,H8,1,no,Superior Room,8651
+133,H8,10,no,Superior Room,5529
+134,H8,4,no,Superior Room,8116
+135,H8,6,no,Superior Room,8370
+136,H8,9,no,Superior Room,8648
+137,H8,4,no,Superior Room,7763
+138,H8,7,no,Superior Room,8624
+139,H8,6,no,Superior Room,8916
+140,H8,5,no,Superior Room,9056
+141,H8,10,yes,Deluxe Room,8999
+142,H8,9,yes,Deluxe Room,5297
+143,H8,6,yes,Deluxe Room,7513
+144,H8,9,yes,Deluxe Room,8254
+145,H8,4,yes,Deluxe Room,9603
+146,H8,2,yes,Deluxe Room,9893
+147,H8,3,yes,Deluxe Room,9601
+148,H8,5,yes,Deluxe Room,9884
+149,H8,4,yes,Deluxe Room,5061
+150,H8,4,yes,Deluxe Room,7478
+151,H8,8,yes,Deluxe Room,5066
+152,H8,2,yes,Deluxe Room,7038
+153,H8,3,yes,Deluxe Room,7005
+154,H8,9,yes,Deluxe Room,9896
+155,H8,6,yes,Deluxe Room,9135
+156,H8,6,no,Deluxe Room,7512
+157,H8,9,no,Deluxe Room,9799
+158,H8,2,no,Deluxe Room,5883
+159,H8,3,no,Deluxe Room,8638
+160,H8,6,no,Deluxe Room,8890
+161,H8,1,no,Deluxe Room,7758
+162,H8,10,no,Deluxe Room,5323
+163,H8,10,no,Deluxe Room,6184
+164,H8,5,no,Deluxe Room,7252
+165,H8,10,no,Deluxe Room,5519
+166,H8,8,no,Deluxe Room,6773
+167,H8,10,no,Deluxe Room,9383
+168,H8,6,no,Deluxe Room,7808
+169,H8,6,no,Deluxe Room,6688
+170,H8,4,no,Deluxe Room,6893
+171,H8,7,yes,Suite,6855
+172,H8,7,yes,Suite,5493
+173,H8,4,yes,Suite,5872
+174,H8,2,yes,Suite,6222
+175,H8,1,yes,Suite,7070
+176,H8,8,yes,Suite,5952
+177,H8,8,yes,Suite,8198
+178,H8,7,yes,Suite,7407
+179,H8,6,yes,Suite,6331
+180,H8,3,yes,Suite,6036
+181,H8,10,no,Suite,6956
+182,H8,10,no,Suite,9681
+183,H8,5,no,Suite,8985
+184,H8,6,no,Suite,8813
+185,H8,4,no,Suite,6940
+186,H8,4,no,Suite,6049
+187,H8,10,no,Suite,8865
+188,H8,3,no,Suite,6047
+189,H8,2,no,Suite,9801
+190,H8,5,no,Suite,9868
+191,H8,3,yes,Presidential Suite,6472
+192,H8,2,yes,Presidential Suite,7450
+193,H8,9,yes,Presidential Suite,5734
+194,H8,1,yes,Presidential Suite,7725
+195,H8,6,yes,Presidential Suite,8469
+196,H8,3,no,Presidential Suite,9896
+197,H8,10,no,Presidential Suite,8640
+198,H8,3,no,Presidential Suite,9245
+199,H8,9,no,Presidential Suite,8398
+200,H8,8,no,Presidential Suite,8578
+001,H9,10,yes,Standard Room,6183
+002,H9,2,yes,Standard Room,9099
+003,H9,6,yes,Standard Room,6358
+004,H9,4,yes,Standard Room,8142
+005,H9,9,yes,Standard Room,5188
+006,H9,9,yes,Standard Room,9209
+007,H9,5,yes,Standard Room,8665
+008,H9,4,yes,Standard Room,7445
+009,H9,3,yes,Standard Room,7429
+010,H9,10,yes,Standard Room,7960
+011,H9,9,yes,Standard Room,9386
+012,H9,10,yes,Standard Room,8242
+013,H9,1,yes,Standard Room,5279
+014,H9,3,yes,Standard Room,7252
+015,H9,6,yes,Standard Room,9605
+016,H9,5,yes,Standard Room,5469
+017,H9,5,yes,Standard Room,8276
+018,H9,2,yes,Standard Room,5580
+019,H9,2,yes,Standard Room,7051
+020,H9,6,yes,Standard Room,9431
+021,H9,6,yes,Standard Room,9530
+022,H9,2,yes,Standard Room,5474
+023,H9,5,yes,Standard Room,8579
+024,H9,3,yes,Standard Room,9964
+025,H9,8,yes,Standard Room,7699
+026,H9,4,yes,Standard Room,5713
+027,H9,9,yes,Standard Room,6254
+028,H9,7,yes,Standard Room,8604
+029,H9,8,yes,Standard Room,9696
+030,H9,9,yes,Standard Room,5085
+031,H9,6,yes,Standard Room,8047
+032,H9,8,yes,Standard Room,5378
+033,H9,7,yes,Standard Room,8318
+034,H9,7,yes,Standard Room,9723
+035,H9,7,yes,Standard Room,6588
+036,H9,4,yes,Standard Room,6939
+037,H9,4,yes,Standard Room,8885
+038,H9,5,yes,Standard Room,7690
+039,H9,4,yes,Standard Room,5178
+040,H9,3,yes,Standard Room,9817
+041,H9,4,yes,Standard Room,9049
+042,H9,2,yes,Standard Room,9295
+043,H9,3,yes,Standard Room,5300
+044,H9,5,yes,Standard Room,7230
+045,H9,10,yes,Standard Room,6482
+046,H9,6,yes,Standard Room,8671
+047,H9,8,yes,Standard Room,7840
+048,H9,5,yes,Standard Room,6958
+049,H9,6,yes,Standard Room,6765
+050,H9,7,yes,Standard Room,9259
+051,H9,6,no,Standard Room,6370
+052,H9,9,no,Standard Room,8464
+053,H9,9,no,Standard Room,9634
+054,H9,6,no,Standard Room,7501
+055,H9,6,no,Standard Room,9785
+056,H9,6,no,Standard Room,5156
+057,H9,7,no,Standard Room,6338
+058,H9,8,no,Standard Room,7325
+059,H9,10,no,Standard Room,6419
+060,H9,2,no,Standard Room,5345
+061,H9,5,no,Standard Room,6950
+062,H9,2,no,Standard Room,6279
+063,H9,9,no,Standard Room,6948
+064,H9,1,no,Standard Room,8378
+065,H9,7,no,Standard Room,6439
+066,H9,9,no,Standard Room,7840
+067,H9,10,no,Standard Room,6144
+068,H9,9,no,Standard Room,6932
+069,H9,10,no,Standard Room,7782
+070,H9,4,no,Standard Room,6842
+071,H9,2,no,Standard Room,7698
+072,H9,1,no,Standard Room,5169
+073,H9,9,no,Standard Room,9398
+074,H9,4,no,Standard Room,7564
+075,H9,5,no,Standard Room,9876
+076,H9,1,no,Standard Room,7246
+077,H9,2,no,Standard Room,7298
+078,H9,8,no,Standard Room,6424
+079,H9,6,no,Standard Room,6292
+080,H9,8,no,Standard Room,8291
+081,H9,8,no,Standard Room,9019
+082,H9,1,no,Standard Room,5616
+083,H9,8,no,Standard Room,7483
+084,H9,9,no,Standard Room,9557
+085,H9,5,no,Standard Room,6736
+086,H9,6,no,Standard Room,8153
+087,H9,4,no,Standard Room,7511
+088,H9,5,no,Standard Room,8027
+089,H9,7,no,Standard Room,6130
+090,H9,9,no,Standard Room,5266
+091,H9,4,no,Standard Room,9010
+092,H9,8,no,Standard Room,6117
+093,H9,1,no,Standard Room,6567
+094,H9,3,no,Standard Room,9910
+095,H9,3,no,Standard Room,8487
+096,H9,5,no,Standard Room,8798
+097,H9,10,no,Standard Room,5477
+098,H9,7,no,Standard Room,9223
+099,H9,3,no,Standard Room,5514
+100,H9,9,no,Standard Room,7611
+101,H9,2,yes,Superior Room,9690
+102,H9,1,yes,Superior Room,8494
+103,H9,2,yes,Superior Room,7122
+104,H9,8,yes,Superior Room,5272
+105,H9,6,yes,Superior Room,6241
+106,H9,3,yes,Superior Room,6130
+107,H9,7,yes,Superior Room,9993
+108,H9,10,yes,Superior Room,5566
+109,H9,4,yes,Superior Room,9078
+110,H9,8,yes,Superior Room,7090
+111,H9,7,yes,Superior Room,6150
+112,H9,10,yes,Superior Room,9747
+113,H9,9,yes,Superior Room,8127
+114,H9,1,yes,Superior Room,6585
+115,H9,9,yes,Superior Room,6368
+116,H9,8,yes,Superior Room,7761
+117,H9,3,yes,Superior Room,8486
+118,H9,2,yes,Superior Room,6218
+119,H9,1,yes,Superior Room,5062
+120,H9,4,yes,Superior Room,9422
+121,H9,3,no,Superior Room,9513
+122,H9,1,no,Superior Room,9823
+123,H9,7,no,Superior Room,6995
+124,H9,3,no,Superior Room,9852
+125,H9,1,no,Superior Room,6747
+126,H9,5,no,Superior Room,8058
+127,H9,10,no,Superior Room,5669
+128,H9,10,no,Superior Room,10000
+129,H9,6,no,Superior Room,6307
+130,H9,8,no,Superior Room,6839
+131,H9,5,no,Superior Room,6151
+132,H9,2,no,Superior Room,7042
+133,H9,6,no,Superior Room,5414
+134,H9,5,no,Superior Room,5397
+135,H9,9,no,Superior Room,6192
+136,H9,4,no,Superior Room,9386
+137,H9,8,no,Superior Room,7626
+138,H9,4,no,Superior Room,8617
+139,H9,4,no,Superior Room,6151
+140,H9,3,no,Superior Room,9365
+141,H9,5,yes,Deluxe Room,7725
+142,H9,8,yes,Deluxe Room,7237
+143,H9,2,yes,Deluxe Room,7813
+144,H9,1,yes,Deluxe Room,5103
+145,H9,6,yes,Deluxe Room,8274
+146,H9,1,yes,Deluxe Room,5917
+147,H9,1,yes,Deluxe Room,5596
+148,H9,5,yes,Deluxe Room,8443
+149,H9,4,yes,Deluxe Room,7607
+150,H9,5,yes,Deluxe Room,7091
+151,H9,5,yes,Deluxe Room,8539
+152,H9,2,yes,Deluxe Room,7343
+153,H9,3,yes,Deluxe Room,7009
+154,H9,5,yes,Deluxe Room,5744
+155,H9,6,yes,Deluxe Room,5555
+156,H9,6,no,Deluxe Room,6332
+157,H9,3,no,Deluxe Room,8481
+158,H9,6,no,Deluxe Room,9543
+159,H9,10,no,Deluxe Room,7474
+160,H9,7,no,Deluxe Room,9634
+161,H9,2,no,Deluxe Room,6988
+162,H9,4,no,Deluxe Room,8032
+163,H9,6,no,Deluxe Room,7307
+164,H9,7,no,Deluxe Room,5356
+165,H9,6,no,Deluxe Room,8855
+166,H9,1,no,Deluxe Room,5324
+167,H9,3,no,Deluxe Room,6625
+168,H9,3,no,Deluxe Room,6214
+169,H9,8,no,Deluxe Room,7336
+170,H9,4,no,Deluxe Room,6250
+171,H9,1,yes,Suite,8778
+172,H9,2,yes,Suite,8604
+173,H9,8,yes,Suite,5486
+174,H9,10,yes,Suite,8510
+175,H9,1,yes,Suite,9661
+176,H9,10,yes,Suite,5244
+177,H9,2,yes,Suite,9187
+178,H9,9,yes,Suite,9304
+179,H9,4,yes,Suite,8640
+180,H9,3,yes,Suite,7962
+181,H9,9,no,Suite,7162
+182,H9,2,no,Suite,6039
+183,H9,8,no,Suite,5829
+184,H9,8,no,Suite,5906
+185,H9,5,no,Suite,9680
+186,H9,4,no,Suite,9695
+187,H9,4,no,Suite,7528
+188,H9,3,no,Suite,8148
+189,H9,4,no,Suite,9196
+190,H9,3,no,Suite,5660
+191,H9,6,yes,Presidential Suite,7384
+192,H9,4,yes,Presidential Suite,9864
+193,H9,3,yes,Presidential Suite,7675
+194,H9,6,yes,Presidential Suite,7560
+195,H9,1,yes,Presidential Suite,5335
+196,H9,10,no,Presidential Suite,5783
+197,H9,6,no,Presidential Suite,6905
+198,H9,1,no,Presidential Suite,8635
+199,H9,4,no,Presidential Suite,6125
+200,H9,6,no,Presidential Suite,7829
+001,H10,5,yes,Standard Room,9798
+002,H10,6,yes,Standard Room,9708
+003,H10,10,yes,Standard Room,5061
+004,H10,3,yes,Standard Room,5257
+005,H10,8,yes,Standard Room,9773
+006,H10,7,yes,Standard Room,8483
+007,H10,7,yes,Standard Room,5997
+008,H10,8,yes,Standard Room,9985
+009,H10,2,yes,Standard Room,9979
+010,H10,4,yes,Standard Room,7098
+011,H10,6,yes,Standard Room,6856
+012,H10,5,yes,Standard Room,6812
+013,H10,9,yes,Standard Room,9364
+014,H10,4,yes,Standard Room,7828
+015,H10,2,yes,Standard Room,8271
+016,H10,8,yes,Standard Room,5302
+017,H10,10,yes,Standard Room,7543
+018,H10,5,yes,Standard Room,9466
+019,H10,5,yes,Standard Room,9372
+020,H10,2,yes,Standard Room,9607
+021,H10,9,yes,Standard Room,6220
+022,H10,7,yes,Standard Room,7571
+023,H10,8,yes,Standard Room,7649
+024,H10,7,yes,Standard Room,8675
+025,H10,7,yes,Standard Room,9834
+026,H10,2,yes,Standard Room,7692
+027,H10,8,yes,Standard Room,5321
+028,H10,1,yes,Standard Room,7072
+029,H10,10,yes,Standard Room,5609
+030,H10,2,yes,Standard Room,6756
+031,H10,2,yes,Standard Room,6514
+032,H10,3,yes,Standard Room,8779
+033,H10,2,yes,Standard Room,5250
+034,H10,3,yes,Standard Room,7942
+035,H10,1,yes,Standard Room,5363
+036,H10,9,yes,Standard Room,9142
+037,H10,10,yes,Standard Room,7035
+038,H10,2,yes,Standard Room,6797
+039,H10,6,yes,Standard Room,7618
+040,H10,5,yes,Standard Room,9278
+041,H10,10,yes,Standard Room,7943
+042,H10,2,yes,Standard Room,9416
+043,H10,1,yes,Standard Room,6773
+044,H10,9,yes,Standard Room,7256
+045,H10,8,yes,Standard Room,9957
+046,H10,3,yes,Standard Room,7587
+047,H10,10,yes,Standard Room,8311
+048,H10,2,yes,Standard Room,9936
+049,H10,1,yes,Standard Room,6870
+050,H10,8,yes,Standard Room,7240
+051,H10,2,no,Standard Room,5624
+052,H10,8,no,Standard Room,5365
+053,H10,5,no,Standard Room,7378
+054,H10,1,no,Standard Room,8794
+055,H10,4,no,Standard Room,7593
+056,H10,2,no,Standard Room,5516
+057,H10,7,no,Standard Room,8779
+058,H10,6,no,Standard Room,8057
+059,H10,2,no,Standard Room,7190
+060,H10,3,no,Standard Room,6694
+061,H10,5,no,Standard Room,7704
+062,H10,3,no,Standard Room,8961
+063,H10,1,no,Standard Room,7958
+064,H10,2,no,Standard Room,8354
+065,H10,4,no,Standard Room,5301
+066,H10,3,no,Standard Room,7132
+067,H10,1,no,Standard Room,6424
+068,H10,7,no,Standard Room,8480
+069,H10,8,no,Standard Room,6086
+070,H10,3,no,Standard Room,9868
+071,H10,1,no,Standard Room,9565
+072,H10,7,no,Standard Room,8772
+073,H10,5,no,Standard Room,7239
+074,H10,9,no,Standard Room,6355
+075,H10,2,no,Standard Room,7906
+076,H10,7,no,Standard Room,7417
+077,H10,5,no,Standard Room,7262
+078,H10,4,no,Standard Room,9159
+079,H10,1,no,Standard Room,7022
+080,H10,6,no,Standard Room,9888
+081,H10,5,no,Standard Room,6402
+082,H10,2,no,Standard Room,8183
+083,H10,5,no,Standard Room,9094
+084,H10,1,no,Standard Room,8981
+085,H10,3,no,Standard Room,8283
+086,H10,7,no,Standard Room,5768
+087,H10,6,no,Standard Room,7415
+088,H10,9,no,Standard Room,6761
+089,H10,2,no,Standard Room,8108
+090,H10,2,no,Standard Room,6168
+091,H10,2,no,Standard Room,6288
+092,H10,8,no,Standard Room,7733
+093,H10,10,no,Standard Room,9135
+094,H10,5,no,Standard Room,9937
+095,H10,7,no,Standard Room,8207
+096,H10,6,no,Standard Room,7147
+097,H10,10,no,Standard Room,5586
+098,H10,5,no,Standard Room,5461
+099,H10,8,no,Standard Room,7600
+100,H10,6,no,Standard Room,9615
+101,H10,6,yes,Superior Room,6499
+102,H10,7,yes,Superior Room,8762
+103,H10,4,yes,Superior Room,7294
+104,H10,7,yes,Superior Room,9431
+105,H10,5,yes,Superior Room,9836
+106,H10,2,yes,Superior Room,6602
+107,H10,2,yes,Superior Room,7989
+108,H10,6,yes,Superior Room,6984
+109,H10,1,yes,Superior Room,7231
+110,H10,1,yes,Superior Room,7599
+111,H10,6,yes,Superior Room,9217
+112,H10,7,yes,Superior Room,6949
+113,H10,6,yes,Superior Room,9197
+114,H10,9,yes,Superior Room,5862
+115,H10,9,yes,Superior Room,6657
+116,H10,2,yes,Superior Room,5031
+117,H10,2,yes,Superior Room,5005
+118,H10,8,yes,Superior Room,9437
+119,H10,3,yes,Superior Room,6772
+120,H10,10,yes,Superior Room,9759
+121,H10,6,no,Superior Room,9747
+122,H10,9,no,Superior Room,5490
+123,H10,8,no,Superior Room,9206
+124,H10,2,no,Superior Room,7787
+125,H10,9,no,Superior Room,6665
+126,H10,10,no,Superior Room,7081
+127,H10,6,no,Superior Room,9655
+128,H10,5,no,Superior Room,8730
+129,H10,2,no,Superior Room,9337
+130,H10,3,no,Superior Room,6052
+131,H10,9,no,Superior Room,9693
+132,H10,2,no,Superior Room,7598
+133,H10,4,no,Superior Room,6123
+134,H10,9,no,Superior Room,8090
+135,H10,1,no,Superior Room,6769
+136,H10,1,no,Superior Room,5094
+137,H10,6,no,Superior Room,7578
+138,H10,1,no,Superior Room,5551
+139,H10,1,no,Superior Room,6468
+140,H10,4,no,Superior Room,9433
+141,H10,6,yes,Deluxe Room,9673
+142,H10,1,yes,Deluxe Room,8637
+143,H10,7,yes,Deluxe Room,9653
+144,H10,10,yes,Deluxe Room,7938
+145,H10,3,yes,Deluxe Room,5861
+146,H10,4,yes,Deluxe Room,8133
+147,H10,8,yes,Deluxe Room,5416
+148,H10,6,yes,Deluxe Room,6400
+149,H10,6,yes,Deluxe Room,8686
+150,H10,3,yes,Deluxe Room,5924
+151,H10,3,yes,Deluxe Room,5764
+152,H10,9,yes,Deluxe Room,6023
+153,H10,9,yes,Deluxe Room,5847
+154,H10,6,yes,Deluxe Room,5787
+155,H10,2,yes,Deluxe Room,6435
+156,H10,9,no,Deluxe Room,9654
+157,H10,3,no,Deluxe Room,8171
+158,H10,9,no,Deluxe Room,5428
+159,H10,5,no,Deluxe Room,7024
+160,H10,7,no,Deluxe Room,8955
+161,H10,3,no,Deluxe Room,5088
+162,H10,7,no,Deluxe Room,8909
+163,H10,10,no,Deluxe Room,9710
+164,H10,3,no,Deluxe Room,5003
+165,H10,1,no,Deluxe Room,7663
+166,H10,5,no,Deluxe Room,8284
+167,H10,3,no,Deluxe Room,8843
+168,H10,9,no,Deluxe Room,9599
+169,H10,9,no,Deluxe Room,5085
+170,H10,3,no,Deluxe Room,9714
+171,H10,6,yes,Suite,6452
+172,H10,10,yes,Suite,8806
+173,H10,2,yes,Suite,5210
+174,H10,8,yes,Suite,8990
+175,H10,3,yes,Suite,8116
+176,H10,4,yes,Suite,9726
+177,H10,4,yes,Suite,6203
+178,H10,10,yes,Suite,6706
+179,H10,4,yes,Suite,7540
+180,H10,9,yes,Suite,8521
+181,H10,7,no,Suite,9743
+182,H10,1,no,Suite,6935
+183,H10,1,no,Suite,8412
+184,H10,4,no,Suite,5526
+185,H10,10,no,Suite,6183
+186,H10,4,no,Suite,8694
+187,H10,1,no,Suite,9395
+188,H10,3,no,Suite,8965
+189,H10,4,no,Suite,5733
+190,H10,1,no,Suite,8853
+191,H10,4,yes,Presidential Suite,8216
+192,H10,7,yes,Presidential Suite,6533
+193,H10,10,yes,Presidential Suite,7140
+194,H10,7,yes,Presidential Suite,8386
+195,H10,1,yes,Presidential Suite,6791
+196,H10,4,no,Presidential Suite,6695
+197,H10,5,no,Presidential Suite,6973
+198,H10,6,no,Presidential Suite,9297
+199,H10,4,no,Presidential Suite,9478
+200,H10,2,no,Presidential Suite,8737

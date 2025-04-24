@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Gym Management System</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <style>
+    html,body{height: 100%;}
+    body{min-height:100vh;display:flex;flex-direction:column;}
+    footer.footer{margin-top:auto;}
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{ url_for('index') }}">Home</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#ugymNav" aria-controls="ugymNav" aria-expanded="false" aria-label="Toggle nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="ugymNav">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('index') }}">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('courses') }}">Courses</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('course_instances') }}">Cycle Courses</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('products') }}">Products</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('lost_and_found') }}">Lost & Found</a></li>
+      
+        {% if session.get('role') == 'member' %}
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('my_purchase') }}">My Purchases</a></li>
+        {% endif %}
+      
+        {% if session.get('role') == 'coach' %}
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('coach_schedule') }}">Coach Schedule</a></li>
+        {% endif %}
+      
+        {% if session.get('role') == 'staff' or session.get('role') == 'admin' %}
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('dashboard') }}">Dashboard</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('branch_manage') }}">Branch</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('admin_manage') }}">Staff</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('equipment_manage') }}">Equipment</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('course_template_manage') }}">Template Manage</a></li>
+        {% endif %}
+      </ul>      
+      <ul class="navbar-nav ms-auto">
+        {% if session.get('username') %}
+        <li class="nav-item">
+            <span class="navbar-text">{{ session['last_name'] }}({{ session['role'] }})&nbsp;</span>
+            <a class="btn btn-outline-danger btn-sm ms-2" href="{{ url_for('logout') }}">Logout</a>
+        </li>
+        {% else %}
+        <li class="nav-item">
+            <a class="btn btn-outline-primary btn-sm" href="{{ url_for('login') }}">Login/Register</a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</nav>
+<main class="container py-4">
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div class="alert alert-warning">{{ messages[0] }}</div>
+      {% endif %}
+    {% endwith %}
+    {% block body %}{% endblock %}
+</main>
+<footer class="footer mt-auto py-3 bg-light text-center shadow-sm">
+  <div class="container">
+      <span class="text-muted">
+          Database Management Systems [Semester 2 of 2024-2025]<br>
+          &copy; 2025 Chenwen FAN (Tony), Yishuo ZHANG (Ocast), Shaopeng CHEN (Leonid), Mingzhe LI (Tetsu) | <a href="#">Feedback</a><br>
+      </span>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% block body %}
+<h2 class="text-center mb-4">Dashboard</h2>
+<div class="row">
+    <div class="col">
+        <div class="alert alert-info text-center">Today's Visitors: <b>{{ stat.today_visit }}</b></div>
+    </div>
+    <div class="col">
+        <div class="alert alert-success text-center">Total Members: <b>{{ stat.total_member }}</b></div>
+    </div>
+    <div class="col">
+        <div class="alert alert-primary text-center">Total Coaches: <b>{{ stat.total_coach }}</b></div>
+    </div>
+</div>
+<div class="row mt-4">
+    <div class="col-6">
+        <h5>Age Distribution</h5>
+        <ul class="list-group">
+            {% for k,v in stat.age_groups.items() %}
+            <li class="list-group-item d-flex justify-content-between">
+                <span>{{ k }}</span><span>{{ v }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="col-6">
+        <h5>Gender Distribution</h5>
+        <ul class="list-group">
+            {% for k,v in stat.gender_groups.items() %}
+            <li class="list-group-item d-flex justify-content-between">
+                <span>{{ k }}</span><span>{{ v }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}
