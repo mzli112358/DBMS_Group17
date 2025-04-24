@@ -1,0 +1,501 @@
+course_id,name,start_date,end_date,start_time,end_time,hours,coach_id,branch_id,location,fee,requirement,max_seats,img
+300430,Evening Weightlifting Technique Workshop,2025-05-24,2025-08-16,09:00,11:00,2.0,100736,296,Studio A4,250,Medical clearance needed,20,/images/weightlifting-2.jpg
+300251,Morning Dance Hip-hop Workshop,2025-05-24,2025-06-21,14:00,16:00,2.0,101486,88,Studio B4,70,No experience required,30,/images/dance-5.jpg
+300045,Morning Cycling HIIT Class,2025-05-24,2025-08-16,18:00,20:00,2.0,101134,252,Studio C1,190,Age 16+,30,/images/cycling-4.jpg
+300484,Morning Dance Zumba Session,2025-05-25,2025-07-20,18:00,20:00,2.0,102338,202,Studio B3,300,Medical clearance needed,15,/images/dance-2.jpg
+300228,Afternoon Martial Arts Kickboxing Session,2025-05-25,2025-07-20,14:00,16:00,2.0,100588,483,Studio B2,80,No experience required,25,/images/martial arts-4.jpg
+300044,Morning Weightlifting Olympic Class,2025-05-26,2025-06-23,19:00,21:00,2.0,101588,245,Studio B3,170,Basic fitness required,25,/images/weightlifting-5.jpg
+300384,Afternoon Pilates Clinical Workshop,2025-05-26,2025-07-21,18:00,20:00,2.0,100232,389,Studio C1,100,Basic fitness required,25,/images/pilates-2.jpg
+300203,Afternoon Pilates Clinical Session,2025-05-26,2025-07-21,09:00,11:00,2.0,100033,338,Studio B1,260,Basic fitness required,20,/images/pilates-4.jpg
+300485,Evening Weightlifting Strength Workshop,2025-05-27,2025-08-19,09:00,11:00,2.0,100208,336,Studio A5,80,Age 16+,20,/images/weightlifting-2.jpg
+300379,Afternoon Weightlifting Power Session,2025-05-27,2025-06-24,09:00,11:00,2.0,101139,432,Studio A5,100,Basic fitness required,25,/images/weightlifting-4.jpg
+300015,Weekend Weightlifting Olympic Workshop,2025-05-27,2025-08-19,09:00,11:00,2.0,100736,200,Studio B4,120,Age 16+,20,/images/weightlifting-1.jpg
+300149,Weekend Dance Zumba Program,2025-05-27,2025-07-22,09:00,11:00,2.0,101539,473,Studio A2,270,No experience required,25,/images/dance-1.jpg
+300009,Evening Weightlifting Olympic Workshop,2025-05-27,2025-06-24,19:00,21:00,2.0,101942,470,Studio A2,280,Medical clearance needed,30,/images/weightlifting-2.jpg
+300048,Morning Cycling Indoor Program,2025-05-28,2025-08-20,09:00,11:00,2.0,102963,29,Studio C3,200,Basic fitness required,20,/images/cycling-2.jpg
+300330,Afternoon Weightlifting Technique Session,2025-05-28,2025-08-20,19:00,21:00,2.0,102043,174,Studio A5,110,Age 16+,15,/images/weightlifting-5.jpg
+300038,Afternoon Martial Arts MMA Session,2025-05-28,2025-06-25,09:00,11:00,2.0,100229,458,Studio C3,230,Basic fitness required,20,/images/martial arts-1.jpg
+300014,Morning Cycling Indoor Class,2025-05-28,2025-08-20,19:00,21:00,2.0,100821,395,Studio C2,230,No experience required,25,/images/cycling-5.jpg
+300355,Weekend Martial Arts Kickboxing Workshop,2025-05-28,2025-08-20,18:00,20:00,2.0,101121,172,Studio A4,160,Age 16+,20,/images/martial arts-2.jpg
+300181,Weekend Yoga Beginner Session,2025-05-28,2025-08-20,18:00,20:00,2.0,100194,242,Studio B3,220,Medical clearance needed,15,/images/yoga-1.jpg
+300310,Afternoon Dance Aerobic Class,2025-05-29,2025-07-24,14:00,16:00,2.0,101215,34,Studio C3,100,No experience required,25,/images/dance-1.jpg
+300028,Weekend Weightlifting Strength Workshop,2025-05-29,2025-06-26,09:00,11:00,2.0,102740,302,Studio A4,240,Basic fitness required,20,/images/weightlifting-4.jpg
+300381,Evening Weightlifting Technique Workshop,2025-05-29,2025-08-21,18:00,20:00,2.0,102294,490,Studio A3,150,No experience required,30,/images/weightlifting-4.jpg
+300457,Evening Cycling Endurance Program,2025-05-29,2025-07-24,14:00,16:00,2.0,102539,492,Studio C3,90,Medical clearance needed,25,/images/cycling-2.jpg
+300017,Morning Yoga Advanced Class,2025-05-29,2025-07-24,09:00,11:00,2.0,100195,498,Studio C4,130,No experience required,20,/images/yoga-2.jpg
+300127,Afternoon Cycling Endurance Class,2025-05-29,2025-06-26,19:00,21:00,2.0,100165,68,Studio C4,130,Age 16+,25,/images/cycling-1.jpg
+300275,Evening Pilates Clinical Program,2025-05-30,2025-06-27,09:00,11:00,2.0,101776,325,Studio B2,150,Basic fitness required,15,/images/pilates-1.jpg
+300056,Afternoon Martial Arts MMA Program,2025-05-30,2025-08-22,18:00,20:00,2.0,100865,370,Studio B5,70,Basic fitness required,20,/images/martial arts-2.jpg
+300247,Evening Dance Hip-hop Program,2025-05-30,2025-08-22,09:00,11:00,2.0,101213,96,Studio B2,240,No experience required,20,/images/dance-5.jpg
+300104,Evening Dance Hip-hop Program,2025-05-30,2025-06-27,19:00,21:00,2.0,100301,137,Studio A5,260,Age 16+,20,/images/dance-2.jpg
+300036,Weekend Yoga Beginner Program,2025-05-30,2025-06-27,14:00,16:00,2.0,102154,126,Studio C5,120,Age 16+,15,/images/yoga-1.jpg
+300000,Evening Cycling Endurance Workshop,2025-05-30,2025-06-27,09:00,11:00,2.0,102043,368,Studio A3,260,Medical clearance needed,25,/images/cycling-4.jpg
+300395,Morning Yoga Hot Workshop,2025-05-30,2025-06-27,09:00,11:00,2.0,100054,147,Studio A2,180,No experience required,25,/images/yoga-1.jpg
+300439,Weekend Cycling Endurance Class,2025-05-31,2025-08-23,18:00,20:00,2.0,102311,147,Studio B2,220,Basic fitness required,20,/images/cycling-3.jpg
+300291,Morning Martial Arts Kickboxing Class,2025-05-31,2025-08-23,18:00,20:00,2.0,101297,464,Studio C1,230,Age 16+,20,/images/martial arts-3.jpg
+300132,Afternoon Dance Zumba Session,2025-05-31,2025-08-23,19:00,21:00,2.0,101179,148,Studio C1,150,No experience required,20,/images/dance-1.jpg
+300157,Weekend Martial Arts Kickboxing Workshop,2025-05-31,2025-07-26,09:00,11:00,2.0,101902,139,Studio A3,80,Medical clearance needed,30,/images/martial arts-1.jpg
+300155,Afternoon Yoga Advanced Program,2025-05-31,2025-07-26,19:00,21:00,2.0,101982,456,Studio A3,90,No experience required,20,/images/yoga-5.jpg
+300316,Afternoon Cycling Indoor Workshop,2025-05-31,2025-06-28,18:00,20:00,2.0,101888,32,Studio C5,250,No experience required,25,/images/cycling-1.jpg
+300487,Morning Yoga Advanced Class,2025-05-31,2025-08-23,14:00,16:00,2.0,100929,430,Studio C4,260,Age 16+,20,/images/yoga-1.jpg
+300231,Morning Dance Zumba Workshop,2025-05-31,2025-06-28,09:00,11:00,2.0,100277,237,Studio B5,270,No experience required,20,/images/dance-3.jpg
+300425,Weekend Yoga Prenatal Program,2025-05-31,2025-07-26,18:00,20:00,2.0,101600,286,Studio A3,90,Basic fitness required,15,/images/yoga-5.jpg
+300209,Afternoon Pilates Mat Workshop,2025-06-01,2025-06-29,09:00,11:00,2.0,102852,203,Studio B2,220,Medical clearance needed,25,/images/pilates-4.jpg
+300072,Afternoon Cycling HIIT Session,2025-06-01,2025-06-29,19:00,21:00,2.0,102184,173,Studio A3,290,No experience required,20,/images/cycling-4.jpg
+300113,Morning Pilates Group Session,2025-06-01,2025-06-29,09:00,11:00,2.0,100936,91,Studio C4,80,Basic fitness required,25,/images/pilates-5.jpg
+300162,Weekend Cycling Indoor Workshop,2025-06-02,2025-08-25,18:00,20:00,2.0,102426,200,Studio B5,190,No experience required,20,/images/cycling-2.jpg
+300227,Evening Pilates Reformer Program,2025-06-02,2025-08-25,09:00,11:00,2.0,101902,340,Studio B2,60,Age 16+,20,/images/pilates-4.jpg
+300314,Morning Martial Arts MMA Class,2025-06-02,2025-08-25,18:00,20:00,2.0,100777,248,Studio A1,150,Medical clearance needed,30,/images/martial arts-1.jpg
+300311,Afternoon Dance Hip-hop Session,2025-06-02,2025-06-30,18:00,20:00,2.0,101338,38,Studio B3,100,Age 16+,25,/images/dance-1.jpg
+300445,Evening Dance Zumba Session,2025-06-02,2025-08-25,14:00,16:00,2.0,101117,394,Studio C5,250,Basic fitness required,20,/images/dance-3.jpg
+300373,Weekend Dance Zumba Class,2025-06-03,2025-07-01,19:00,21:00,2.0,102338,260,Studio A1,250,No experience required,30,/images/dance-2.jpg
+300175,Evening Martial Arts Boxing Session,2025-06-03,2025-08-26,18:00,20:00,2.0,100054,475,Studio A2,300,Basic fitness required,25,/images/martial arts-5.jpg
+300263,Afternoon Dance Hip-hop Session,2025-06-03,2025-08-26,09:00,11:00,2.0,100396,216,Studio A5,230,Medical clearance needed,15,/images/dance-1.jpg
+300024,Morning Dance Aerobic Program,2025-06-03,2025-07-29,18:00,20:00,2.0,102606,213,Studio A2,120,No experience required,30,/images/dance-3.jpg
+300387,Morning Dance Hip-hop Session,2025-06-03,2025-07-01,14:00,16:00,2.0,102659,329,Studio B2,220,Age 16+,25,/images/dance-5.jpg
+300324,Weekend Yoga Beginner Session,2025-06-03,2025-07-01,18:00,20:00,2.0,102902,125,Studio C2,50,Age 16+,20,/images/yoga-3.jpg
+300023,Weekend Dance Zumba Session,2025-06-04,2025-07-02,18:00,20:00,2.0,101387,476,Studio A2,230,No experience required,20,/images/dance-2.jpg
+300062,Morning Pilates Clinical Class,2025-06-04,2025-08-27,18:00,20:00,2.0,101530,448,Studio C5,80,No experience required,25,/images/pilates-2.jpg
+300147,Weekend Yoga Hot Class,2025-06-04,2025-07-02,19:00,21:00,2.0,101398,357,Studio C2,200,Age 16+,25,/images/yoga-5.jpg
+300399,Morning Pilates Clinical Workshop,2025-06-04,2025-08-27,18:00,20:00,2.0,102549,95,Studio C2,250,Medical clearance needed,15,/images/pilates-3.jpg
+300264,Morning Pilates Group Class,2025-06-05,2025-07-03,18:00,20:00,2.0,101709,102,Studio C3,90,No experience required,20,/images/pilates-2.jpg
+300174,Morning Weightlifting Strength Program,2025-06-05,2025-08-28,09:00,11:00,2.0,102963,224,Studio C2,290,Age 16+,20,/images/weightlifting-4.jpg
+300257,Weekend Cycling Endurance Program,2025-06-05,2025-07-03,09:00,11:00,2.0,102463,355,Studio A3,240,Medical clearance needed,25,/images/cycling-3.jpg
+300112,Afternoon Pilates Clinical Workshop,2025-06-05,2025-08-28,14:00,16:00,2.0,101434,280,Studio C5,250,No experience required,25,/images/pilates-2.jpg
+300272,Afternoon Cycling HIIT Program,2025-06-05,2025-07-03,18:00,20:00,2.0,102691,92,Studio B3,300,Age 16+,30,/images/cycling-5.jpg
+300217,Weekend Cycling Indoor Workshop,2025-06-06,2025-08-29,19:00,21:00,2.0,101311,3,Studio A5,240,No experience required,25,/images/cycling-4.jpg
+300456,Afternoon Weightlifting Power Program,2025-06-06,2025-08-01,19:00,21:00,2.0,102549,342,Studio A5,290,No experience required,20,/images/weightlifting-4.jpg
+300361,Evening Pilates Mat Program,2025-06-06,2025-07-04,09:00,11:00,2.0,101186,196,Studio C1,180,No experience required,20,/images/pilates-5.jpg
+300022,Weekend Weightlifting Technique Session,2025-06-06,2025-07-04,09:00,11:00,2.0,101322,233,Studio B4,200,Age 16+,15,/images/weightlifting-2.jpg
+300375,Afternoon Martial Arts Kickboxing Class,2025-06-07,2025-08-30,14:00,16:00,2.0,102001,399,Studio B3,190,No experience required,15,/images/martial arts-1.jpg
+300225,Evening Yoga Beginner Program,2025-06-07,2025-07-05,09:00,11:00,2.0,101218,266,Studio A3,80,Basic fitness required,20,/images/yoga-3.jpg
+300370,Weekend Dance Hip-hop Workshop,2025-06-07,2025-08-30,18:00,20:00,2.0,102963,230,Studio C4,220,Age 16+,25,/images/dance-5.jpg
+300318,Evening Weightlifting Power Session,2025-06-07,2025-08-02,19:00,21:00,2.0,101902,493,Studio B3,170,Basic fitness required,20,/images/weightlifting-3.jpg
+300382,Weekend Weightlifting Power Workshop,2025-06-07,2025-08-30,14:00,16:00,2.0,102609,393,Studio A3,250,Age 16+,15,/images/weightlifting-3.jpg
+300160,Afternoon Yoga Advanced Session,2025-06-07,2025-08-02,09:00,11:00,2.0,102161,412,Studio A2,90,No experience required,15,/images/yoga-1.jpg
+300213,Evening Dance Hip-hop Program,2025-06-08,2025-07-06,19:00,21:00,2.0,100600,166,Studio A2,90,Basic fitness required,25,/images/dance-5.jpg
+300002,Weekend Martial Arts Kickboxing Workshop,2025-06-09,2025-07-07,18:00,20:00,2.0,101481,274,Studio C1,220,No experience required,30,/images/martial arts-1.jpg
+300492,Morning Weightlifting Olympic Workshop,2025-06-09,2025-07-07,09:00,11:00,2.0,101160,326,Studio A1,150,Basic fitness required,20,/images/weightlifting-1.jpg
+300141,Weekend Dance Zumba Program,2025-06-09,2025-08-04,09:00,11:00,2.0,102744,232,Studio A2,280,Basic fitness required,30,/images/dance-2.jpg
+300096,Morning Dance Zumba Program,2025-06-10,2025-07-08,14:00,16:00,2.0,102403,346,Studio C5,230,Age 16+,25,/images/dance-4.jpg
+300372,Weekend Cycling Indoor Program,2025-06-11,2025-07-09,18:00,20:00,2.0,101825,454,Studio B4,220,Basic fitness required,20,/images/cycling-3.jpg
+300199,Afternoon Martial Arts MMA Workshop,2025-06-11,2025-07-09,14:00,16:00,2.0,101324,114,Studio A4,160,Age 16+,30,/images/martial arts-5.jpg
+300406,Evening Dance Aerobic Session,2025-06-11,2025-09-03,09:00,11:00,2.0,102956,469,Studio A2,160,No experience required,15,/images/dance-2.jpg
+300110,Afternoon Dance Aerobic Class,2025-06-11,2025-08-06,09:00,11:00,2.0,100929,279,Studio B5,160,Medical clearance needed,15,/images/dance-5.jpg
+300138,Afternoon Pilates Mat Program,2025-06-12,2025-09-04,18:00,20:00,2.0,101907,480,Studio C1,210,Age 16+,30,/images/pilates-3.jpg
+300302,Morning Yoga Beginner Workshop,2025-06-12,2025-08-07,14:00,16:00,2.0,100722,294,Studio C4,70,Medical clearance needed,20,/images/yoga-2.jpg
+300019,Afternoon Yoga Intermediate Program,2025-06-12,2025-09-04,19:00,21:00,2.0,102289,201,Studio B4,60,No experience required,20,/images/yoga-4.jpg
+300034,Evening Yoga Advanced Workshop,2025-06-13,2025-07-11,18:00,20:00,2.0,102163,246,Studio C2,80,Medical clearance needed,20,/images/yoga-2.jpg
+300350,Afternoon Weightlifting Strength Session,2025-06-13,2025-08-08,14:00,16:00,2.0,101765,268,Studio A4,270,Medical clearance needed,15,/images/weightlifting-2.jpg
+300001,Weekend Dance Zumba Workshop,2025-06-13,2025-08-08,14:00,16:00,2.0,100588,244,Studio C4,120,No experience required,20,/images/dance-5.jpg
+300153,Morning Cycling HIIT Program,2025-06-13,2025-07-11,19:00,21:00,2.0,100929,171,Studio C5,300,Medical clearance needed,25,/images/cycling-2.jpg
+300074,Morning Cycling Indoor Workshop,2025-06-13,2025-07-11,14:00,16:00,2.0,101990,309,Studio A5,250,Basic fitness required,30,/images/cycling-1.jpg
+300397,Morning Dance Hip-hop Workshop,2025-06-14,2025-07-12,19:00,21:00,2.0,101121,350,Studio A1,260,Basic fitness required,20,/images/dance-5.jpg
+300386,Afternoon Weightlifting Strength Class,2025-06-14,2025-07-12,18:00,20:00,2.0,102101,448,Studio A5,100,Medical clearance needed,20,/images/weightlifting-2.jpg
+300450,Afternoon Dance Zumba Class,2025-06-14,2025-08-09,18:00,20:00,2.0,101035,338,Studio B1,240,Basic fitness required,20,/images/dance-5.jpg
+300216,Weekend Weightlifting Technique Class,2025-06-14,2025-09-06,18:00,20:00,2.0,102160,336,Studio B3,140,Basic fitness required,20,/images/weightlifting-3.jpg
+300005,Weekend Cycling Endurance Session,2025-06-14,2025-09-06,19:00,21:00,2.0,102402,342,Studio B3,160,Basic fitness required,20,/images/cycling-5.jpg
+300030,Weekend Cycling Indoor Workshop,2025-06-14,2025-08-09,14:00,16:00,2.0,102042,86,Studio C3,190,No experience required,20,/images/cycling-2.jpg
+300065,Weekend Martial Arts MMA Class,2025-06-15,2025-07-13,14:00,16:00,2.0,101483,318,Studio A5,80,No experience required,20,/images/martial arts-5.jpg
+300274,Afternoon Cycling Indoor Class,2025-06-15,2025-08-10,09:00,11:00,2.0,102463,136,Studio B5,170,Medical clearance needed,20,/images/cycling-3.jpg
+300306,Afternoon Dance Zumba Workshop,2025-06-15,2025-08-10,18:00,20:00,2.0,102055,22,Studio B4,50,Age 16+,25,/images/dance-5.jpg
+300206,Weekend Weightlifting Olympic Session,2025-06-15,2025-08-10,18:00,20:00,2.0,100732,293,Studio A4,150,Age 16+,20,/images/weightlifting-2.jpg
+300389,Morning Dance Hip-hop Program,2025-06-16,2025-07-14,18:00,20:00,2.0,102779,141,Studio B1,170,Age 16+,15,/images/dance-4.jpg
+300040,Evening Cycling Indoor Session,2025-06-16,2025-09-08,18:00,20:00,2.0,102740,497,Studio B2,120,No experience required,25,/images/cycling-3.jpg
+300410,Afternoon Martial Arts MMA Workshop,2025-06-16,2025-09-08,18:00,20:00,2.0,100081,441,Studio A5,240,Basic fitness required,20,/images/martial arts-2.jpg
+300321,Weekend Cycling Indoor Session,2025-06-16,2025-07-14,14:00,16:00,2.0,101952,334,Studio C5,60,Medical clearance needed,30,/images/cycling-4.jpg
+300392,Morning Dance Hip-hop Class,2025-06-16,2025-07-14,09:00,11:00,2.0,102764,330,Studio C4,190,No experience required,20,/images/dance-1.jpg
+300327,Weekend Cycling Endurance Class,2025-06-17,2025-07-15,19:00,21:00,2.0,100736,149,Studio B1,160,Medical clearance needed,30,/images/cycling-1.jpg
+300371,Evening Yoga Advanced Session,2025-06-17,2025-09-09,09:00,11:00,2.0,100251,108,Studio A4,170,Basic fitness required,20,/images/yoga-5.jpg
+300458,Morning Martial Arts MMA Session,2025-06-17,2025-07-15,18:00,20:00,2.0,100806,107,Studio B5,220,Basic fitness required,20,/images/martial arts-2.jpg
+300289,Afternoon Yoga Intermediate Session,2025-06-17,2025-07-15,19:00,21:00,2.0,102869,79,Studio B3,240,Medical clearance needed,30,/images/yoga-2.jpg
+300114,Weekend Pilates Mat Program,2025-06-17,2025-08-12,18:00,20:00,2.0,100267,380,Studio B4,230,Basic fitness required,30,/images/pilates-4.jpg
+300143,Morning Martial Arts Kickboxing Program,2025-06-17,2025-08-12,18:00,20:00,2.0,100974,342,Studio B3,200,Medical clearance needed,30,/images/martial arts-3.jpg
+300178,Weekend Yoga Hot Class,2025-06-17,2025-09-09,09:00,11:00,2.0,102949,83,Studio A3,70,Basic fitness required,30,/images/yoga-5.jpg
+300496,Afternoon Cycling Endurance Class,2025-06-17,2025-09-09,18:00,20:00,2.0,100503,487,Studio C1,220,Age 16+,15,/images/cycling-1.jpg
+300205,Afternoon Pilates Group Program,2025-06-18,2025-08-13,14:00,16:00,2.0,102160,131,Studio A5,260,Age 16+,20,/images/pilates-5.jpg
+300081,Weekend Pilates Group Program,2025-06-18,2025-07-16,19:00,21:00,2.0,101863,14,Studio C3,250,Medical clearance needed,15,/images/pilates-5.jpg
+300267,Evening Cycling Indoor Program,2025-06-19,2025-09-11,09:00,11:00,2.0,102103,401,Studio A5,250,No experience required,30,/images/cycling-4.jpg
+300345,Afternoon Cycling Indoor Class,2025-06-19,2025-08-14,14:00,16:00,2.0,102768,165,Studio B2,290,Age 16+,20,/images/cycling-2.jpg
+300245,Morning Yoga Advanced Program,2025-06-19,2025-07-17,18:00,20:00,2.0,100125,72,Studio A3,260,Basic fitness required,20,/images/yoga-3.jpg
+300358,Evening Yoga Prenatal Session,2025-06-19,2025-07-17,14:00,16:00,2.0,102402,117,Studio A1,50,Age 16+,15,/images/yoga-5.jpg
+300192,Morning Weightlifting Olympic Workshop,2025-06-19,2025-08-14,09:00,11:00,2.0,100356,307,Studio A5,140,Age 16+,30,/images/weightlifting-5.jpg
+300070,Morning Martial Arts Boxing Class,2025-06-19,2025-08-14,09:00,11:00,2.0,102879,105,Studio A3,290,Medical clearance needed,20,/images/martial arts-3.jpg
+300229,Morning Cycling Endurance Class,2025-06-20,2025-07-18,14:00,16:00,2.0,102852,93,Studio C1,280,Basic fitness required,15,/images/cycling-2.jpg
+300431,Morning Martial Arts Boxing Workshop,2025-06-20,2025-08-15,14:00,16:00,2.0,102520,315,Studio A3,210,Medical clearance needed,20,/images/martial arts-5.jpg
+300250,Evening Yoga Hot Class,2025-06-20,2025-08-15,19:00,21:00,2.0,102163,457,Studio B3,150,Age 16+,25,/images/yoga-4.jpg
+300184,Weekend Yoga Advanced Class,2025-06-20,2025-07-18,14:00,16:00,2.0,102867,36,Studio C2,60,No experience required,20,/images/yoga-2.jpg
+300129,Morning Dance Zumba Session,2025-06-20,2025-07-18,18:00,20:00,2.0,100251,154,Studio C5,260,No experience required,25,/images/dance-3.jpg
+300012,Weekend Pilates Reformer Program,2025-06-20,2025-09-12,19:00,21:00,2.0,102163,170,Studio C1,160,Age 16+,20,/images/pilates-5.jpg
+300033,Afternoon Weightlifting Power Session,2025-06-20,2025-07-18,14:00,16:00,2.0,102070,318,Studio C2,70,Age 16+,25,/images/weightlifting-3.jpg
+300480,Evening Pilates Mat Class,2025-06-20,2025-09-12,14:00,16:00,2.0,101512,209,Studio C2,230,Basic fitness required,30,/images/pilates-4.jpg
+300497,Weekend Martial Arts Boxing Workshop,2025-06-20,2025-08-15,14:00,16:00,2.0,102789,113,Studio C3,220,Medical clearance needed,25,/images/martial arts-2.jpg
+300125,Evening Pilates Reformer Workshop,2025-06-21,2025-07-19,19:00,21:00,2.0,102184,302,Studio B1,50,Age 16+,30,/images/pilates-5.jpg
+300164,Weekend Weightlifting Technique Session,2025-06-21,2025-09-13,14:00,16:00,2.0,102744,271,Studio A4,130,Medical clearance needed,30,/images/weightlifting-3.jpg
+300473,Weekend Yoga Hot Session,2025-06-21,2025-08-16,14:00,16:00,2.0,101467,370,Studio B2,90,Age 16+,15,/images/yoga-5.jpg
+300076,Morning Dance Zumba Workshop,2025-06-21,2025-09-13,09:00,11:00,2.0,101491,364,Studio C2,60,Basic fitness required,20,/images/dance-1.jpg
+300134,Afternoon Yoga Hot Program,2025-06-21,2025-07-19,14:00,16:00,2.0,102879,378,Studio A3,130,Medical clearance needed,20,/images/yoga-3.jpg
+300204,Weekend Dance Aerobic Program,2025-06-21,2025-07-19,19:00,21:00,2.0,102477,153,Studio B5,250,Age 16+,30,/images/dance-2.jpg
+300446,Evening Pilates Clinical Workshop,2025-06-21,2025-08-16,14:00,16:00,2.0,102202,195,Studio A1,230,Age 16+,20,/images/pilates-4.jpg
+300167,Afternoon Yoga Beginner Session,2025-06-21,2025-07-19,19:00,21:00,2.0,100328,254,Studio A2,130,Age 16+,15,/images/yoga-4.jpg
+300360,Morning Cycling HIIT Class,2025-06-21,2025-09-13,09:00,11:00,2.0,100777,435,Studio C1,140,No experience required,25,/images/cycling-3.jpg
+300054,Weekend Weightlifting Strength Class,2025-06-22,2025-08-17,14:00,16:00,2.0,101630,172,Studio A3,170,Age 16+,15,/images/weightlifting-4.jpg
+300148,Evening Pilates Group Program,2025-06-22,2025-07-20,09:00,11:00,2.0,102918,313,Studio B4,130,Age 16+,25,/images/pilates-3.jpg
+300051,Weekend Martial Arts Kickboxing Workshop,2025-06-22,2025-07-20,19:00,21:00,2.0,101543,163,Studio B4,260,Age 16+,25,/images/martial arts-4.jpg
+300107,Evening Yoga Prenatal Class,2025-06-22,2025-07-20,14:00,16:00,2.0,100345,118,Studio C5,240,Age 16+,20,/images/yoga-1.jpg
+300092,Evening Martial Arts Boxing Class,2025-06-23,2025-09-15,09:00,11:00,2.0,101515,453,Studio C2,220,Medical clearance needed,30,/images/martial arts-5.jpg
+300331,Evening Cycling Indoor Program,2025-06-23,2025-09-15,14:00,16:00,2.0,101415,28,Studio A3,190,Age 16+,20,/images/cycling-1.jpg
+300452,Evening Yoga Beginner Class,2025-06-23,2025-07-21,09:00,11:00,2.0,102138,66,Studio B3,280,Medical clearance needed,20,/images/yoga-4.jpg
+300221,Morning Weightlifting Technique Program,2025-06-23,2025-08-18,18:00,20:00,2.0,102090,185,Studio B4,180,Medical clearance needed,25,/images/weightlifting-4.jpg
+300140,Weekend Pilates Clinical Class,2025-06-23,2025-08-18,19:00,21:00,2.0,102296,240,Studio B3,150,Basic fitness required,30,/images/pilates-4.jpg
+300078,Morning Pilates Clinical Class,2025-06-24,2025-09-16,14:00,16:00,2.0,102477,64,Studio A3,60,Basic fitness required,20,/images/pilates-1.jpg
+300121,Weekend Dance Aerobic Class,2025-06-24,2025-08-19,14:00,16:00,2.0,101121,329,Studio B3,50,Basic fitness required,15,/images/dance-5.jpg
+300198,Weekend Dance Hip-hop Workshop,2025-06-24,2025-09-16,19:00,21:00,2.0,102659,19,Studio B4,160,No experience required,25,/images/dance-5.jpg
+300008,Morning Pilates Reformer Program,2025-06-24,2025-09-16,09:00,11:00,2.0,101035,317,Studio B2,140,Basic fitness required,15,/images/pilates-5.jpg
+300356,Afternoon Dance Zumba Session,2025-06-24,2025-07-22,19:00,21:00,2.0,101874,63,Studio C5,300,Age 16+,20,/images/dance-5.jpg
+300118,Weekend Cycling Indoor Workshop,2025-06-24,2025-09-16,14:00,16:00,2.0,102154,361,Studio C1,180,Basic fitness required,30,/images/cycling-4.jpg
+300495,Evening Cycling Endurance Workshop,2025-06-25,2025-08-20,18:00,20:00,2.0,102744,254,Studio B2,70,Basic fitness required,25,/images/cycling-5.jpg
+300079,Weekend Cycling Indoor Program,2025-06-25,2025-08-20,09:00,11:00,2.0,101806,429,Studio C1,120,Age 16+,25,/images/cycling-5.jpg
+300240,Weekend Pilates Clinical Workshop,2025-06-25,2025-08-20,09:00,11:00,2.0,100259,12,Studio B4,290,Medical clearance needed,30,/images/pilates-3.jpg
+300159,Morning Pilates Group Program,2025-06-26,2025-07-24,18:00,20:00,2.0,101297,378,Studio B2,300,Basic fitness required,25,/images/pilates-1.jpg
+300325,Morning Cycling Indoor Program,2025-06-26,2025-07-24,09:00,11:00,2.0,102520,473,Studio B5,280,No experience required,15,/images/cycling-3.jpg
+300091,Weekend Martial Arts MMA Program,2025-06-26,2025-09-18,18:00,20:00,2.0,101434,180,Studio C5,170,Medical clearance needed,20,/images/martial arts-3.jpg
+300010,Morning Cycling Endurance Program,2025-06-26,2025-08-21,14:00,16:00,2.0,101481,496,Studio A4,240,No experience required,25,/images/cycling-4.jpg
+300437,Afternoon Martial Arts Kickboxing Program,2025-06-26,2025-08-21,09:00,11:00,2.0,101918,301,Studio C3,270,Basic fitness required,30,/images/martial arts-5.jpg
+300233,Afternoon Pilates Reformer Session,2025-06-26,2025-09-18,19:00,21:00,2.0,101952,81,Studio B2,230,Age 16+,20,/images/pilates-1.jpg
+300337,Afternoon Yoga Prenatal Class,2025-06-26,2025-07-24,09:00,11:00,2.0,101501,15,Studio B4,120,No experience required,20,/images/yoga-2.jpg
+300292,Afternoon Martial Arts Kickboxing Session,2025-06-26,2025-09-18,19:00,21:00,2.0,100647,338,Studio B1,60,Medical clearance needed,15,/images/martial arts-1.jpg
+300106,Weekend Dance Zumba Class,2025-06-27,2025-08-22,14:00,16:00,2.0,101715,253,Studio A4,130,Medical clearance needed,20,/images/dance-5.jpg
+300171,Evening Cycling Endurance Program,2025-06-27,2025-08-22,18:00,20:00,2.0,100251,312,Studio C2,170,Basic fitness required,20,/images/cycling-5.jpg
+300139,Evening Weightlifting Power Workshop,2025-06-27,2025-07-25,18:00,20:00,2.0,102070,189,Studio A1,170,Age 16+,30,/images/weightlifting-4.jpg
+300353,Morning Cycling Indoor Session,2025-06-28,2025-09-20,09:00,11:00,2.0,102070,86,Studio A3,160,Age 16+,25,/images/cycling-5.jpg
+300187,Weekend Cycling HIIT Workshop,2025-06-28,2025-08-23,09:00,11:00,2.0,101825,93,Studio C2,160,No experience required,15,/images/cycling-3.jpg
+300365,Weekend Pilates Reformer Workshop,2025-06-28,2025-07-26,14:00,16:00,2.0,100669,230,Studio A4,180,No experience required,25,/images/pilates-3.jpg
+300032,Morning Dance Hip-hop Workshop,2025-06-28,2025-09-20,14:00,16:00,2.0,102963,96,Studio B1,190,Medical clearance needed,30,/images/dance-5.jpg
+300282,Evening Dance Hip-hop Session,2025-06-28,2025-09-20,14:00,16:00,2.0,101309,86,Studio C2,100,Age 16+,20,/images/dance-3.jpg
+300421,Weekend Pilates Group Workshop,2025-06-28,2025-09-20,14:00,16:00,2.0,102589,204,Studio B4,280,Basic fitness required,30,/images/pilates-1.jpg
+300486,Afternoon Yoga Prenatal Workshop,2025-06-28,2025-07-26,19:00,21:00,2.0,102727,169,Studio B2,240,Medical clearance needed,20,/images/yoga-2.jpg
+300060,Morning Martial Arts Boxing Workshop,2025-06-28,2025-07-26,19:00,21:00,2.0,100722,314,Studio A2,200,Age 16+,20,/images/martial arts-3.jpg
+300215,Weekend Dance Aerobic Workshop,2025-06-29,2025-07-27,14:00,16:00,2.0,101139,470,Studio B5,170,Medical clearance needed,20,/images/dance-5.jpg
+300085,Weekend Weightlifting Technique Session,2025-06-29,2025-07-27,14:00,16:00,2.0,101115,254,Studio B1,130,Medical clearance needed,25,/images/weightlifting-2.jpg
+300126,Weekend Pilates Reformer Program,2025-06-29,2025-09-21,09:00,11:00,2.0,102390,275,Studio C2,60,Basic fitness required,30,/images/pilates-1.jpg
+300295,Afternoon Cycling HIIT Workshop,2025-06-29,2025-08-24,18:00,20:00,2.0,102035,322,Studio C3,90,Medical clearance needed,20,/images/cycling-5.jpg
+300297,Weekend Weightlifting Power Program,2025-06-29,2025-08-24,09:00,11:00,2.0,102433,37,Studio B4,70,Medical clearance needed,25,/images/weightlifting-2.jpg
+300075,Evening Cycling HIIT Class,2025-06-29,2025-09-21,09:00,11:00,2.0,101990,38,Studio C4,170,Age 16+,25,/images/cycling-4.jpg
+300256,Evening Martial Arts Boxing Workshop,2025-06-29,2025-08-24,14:00,16:00,2.0,101434,112,Studio A4,170,No experience required,20,/images/martial arts-1.jpg
+300416,Morning Cycling Indoor Workshop,2025-06-30,2025-08-25,19:00,21:00,2.0,102691,297,Studio A5,150,Medical clearance needed,30,/images/cycling-5.jpg
+300443,Morning Cycling Endurance Workshop,2025-06-30,2025-08-25,09:00,11:00,2.0,101467,186,Studio C1,230,No experience required,20,/images/cycling-2.jpg
+300407,Morning Martial Arts Boxing Workshop,2025-06-30,2025-09-22,09:00,11:00,2.0,102993,279,Studio B2,100,Age 16+,20,/images/martial arts-2.jpg
+300093,Evening Weightlifting Power Program,2025-06-30,2025-07-28,09:00,11:00,2.0,102671,368,Studio A4,300,Basic fitness required,20,/images/weightlifting-3.jpg
+300419,Morning Martial Arts Kickboxing Program,2025-07-01,2025-09-23,18:00,20:00,2.0,100396,386,Studio B5,260,No experience required,25,/images/martial arts-5.jpg
+300303,Evening Cycling Endurance Class,2025-07-01,2025-08-26,18:00,20:00,2.0,102463,264,Studio A3,100,Basic fitness required,15,/images/cycling-5.jpg
+300025,Morning Pilates Mat Class,2025-07-01,2025-07-29,18:00,20:00,2.0,102539,147,Studio A3,150,Age 16+,20,/images/pilates-1.jpg
+300109,Afternoon Martial Arts Kickboxing Workshop,2025-07-01,2025-08-26,14:00,16:00,2.0,101322,426,Studio C5,50,Medical clearance needed,30,/images/martial arts-3.jpg
+300333,Weekend Martial Arts Boxing Session,2025-07-01,2025-07-29,18:00,20:00,2.0,101716,111,Studio A3,280,Basic fitness required,20,/images/martial arts-1.jpg
+300336,Evening Cycling HIIT Class,2025-07-02,2025-09-24,14:00,16:00,2.0,102834,44,Studio B2,100,No experience required,20,/images/cycling-2.jpg
+300418,Afternoon Martial Arts Kickboxing Session,2025-07-02,2025-07-30,14:00,16:00,2.0,101297,481,Studio A5,300,Medical clearance needed,25,/images/martial arts-5.jpg
+300362,Afternoon Dance Hip-hop Session,2025-07-02,2025-09-24,09:00,11:00,2.0,100865,307,Studio A3,110,Age 16+,25,/images/dance-2.jpg
+300277,Evening Yoga Beginner Class,2025-07-02,2025-09-24,18:00,20:00,2.0,101531,244,Studio B4,160,Basic fitness required,25,/images/yoga-4.jpg
+300319,Morning Weightlifting Olympic Class,2025-07-02,2025-07-30,19:00,21:00,2.0,100120,339,Studio C4,290,Age 16+,20,/images/weightlifting-2.jpg
+300253,Weekend Cycling Indoor Class,2025-07-02,2025-09-24,18:00,20:00,2.0,101630,127,Studio A2,150,Medical clearance needed,20,/images/cycling-3.jpg
+300188,Evening Dance Aerobic Session,2025-07-02,2025-07-30,19:00,21:00,2.0,101938,435,Studio B1,130,Medical clearance needed,25,/images/dance-3.jpg
+300094,Evening Cycling HIIT Workshop,2025-07-02,2025-07-30,09:00,11:00,2.0,101764,354,Studio C2,70,Basic fitness required,30,/images/cycling-5.jpg
+300066,Morning Yoga Hot Program,2025-07-03,2025-09-25,09:00,11:00,2.0,100759,23,Studio B2,230,Age 16+,20,/images/yoga-2.jpg
+300119,Weekend Pilates Reformer Program,2025-07-03,2025-07-31,18:00,20:00,2.0,101134,195,Studio A2,240,Basic fitness required,25,/images/pilates-5.jpg
+300018,Weekend Weightlifting Strength Program,2025-07-03,2025-09-25,18:00,20:00,2.0,100069,235,Studio B3,260,Age 16+,20,/images/weightlifting-4.jpg
+300098,Weekend Yoga Beginner Program,2025-07-03,2025-08-28,09:00,11:00,2.0,100208,18,Studio C4,230,No experience required,20,/images/yoga-3.jpg
+300317,Evening Yoga Beginner Workshop,2025-07-04,2025-09-26,18:00,20:00,2.0,100949,370,Studio A5,220,No experience required,25,/images/yoga-4.jpg
+300493,Morning Pilates Group Class,2025-07-04,2025-08-29,09:00,11:00,2.0,101477,339,Studio A3,120,Medical clearance needed,30,/images/pilates-3.jpg
+300170,Evening Dance Aerobic Class,2025-07-04,2025-08-29,09:00,11:00,2.0,101054,452,Studio B2,290,No experience required,30,/images/dance-3.jpg
+300208,Weekend Pilates Mat Program,2025-07-04,2025-08-01,14:00,16:00,2.0,101938,93,Studio A3,100,No experience required,25,/images/pilates-1.jpg
+300210,Morning Weightlifting Olympic Workshop,2025-07-04,2025-09-26,09:00,11:00,2.0,100329,86,Studio C3,90,No experience required,25,/images/weightlifting-4.jpg
+300055,Morning Cycling Endurance Session,2025-07-04,2025-08-01,19:00,21:00,2.0,102154,360,Studio C5,290,Age 16+,20,/images/cycling-2.jpg
+300237,Weekend Martial Arts Boxing Session,2025-07-04,2025-08-01,18:00,20:00,2.0,102153,427,Studio C3,100,Medical clearance needed,30,/images/martial arts-5.jpg
+300369,Weekend Martial Arts MMA Class,2025-07-04,2025-08-29,09:00,11:00,2.0,102090,172,Studio B5,230,Medical clearance needed,15,/images/martial arts-2.jpg
+300440,Afternoon Pilates Mat Session,2025-07-05,2025-08-30,19:00,21:00,2.0,102779,496,Studio B2,170,Age 16+,15,/images/pilates-2.jpg
+300067,Weekend Yoga Intermediate Workshop,2025-07-05,2025-08-30,18:00,20:00,2.0,100232,54,Studio B3,220,No experience required,20,/images/yoga-2.jpg
+300068,Weekend Martial Arts Kickboxing Class,2025-07-05,2025-08-30,18:00,20:00,2.0,101841,198,Studio B3,90,Medical clearance needed,30,/images/martial arts-4.jpg
+300165,Evening Cycling HIIT Session,2025-07-05,2025-08-30,09:00,11:00,2.0,102331,25,Studio A3,150,Age 16+,30,/images/cycling-5.jpg
+300035,Morning Yoga Beginner Class,2025-07-05,2025-08-30,14:00,16:00,2.0,102055,222,Studio C5,190,Age 16+,25,/images/yoga-3.jpg
+300332,Weekend Martial Arts MMA Workshop,2025-07-06,2025-08-31,09:00,11:00,2.0,100710,40,Studio C3,170,No experience required,25,/images/martial arts-5.jpg
+300003,Afternoon Martial Arts MMA Program,2025-07-06,2025-08-03,09:00,11:00,2.0,100139,465,Studio A3,110,No experience required,25,/images/martial arts-4.jpg
+300006,Weekend Pilates Group Program,2025-07-06,2025-08-31,09:00,11:00,2.0,100415,101,Studio C2,120,No experience required,20,/images/pilates-5.jpg
+300320,Weekend Cycling Endurance Class,2025-07-06,2025-09-28,19:00,21:00,2.0,102149,431,Studio A5,260,Medical clearance needed,20,/images/cycling-3.jpg
+300013,Morning Cycling HIIT Session,2025-07-06,2025-08-03,14:00,16:00,2.0,100988,31,Studio C4,210,No experience required,25,/images/cycling-2.jpg
+300467,Weekend Dance Aerobic Workshop,2025-07-07,2025-09-01,19:00,21:00,2.0,102100,432,Studio C3,150,No experience required,25,/images/dance-4.jpg
+300084,Afternoon Martial Arts Boxing Program,2025-07-07,2025-08-04,14:00,16:00,2.0,101415,108,Studio C3,110,Medical clearance needed,20,/images/martial arts-2.jpg
+300083,Evening Weightlifting Strength Session,2025-07-07,2025-09-29,14:00,16:00,2.0,102698,200,Studio C5,110,No experience required,25,/images/weightlifting-2.jpg
+300479,Evening Cycling Indoor Class,2025-07-07,2025-09-29,14:00,16:00,2.0,101296,270,Studio B3,100,No experience required,25,/images/cycling-1.jpg
+300279,Weekend Weightlifting Technique Class,2025-07-07,2025-08-04,18:00,20:00,2.0,100716,496,Studio A2,80,Medical clearance needed,20,/images/weightlifting-2.jpg
+300211,Morning Cycling Indoor Program,2025-07-07,2025-08-04,19:00,21:00,2.0,101530,3,Studio A2,250,Medical clearance needed,30,/images/cycling-4.jpg
+300301,Afternoon Yoga Beginner Workshop,2025-07-07,2025-08-04,14:00,16:00,2.0,102154,318,Studio B5,190,Medical clearance needed,20,/images/yoga-1.jpg
+300474,Evening Dance Hip-hop Workshop,2025-07-07,2025-09-01,19:00,21:00,2.0,101387,230,Studio A5,200,No experience required,25,/images/dance-2.jpg
+300464,Afternoon Yoga Prenatal Workshop,2025-07-07,2025-09-29,19:00,21:00,2.0,101533,11,Studio B5,80,Basic fitness required,20,/images/yoga-2.jpg
+300426,Afternoon Yoga Advanced Class,2025-07-08,2025-09-30,09:00,11:00,2.0,102956,96,Studio A2,210,Basic fitness required,25,/images/yoga-2.jpg
+300482,Evening Cycling Endurance Class,2025-07-08,2025-09-30,14:00,16:00,2.0,101543,141,Studio A5,240,No experience required,30,/images/cycling-2.jpg
+300451,Evening Yoga Advanced Workshop,2025-07-08,2025-09-30,14:00,16:00,2.0,100899,195,Studio C4,260,Medical clearance needed,20,/images/yoga-4.jpg
+300343,Morning Cycling Indoor Workshop,2025-07-08,2025-09-30,18:00,20:00,2.0,100618,391,Studio B1,190,Age 16+,25,/images/cycling-1.jpg
+300448,Weekend Martial Arts MMA Program,2025-07-08,2025-09-30,18:00,20:00,2.0,102474,276,Studio A2,260,Age 16+,15,/images/martial arts-1.jpg
+300016,Morning Dance Zumba Class,2025-07-09,2025-08-06,09:00,11:00,2.0,102423,18,Studio B1,50,Basic fitness required,30,/images/dance-2.jpg
+300413,Evening Dance Aerobic Workshop,2025-07-09,2025-10-01,14:00,16:00,2.0,102035,16,Studio C3,180,Basic fitness required,25,/images/dance-5.jpg
+300323,Weekend Dance Zumba Workshop,2025-07-10,2025-09-04,19:00,21:00,2.0,101687,103,Studio C1,100,No experience required,25,/images/dance-2.jpg
+300089,Evening Yoga Intermediate Program,2025-07-10,2025-09-04,14:00,16:00,2.0,100640,256,Studio B4,200,Age 16+,25,/images/yoga-1.jpg
+300145,Evening Weightlifting Power Workshop,2025-07-10,2025-10-02,19:00,21:00,2.0,100647,9,Studio A4,230,Age 16+,20,/images/weightlifting-2.jpg
+300031,Weekend Dance Hip-hop Session,2025-07-11,2025-08-08,14:00,16:00,2.0,101093,493,Studio C3,120,Age 16+,30,/images/dance-1.jpg
+300169,Evening Pilates Clinical Session,2025-07-11,2025-09-05,14:00,16:00,2.0,101486,383,Studio A1,120,Medical clearance needed,30,/images/pilates-3.jpg
+300241,Evening Dance Aerobic Session,2025-07-11,2025-10-03,18:00,20:00,2.0,102202,18,Studio C1,50,Basic fitness required,20,/images/dance-3.jpg
+300131,Evening Yoga Beginner Program,2025-07-12,2025-09-06,19:00,21:00,2.0,100728,290,Studio C3,60,Medical clearance needed,15,/images/yoga-1.jpg
+300435,Weekend Weightlifting Strength Workshop,2025-07-12,2025-08-09,18:00,20:00,2.0,100008,110,Studio A4,190,No experience required,20,/images/weightlifting-3.jpg
+300073,Evening Pilates Group Session,2025-07-12,2025-10-04,09:00,11:00,2.0,102474,299,Studio A4,60,Age 16+,20,/images/pilates-2.jpg
+300298,Weekend Weightlifting Strength Session,2025-07-13,2025-08-10,09:00,11:00,2.0,100975,92,Studio A4,90,No experience required,20,/images/weightlifting-5.jpg
+300296,Weekend Weightlifting Power Session,2025-07-13,2025-08-10,18:00,20:00,2.0,102041,178,Studio B2,290,No experience required,15,/images/weightlifting-5.jpg
+300232,Evening Dance Hip-hop Program,2025-07-13,2025-09-07,19:00,21:00,2.0,101902,35,Studio B3,270,Basic fitness required,20,/images/dance-1.jpg
+300101,Weekend Yoga Prenatal Class,2025-07-13,2025-08-10,18:00,20:00,2.0,102914,3,Studio C5,270,No experience required,25,/images/yoga-5.jpg
+300133,Morning Cycling HIIT Workshop,2025-07-13,2025-08-10,18:00,20:00,2.0,100669,110,Studio C4,220,No experience required,25,/images/cycling-4.jpg
+300049,Afternoon Yoga Intermediate Class,2025-07-13,2025-10-05,18:00,20:00,2.0,101863,153,Studio C3,90,Basic fitness required,25,/images/yoga-1.jpg
+300367,Weekend Weightlifting Olympic Program,2025-07-13,2025-08-10,14:00,16:00,2.0,100081,289,Studio C5,60,No experience required,30,/images/weightlifting-4.jpg
+300117,Afternoon Cycling Endurance Workshop,2025-07-13,2025-09-07,19:00,21:00,2.0,100229,414,Studio B3,120,No experience required,25,/images/cycling-1.jpg
+300238,Morning Weightlifting Strength Session,2025-07-13,2025-10-05,19:00,21:00,2.0,102817,398,Studio A3,110,Medical clearance needed,25,/images/weightlifting-1.jpg
+300095,Afternoon Martial Arts MMA Program,2025-07-13,2025-10-05,14:00,16:00,2.0,100277,285,Studio B1,260,Medical clearance needed,25,/images/martial arts-1.jpg
+300433,Evening Dance Aerobic Session,2025-07-14,2025-10-06,18:00,20:00,2.0,101512,218,Studio C5,300,Basic fitness required,30,/images/dance-5.jpg
+300423,Evening Weightlifting Olympic Session,2025-07-14,2025-10-06,19:00,21:00,2.0,102698,215,Studio A5,180,Medical clearance needed,20,/images/weightlifting-3.jpg
+300039,Morning Yoga Beginner Session,2025-07-14,2025-10-06,18:00,20:00,2.0,100229,51,Studio A2,130,Basic fitness required,20,/images/yoga-5.jpg
+300177,Afternoon Cycling Indoor Workshop,2025-07-14,2025-10-06,14:00,16:00,2.0,101213,239,Studio C3,170,No experience required,20,/images/cycling-4.jpg
+300341,Morning Cycling HIIT Session,2025-07-14,2025-08-11,19:00,21:00,2.0,100289,350,Studio B3,130,Basic fitness required,20,/images/cycling-4.jpg
+300047,Evening Pilates Reformer Workshop,2025-07-15,2025-09-09,19:00,21:00,2.0,102289,436,Studio A5,70,No experience required,20,/images/pilates-1.jpg
+300498,Evening Cycling Endurance Session,2025-07-15,2025-10-07,09:00,11:00,2.0,101115,495,Studio B5,200,Age 16+,20,/images/cycling-2.jpg
+300335,Afternoon Cycling Endurance Program,2025-07-15,2025-10-07,18:00,20:00,2.0,102511,432,Studio A4,100,No experience required,20,/images/cycling-4.jpg
+300453,Evening Cycling Indoor Workshop,2025-07-15,2025-09-09,19:00,21:00,2.0,100345,247,Studio B4,160,Medical clearance needed,15,/images/cycling-4.jpg
+300304,Morning Pilates Reformer Program,2025-07-15,2025-09-09,19:00,21:00,2.0,102160,447,Studio A3,50,Basic fitness required,15,/images/pilates-5.jpg
+300494,Evening Pilates Group Class,2025-07-15,2025-10-07,14:00,16:00,2.0,101024,71,Studio C2,240,Medical clearance needed,30,/images/pilates-4.jpg
+300468,Morning Cycling Endurance Workshop,2025-07-16,2025-08-13,14:00,16:00,2.0,102645,493,Studio B1,190,Age 16+,20,/images/cycling-2.jpg
+300261,Weekend Dance Hip-hop Program,2025-07-16,2025-08-13,18:00,20:00,2.0,101024,101,Studio C2,220,No experience required,20,/images/dance-3.jpg
+300027,Afternoon Yoga Hot Class,2025-07-16,2025-08-13,09:00,11:00,2.0,101215,445,Studio C3,50,Medical clearance needed,30,/images/yoga-4.jpg
+300254,Afternoon Dance Hip-hop Workshop,2025-07-16,2025-08-13,19:00,21:00,2.0,101296,261,Studio A5,240,No experience required,30,/images/dance-4.jpg
+300077,Evening Pilates Reformer Session,2025-07-16,2025-08-13,19:00,21:00,2.0,100722,434,Studio A2,250,Basic fitness required,30,/images/pilates-4.jpg
+300239,Afternoon Dance Zumba Class,2025-07-16,2025-09-10,18:00,20:00,2.0,101179,120,Studio B4,280,Medical clearance needed,20,/images/dance-2.jpg
+300270,Evening Yoga Hot Class,2025-07-16,2025-08-13,14:00,16:00,2.0,100208,315,Studio A5,240,No experience required,25,/images/yoga-5.jpg
+300218,Afternoon Weightlifting Olympic Workshop,2025-07-17,2025-08-14,14:00,16:00,2.0,101467,221,Studio B5,210,No experience required,15,/images/weightlifting-3.jpg
+300305,Afternoon Cycling HIIT Session,2025-07-17,2025-10-09,19:00,21:00,2.0,101063,284,Studio B4,260,Basic fitness required,30,/images/cycling-5.jpg
+300042,Afternoon Cycling HIIT Class,2025-07-17,2025-08-14,14:00,16:00,2.0,100618,468,Studio A1,90,Age 16+,20,/images/cycling-4.jpg
+300248,Weekend Pilates Reformer Program,2025-07-17,2025-09-11,18:00,20:00,2.0,101035,135,Studio B1,260,Basic fitness required,20,/images/pilates-2.jpg
+300191,Evening Dance Zumba Program,2025-07-17,2025-08-14,14:00,16:00,2.0,100920,230,Studio A1,140,No experience required,30,/images/dance-3.jpg
+300285,Evening Cycling Indoor Program,2025-07-17,2025-09-11,09:00,11:00,2.0,102996,104,Studio C2,140,Basic fitness required,20,/images/cycling-5.jpg
+300179,Morning Weightlifting Strength Session,2025-07-17,2025-09-11,09:00,11:00,2.0,101398,223,Studio A3,90,No experience required,20,/images/weightlifting-2.jpg
+300376,Morning Pilates Group Workshop,2025-07-17,2025-10-09,18:00,20:00,2.0,100008,49,Studio C2,280,Medical clearance needed,25,/images/pilates-4.jpg
+300483,Weekend Weightlifting Technique Class,2025-07-18,2025-08-15,19:00,21:00,2.0,101715,148,Studio B3,290,Medical clearance needed,25,/images/weightlifting-5.jpg
+300465,Evening Dance Zumba Workshop,2025-07-18,2025-09-12,19:00,21:00,2.0,102296,318,Studio A4,110,Age 16+,20,/images/dance-1.jpg
+300354,Morning Yoga Prenatal Class,2025-07-18,2025-10-10,19:00,21:00,2.0,102542,30,Studio A4,200,Age 16+,20,/images/yoga-5.jpg
+300196,Afternoon Cycling Endurance Class,2025-07-18,2025-09-12,14:00,16:00,2.0,102789,290,Studio A4,220,Basic fitness required,30,/images/cycling-3.jpg
+300071,Weekend Yoga Prenatal Session,2025-07-18,2025-08-15,14:00,16:00,2.0,101764,281,Studio B5,110,Medical clearance needed,30,/images/yoga-1.jpg
+300315,Evening Cycling Indoor Program,2025-07-19,2025-08-16,19:00,21:00,2.0,101462,133,Studio A1,270,Basic fitness required,25,/images/cycling-3.jpg
+300471,Morning Cycling Endurance Workshop,2025-07-19,2025-10-11,18:00,20:00,2.0,102949,233,Studio C4,180,No experience required,15,/images/cycling-5.jpg
+300116,Evening Pilates Clinical Session,2025-07-19,2025-08-16,19:00,21:00,2.0,102748,329,Studio B4,160,No experience required,30,/images/pilates-3.jpg
+300339,Weekend Yoga Hot Program,2025-07-19,2025-09-13,19:00,21:00,2.0,100736,181,Studio B3,150,Age 16+,25,/images/yoga-4.jpg
+300150,Weekend Cycling HIIT Session,2025-07-20,2025-08-17,18:00,20:00,2.0,100806,212,Studio B1,80,Age 16+,20,/images/cycling-5.jpg
+300041,Afternoon Pilates Clinical Session,2025-07-20,2025-10-12,19:00,21:00,2.0,101531,151,Studio B3,240,Basic fitness required,20,/images/pilates-3.jpg
+300357,Evening Dance Zumba Session,2025-07-20,2025-08-17,14:00,16:00,2.0,100232,305,Studio C4,80,Basic fitness required,25,/images/dance-4.jpg
+300064,Afternoon Pilates Group Session,2025-07-20,2025-08-17,14:00,16:00,2.0,101121,57,Studio A5,90,No experience required,30,/images/pilates-5.jpg
+300202,Weekend Martial Arts MMA Session,2025-07-20,2025-09-14,18:00,20:00,2.0,101888,95,Studio C4,190,Medical clearance needed,25,/images/martial arts-5.jpg
+300299,Evening Cycling HIIT Class,2025-07-20,2025-09-14,18:00,20:00,2.0,101938,231,Studio C5,140,Basic fitness required,30,/images/cycling-4.jpg
+300359,Evening Cycling Endurance Class,2025-07-20,2025-10-12,19:00,21:00,2.0,101681,321,Studio B4,100,Age 16+,25,/images/cycling-4.jpg
+300481,Weekend Dance Hip-hop Session,2025-07-20,2025-08-17,09:00,11:00,2.0,101414,77,Studio C4,160,Medical clearance needed,25,/images/dance-2.jpg
+300490,Morning Martial Arts Boxing Session,2025-07-20,2025-10-12,18:00,20:00,2.0,101533,266,Studio C1,240,No experience required,25,/images/martial arts-4.jpg
+300438,Evening Yoga Hot Session,2025-07-21,2025-10-13,14:00,16:00,2.0,102869,240,Studio A2,300,No experience required,25,/images/yoga-2.jpg
+300242,Weekend Dance Zumba Program,2025-07-21,2025-08-18,14:00,16:00,2.0,102789,428,Studio A1,300,No experience required,15,/images/dance-3.jpg
+300424,Weekend Martial Arts MMA Program,2025-07-21,2025-10-13,14:00,16:00,2.0,101514,408,Studio B2,260,Age 16+,15,/images/martial arts-4.jpg
+300363,Afternoon Yoga Intermediate Session,2025-07-21,2025-08-18,18:00,20:00,2.0,102311,479,Studio B5,180,No experience required,15,/images/yoga-1.jpg
+300135,Morning Pilates Group Class,2025-07-21,2025-08-18,19:00,21:00,2.0,101462,479,Studio C1,240,Age 16+,20,/images/pilates-2.jpg
+300403,Afternoon Weightlifting Technique Program,2025-07-21,2025-08-18,14:00,16:00,2.0,100618,362,Studio B3,90,Basic fitness required,15,/images/weightlifting-5.jpg
+300052,Afternoon Weightlifting Strength Workshop,2025-07-21,2025-09-15,19:00,21:00,2.0,100722,291,Studio B2,250,No experience required,20,/images/weightlifting-5.jpg
+300193,Evening Weightlifting Power Session,2025-07-22,2025-09-16,18:00,20:00,2.0,101485,198,Studio B1,130,Medical clearance needed,20,/images/weightlifting-2.jpg
+300422,Morning Yoga Advanced Workshop,2025-07-22,2025-09-16,14:00,16:00,2.0,102985,396,Studio C5,160,Basic fitness required,30,/images/yoga-4.jpg
+300189,Morning Weightlifting Olympic Workshop,2025-07-22,2025-08-19,14:00,16:00,2.0,100841,385,Studio B1,210,No experience required,20,/images/weightlifting-2.jpg
+300308,Weekend Weightlifting Olympic Class,2025-07-22,2025-08-19,19:00,21:00,2.0,102770,132,Studio A1,170,Medical clearance needed,30,/images/weightlifting-3.jpg
+300470,Afternoon Cycling Endurance Program,2025-07-22,2025-10-14,09:00,11:00,2.0,101512,225,Studio B2,130,No experience required,30,/images/cycling-4.jpg
+300097,Weekend Martial Arts MMA Class,2025-07-23,2025-09-17,14:00,16:00,2.0,102682,166,Studio B2,110,No experience required,20,/images/martial arts-4.jpg
+300082,Evening Martial Arts Kickboxing Class,2025-07-23,2025-10-15,09:00,11:00,2.0,101215,118,Studio A3,240,Basic fitness required,30,/images/martial arts-1.jpg
+300234,Evening Cycling Indoor Class,2025-07-23,2025-09-17,18:00,20:00,2.0,101539,204,Studio A5,50,No experience required,20,/images/cycling-1.jpg
+300404,Evening Weightlifting Olympic Program,2025-07-23,2025-10-15,09:00,11:00,2.0,102779,177,Studio A3,110,No experience required,20,/images/weightlifting-2.jpg
+300152,Weekend Yoga Advanced Workshop,2025-07-23,2025-10-15,14:00,16:00,2.0,100949,254,Studio C5,180,Basic fitness required,30,/images/yoga-4.jpg
+300258,Morning Cycling HIIT Program,2025-07-23,2025-09-17,18:00,20:00,2.0,100472,133,Studio C5,190,Medical clearance needed,20,/images/cycling-1.jpg
+300284,Evening Dance Hip-hop Workshop,2025-07-23,2025-08-20,18:00,20:00,2.0,101841,271,Studio C4,150,No experience required,15,/images/dance-2.jpg
+300186,Afternoon Dance Zumba Program,2025-07-24,2025-08-21,18:00,20:00,2.0,101160,454,Studio A4,240,Basic fitness required,25,/images/dance-5.jpg
+300476,Afternoon Cycling HIIT Program,2025-07-24,2025-10-16,09:00,11:00,2.0,102759,450,Studio A3,240,Basic fitness required,25,/images/cycling-1.jpg
+300266,Morning Weightlifting Strength Class,2025-07-24,2025-10-16,19:00,21:00,2.0,100503,85,Studio C4,260,Medical clearance needed,30,/images/weightlifting-3.jpg
+300197,Afternoon Cycling HIIT Workshop,2025-07-24,2025-10-16,09:00,11:00,2.0,100920,125,Studio A5,180,Age 16+,30,/images/cycling-1.jpg
+300280,Weekend Cycling Indoor Workshop,2025-07-24,2025-08-21,14:00,16:00,2.0,101725,32,Studio B4,70,Age 16+,15,/images/cycling-4.jpg
+300224,Afternoon Cycling HIIT Workshop,2025-07-25,2025-09-19,14:00,16:00,2.0,100600,339,Studio B4,130,Basic fitness required,30,/images/cycling-3.jpg
+300334,Afternoon Weightlifting Olympic Session,2025-07-25,2025-09-19,09:00,11:00,2.0,102758,129,Studio A5,170,Basic fitness required,30,/images/weightlifting-2.jpg
+300283,Evening Weightlifting Strength Program,2025-07-25,2025-10-17,14:00,16:00,2.0,100899,357,Studio B4,70,No experience required,25,/images/weightlifting-4.jpg
+300380,Afternoon Martial Arts Boxing Session,2025-07-25,2025-08-22,19:00,21:00,2.0,101297,127,Studio C1,240,No experience required,25,/images/martial arts-2.jpg
+300061,Evening Weightlifting Olympic Session,2025-07-25,2025-10-17,09:00,11:00,2.0,102160,332,Studio B1,200,No experience required,20,/images/weightlifting-4.jpg
+300200,Afternoon Pilates Group Program,2025-07-26,2025-10-18,14:00,16:00,2.0,100974,308,Studio A3,80,Age 16+,30,/images/pilates-3.jpg
+300269,Morning Cycling Endurance Session,2025-07-26,2025-09-20,19:00,21:00,2.0,101715,9,Studio C1,230,Basic fitness required,25,/images/cycling-4.jpg
+300183,Morning Weightlifting Power Session,2025-07-26,2025-08-23,14:00,16:00,2.0,100575,252,Studio A5,180,Medical clearance needed,25,/images/weightlifting-2.jpg
+300347,Afternoon Dance Zumba Program,2025-07-26,2025-10-18,09:00,11:00,2.0,100821,497,Studio B2,90,No experience required,20,/images/dance-4.jpg
+300428,Weekend Cycling HIIT Workshop,2025-07-26,2025-09-20,14:00,16:00,2.0,102103,88,Studio B5,150,No experience required,20,/images/cycling-1.jpg
+300137,Weekend Yoga Prenatal Session,2025-07-26,2025-08-23,18:00,20:00,2.0,102431,420,Studio C3,270,No experience required,20,/images/yoga-5.jpg
+300294,Morning Pilates Group Class,2025-07-26,2025-10-18,18:00,20:00,2.0,101806,235,Studio A3,160,Medical clearance needed,25,/images/pilates-5.jpg
+300063,Morning Pilates Group Class,2025-07-27,2025-09-21,14:00,16:00,2.0,100396,45,Studio B5,290,Age 16+,30,/images/pilates-4.jpg
+300166,Morning Cycling HIIT Workshop,2025-07-27,2025-10-19,19:00,21:00,2.0,100756,462,Studio C4,290,Basic fitness required,25,/images/cycling-2.jpg
+300059,Afternoon Yoga Advanced Session,2025-07-27,2025-08-24,19:00,21:00,2.0,101879,415,Studio B4,130,Age 16+,20,/images/yoga-1.jpg
+300489,Weekend Yoga Hot Workshop,2025-07-27,2025-10-19,14:00,16:00,2.0,100371,77,Studio C4,190,No experience required,20,/images/yoga-5.jpg
+300029,Morning Yoga Advanced Session,2025-07-27,2025-10-19,09:00,11:00,2.0,102996,247,Studio C5,270,Age 16+,20,/images/yoga-1.jpg
+300401,Afternoon Weightlifting Power Session,2025-07-28,2025-09-22,18:00,20:00,2.0,100251,349,Studio C5,160,Age 16+,25,/images/weightlifting-5.jpg
+300115,Afternoon Cycling HIIT Program,2025-07-28,2025-10-20,14:00,16:00,2.0,100195,440,Studio C4,210,Basic fitness required,25,/images/cycling-5.jpg
+300340,Weekend Yoga Advanced Workshop,2025-07-28,2025-09-22,09:00,11:00,2.0,102727,313,Studio A3,280,Medical clearance needed,20,/images/yoga-5.jpg
+300286,Evening Pilates Reformer Session,2025-07-28,2025-09-22,14:00,16:00,2.0,101579,209,Studio A1,80,Basic fitness required,30,/images/pilates-3.jpg
+300172,Weekend Dance Aerobic Program,2025-07-28,2025-09-22,18:00,20:00,2.0,100472,367,Studio B3,280,Basic fitness required,20,/images/dance-1.jpg
+300244,Afternoon Cycling Indoor Workshop,2025-07-29,2025-08-26,18:00,20:00,2.0,102779,380,Studio C4,80,Age 16+,20,/images/cycling-5.jpg
+300158,Weekend Pilates Clinical Workshop,2025-07-29,2025-08-26,19:00,21:00,2.0,100588,3,Studio C2,70,Medical clearance needed,30,/images/pilates-1.jpg
+300255,Afternoon Weightlifting Strength Session,2025-07-29,2025-08-26,18:00,20:00,2.0,101398,429,Studio B3,150,No experience required,25,/images/weightlifting-1.jpg
+300460,Evening Dance Zumba Class,2025-07-29,2025-10-21,19:00,21:00,2.0,100472,435,Studio B5,180,Medical clearance needed,30,/images/dance-5.jpg
+300173,Afternoon Dance Hip-hop Session,2025-07-29,2025-10-21,09:00,11:00,2.0,101776,426,Studio B2,220,Basic fitness required,15,/images/dance-3.jpg
+300300,Evening Martial Arts Kickboxing Program,2025-07-30,2025-08-27,09:00,11:00,2.0,100456,133,Studio A1,160,Age 16+,20,/images/martial arts-2.jpg
+300398,Evening Yoga Prenatal Program,2025-07-30,2025-10-22,18:00,20:00,2.0,100079,418,Studio A2,230,Medical clearance needed,30,/images/yoga-5.jpg
+300102,Evening Martial Arts Boxing Class,2025-07-30,2025-09-24,09:00,11:00,2.0,102149,39,Studio B1,110,Age 16+,25,/images/martial arts-3.jpg
+300190,Morning Cycling HIIT Class,2025-07-30,2025-08-27,14:00,16:00,2.0,102996,485,Studio C4,140,No experience required,30,/images/cycling-2.jpg
+300344,Afternoon Cycling HIIT Session,2025-07-30,2025-10-22,14:00,16:00,2.0,101179,246,Studio A4,170,No experience required,30,/images/cycling-3.jpg
+300194,Morning Dance Hip-hop Program,2025-07-31,2025-09-25,18:00,20:00,2.0,101338,60,Studio A5,140,Age 16+,30,/images/dance-2.jpg
+300385,Evening Weightlifting Strength Session,2025-07-31,2025-10-23,19:00,21:00,2.0,102055,250,Studio B3,250,Basic fitness required,30,/images/weightlifting-3.jpg
+300278,Morning Cycling HIIT Program,2025-07-31,2025-10-23,14:00,16:00,2.0,100120,401,Studio A2,70,Basic fitness required,20,/images/cycling-3.jpg
+300309,Weekend Weightlifting Strength Program,2025-07-31,2025-08-28,14:00,16:00,2.0,101491,90,Studio A5,250,Age 16+,20,/images/weightlifting-3.jpg
+300111,Weekend Cycling Endurance Workshop,2025-07-31,2025-09-25,19:00,21:00,2.0,101046,303,Studio C3,140,Basic fitness required,25,/images/cycling-1.jpg
+300214,Morning Yoga Hot Program,2025-08-01,2025-08-29,18:00,20:00,2.0,102298,261,Studio A5,120,Basic fitness required,25,/images/yoga-1.jpg
+300436,Morning Yoga Advanced Class,2025-08-01,2025-08-29,09:00,11:00,2.0,102273,422,Studio C2,60,Medical clearance needed,15,/images/yoga-3.jpg
+300122,Afternoon Yoga Hot Session,2025-08-01,2025-10-24,09:00,11:00,2.0,102768,443,Studio C1,300,Age 16+,20,/images/yoga-1.jpg
+300195,Afternoon Yoga Beginner Program,2025-08-01,2025-10-24,14:00,16:00,2.0,102740,330,Studio B4,150,Basic fitness required,20,/images/yoga-5.jpg
+300268,Evening Cycling Indoor Workshop,2025-08-01,2025-09-26,14:00,16:00,2.0,102857,387,Studio C2,180,No experience required,30,/images/cycling-2.jpg
+300176,Evening Dance Zumba Class,2025-08-01,2025-10-24,19:00,21:00,2.0,100581,11,Studio C3,100,No experience required,25,/images/dance-1.jpg
+300391,Weekend Weightlifting Olympic Class,2025-08-01,2025-08-29,14:00,16:00,2.0,102076,38,Studio B1,130,Age 16+,30,/images/weightlifting-2.jpg
+300469,Evening Dance Hip-hop Session,2025-08-01,2025-08-29,19:00,21:00,2.0,101879,69,Studio A1,220,Medical clearance needed,20,/images/dance-1.jpg
+300161,Weekend Dance Hip-hop Class,2025-08-02,2025-09-27,18:00,20:00,2.0,101776,447,Studio B2,60,No experience required,30,/images/dance-1.jpg
+300235,Evening Weightlifting Technique Program,2025-08-02,2025-10-25,19:00,21:00,2.0,102817,400,Studio A2,240,No experience required,30,/images/weightlifting-2.jpg
+300434,Morning Pilates Clinical Program,2025-08-02,2025-10-25,18:00,20:00,2.0,101765,406,Studio B4,240,Age 16+,15,/images/pilates-5.jpg
+300230,Afternoon Weightlifting Technique Class,2025-08-02,2025-09-27,09:00,11:00,2.0,101398,418,Studio C5,150,Basic fitness required,25,/images/weightlifting-3.jpg
+300086,Afternoon Martial Arts Boxing Class,2025-08-03,2025-09-28,18:00,20:00,2.0,102311,106,Studio B5,130,Basic fitness required,25,/images/martial arts-3.jpg
+300408,Afternoon Weightlifting Strength Workshop,2025-08-03,2025-08-31,18:00,20:00,2.0,102426,430,Studio A4,170,No experience required,20,/images/weightlifting-5.jpg
+300477,Morning Cycling Endurance Class,2025-08-03,2025-08-31,14:00,16:00,2.0,101412,259,Studio A5,300,Age 16+,25,/images/cycling-3.jpg
+300346,Weekend Yoga Beginner Program,2025-08-03,2025-10-26,19:00,21:00,2.0,101733,498,Studio C1,160,Medical clearance needed,20,/images/yoga-1.jpg
+300348,Afternoon Pilates Mat Workshop,2025-08-03,2025-08-31,19:00,21:00,2.0,102041,432,Studio A1,120,No experience required,20,/images/pilates-2.jpg
+300288,Weekend Weightlifting Technique Program,2025-08-03,2025-08-31,18:00,20:00,2.0,102433,458,Studio C4,70,No experience required,20,/images/weightlifting-4.jpg
+300441,Morning Dance Aerobic Session,2025-08-04,2025-10-27,09:00,11:00,2.0,102043,369,Studio C1,140,Basic fitness required,30,/images/dance-1.jpg
+300459,Evening Dance Hip-hop Workshop,2025-08-04,2025-09-01,09:00,11:00,2.0,102138,91,Studio C2,190,Basic fitness required,25,/images/dance-1.jpg
+300342,Weekend Dance Zumba Class,2025-08-04,2025-09-29,09:00,11:00,2.0,102704,483,Studio C3,220,No experience required,20,/images/dance-2.jpg
+300168,Afternoon Yoga Advanced Session,2025-08-04,2025-09-29,19:00,21:00,2.0,100710,378,Studio B4,60,Age 16+,25,/images/yoga-2.jpg
+300447,Evening Pilates Group Session,2025-08-05,2025-09-02,18:00,20:00,2.0,102770,410,Studio A5,210,Age 16+,30,/images/pilates-2.jpg
+300499,Afternoon Dance Zumba Class,2025-08-05,2025-09-02,09:00,11:00,2.0,100139,258,Studio A3,240,No experience required,25,/images/dance-4.jpg
+300128,Morning Martial Arts Boxing Workshop,2025-08-05,2025-09-30,18:00,20:00,2.0,102857,498,Studio A4,200,Age 16+,25,/images/martial arts-4.jpg
+300307,Weekend Yoga Beginner Program,2025-08-06,2025-10-01,19:00,21:00,2.0,102548,237,Studio B5,130,Medical clearance needed,25,/images/yoga-1.jpg
+300475,Morning Martial Arts Kickboxing Class,2025-08-06,2025-10-01,18:00,20:00,2.0,101588,344,Studio A3,170,Age 16+,20,/images/martial arts-3.jpg
+300393,Evening Cycling HIIT Session,2025-08-06,2025-09-03,18:00,20:00,2.0,101889,54,Studio C4,110,No experience required,20,/images/cycling-2.jpg
+300432,Afternoon Weightlifting Technique Workshop,2025-08-06,2025-10-01,09:00,11:00,2.0,102779,174,Studio A4,100,Age 16+,30,/images/weightlifting-5.jpg
+300156,Weekend Dance Hip-hop Workshop,2025-08-07,2025-10-30,09:00,11:00,2.0,102184,458,Studio B1,170,Basic fitness required,30,/images/dance-5.jpg
+300329,Weekend Cycling Indoor Workshop,2025-08-07,2025-09-04,14:00,16:00,2.0,101491,225,Studio C5,260,No experience required,20,/images/cycling-1.jpg
+300326,Weekend Martial Arts MMA Workshop,2025-08-07,2025-09-04,18:00,20:00,2.0,101715,330,Studio B3,250,Age 16+,20,/images/martial arts-5.jpg
+300466,Afternoon Pilates Clinical Workshop,2025-08-07,2025-09-04,09:00,11:00,2.0,100732,233,Studio C1,250,Medical clearance needed,30,/images/pilates-1.jpg
+300390,Afternoon Dance Zumba Workshop,2025-08-08,2025-10-31,14:00,16:00,2.0,102682,444,Studio B4,220,Medical clearance needed,15,/images/dance-4.jpg
+300142,Morning Pilates Group Workshop,2025-08-08,2025-10-31,09:00,11:00,2.0,100371,388,Studio C4,250,Age 16+,15,/images/pilates-2.jpg
+300262,Afternoon Martial Arts Boxing Session,2025-08-08,2025-10-03,14:00,16:00,2.0,100806,89,Studio C2,80,Basic fitness required,25,/images/martial arts-2.jpg
+300276,Evening Pilates Mat Workshop,2025-08-08,2025-10-31,18:00,20:00,2.0,100647,216,Studio A2,70,Medical clearance needed,30,/images/pilates-1.jpg
+300069,Afternoon Dance Hip-hop Session,2025-08-08,2025-10-03,19:00,21:00,2.0,101889,440,Studio B3,110,Medical clearance needed,15,/images/dance-4.jpg
+300290,Morning Weightlifting Power Workshop,2025-08-09,2025-09-06,09:00,11:00,2.0,100415,67,Studio B1,180,Basic fitness required,30,/images/weightlifting-2.jpg
+300364,Morning Cycling Endurance Program,2025-08-09,2025-11-01,09:00,11:00,2.0,101063,494,Studio B4,180,Age 16+,30,/images/cycling-1.jpg
+300105,Weekend Pilates Group Program,2025-08-09,2025-11-01,14:00,16:00,2.0,101492,292,Studio B3,220,Medical clearance needed,20,/images/pilates-4.jpg
+300252,Weekend Cycling Endurance Workshop,2025-08-09,2025-11-01,18:00,20:00,2.0,100747,225,Studio C1,70,Age 16+,25,/images/cycling-1.jpg
+300273,Morning Pilates Mat Workshop,2025-08-09,2025-11-01,14:00,16:00,2.0,100345,28,Studio A5,140,Medical clearance needed,20,/images/pilates-1.jpg
+300246,Evening Martial Arts MMA Class,2025-08-10,2025-09-07,14:00,16:00,2.0,101690,118,Studio B5,100,No experience required,20,/images/martial arts-1.jpg
+300220,Evening Yoga Prenatal Program,2025-08-10,2025-11-02,18:00,20:00,2.0,102149,69,Studio B1,80,No experience required,20,/images/yoga-5.jpg
+300212,Evening Pilates Clinical Workshop,2025-08-10,2025-11-02,19:00,21:00,2.0,101680,123,Studio C1,170,Basic fitness required,25,/images/pilates-5.jpg
+300180,Evening Cycling Indoor Workshop,2025-08-10,2025-09-07,14:00,16:00,2.0,102533,81,Studio B2,260,No experience required,20,/images/cycling-2.jpg
+300020,Morning Cycling Indoor Session,2025-08-10,2025-09-07,14:00,16:00,2.0,100618,63,Studio C5,60,Medical clearance needed,20,/images/cycling-4.jpg
+300368,Weekend Yoga Hot Workshop,2025-08-10,2025-09-07,14:00,16:00,2.0,101134,483,Studio C2,90,No experience required,30,/images/yoga-4.jpg
+300037,Weekend Cycling Endurance Workshop,2025-08-10,2025-11-02,18:00,20:00,2.0,101952,177,Studio A3,80,Medical clearance needed,25,/images/cycling-2.jpg
+300409,Evening Martial Arts Kickboxing Session,2025-08-10,2025-09-07,09:00,11:00,2.0,101907,20,Studio C1,290,Basic fitness required,25,/images/martial arts-3.jpg
+300352,Weekend Martial Arts Boxing Workshop,2025-08-10,2025-09-07,19:00,21:00,2.0,102867,392,Studio C4,210,No experience required,20,/images/martial arts-5.jpg
+300351,Evening Weightlifting Technique Class,2025-08-10,2025-11-02,18:00,20:00,2.0,102931,467,Studio B1,270,Medical clearance needed,20,/images/weightlifting-3.jpg
+300405,Morning Dance Hip-hop Session,2025-08-10,2025-11-02,18:00,20:00,2.0,102298,418,Studio B4,120,No experience required,15,/images/dance-5.jpg
+300313,Weekend Weightlifting Technique Workshop,2025-08-11,2025-11-03,18:00,20:00,2.0,100165,360,Studio A5,80,No experience required,20,/images/weightlifting-3.jpg
+300201,Weekend Cycling HIIT Program,2025-08-11,2025-09-08,09:00,11:00,2.0,101160,164,Studio A5,170,Age 16+,25,/images/cycling-1.jpg
+300151,Morning Weightlifting Olympic Program,2025-08-11,2025-10-06,09:00,11:00,2.0,101219,86,Studio A5,120,Medical clearance needed,15,/images/weightlifting-4.jpg
+300271,Weekend Martial Arts MMA Workshop,2025-08-11,2025-11-03,09:00,11:00,2.0,100356,291,Studio C4,140,Basic fitness required,25,/images/martial arts-1.jpg
+300488,Weekend Yoga Prenatal Program,2025-08-11,2025-11-03,19:00,21:00,2.0,100125,252,Studio B1,80,Basic fitness required,20,/images/yoga-4.jpg
+300088,Evening Cycling HIIT Workshop,2025-08-11,2025-11-03,14:00,16:00,2.0,100345,209,Studio C2,130,No experience required,20,/images/cycling-4.jpg
+300412,Evening Dance Aerobic Workshop,2025-08-11,2025-09-08,18:00,20:00,2.0,101485,295,Studio B1,100,Medical clearance needed,30,/images/dance-5.jpg
+300087,Weekend Yoga Intermediate Class,2025-08-12,2025-11-04,19:00,21:00,2.0,100806,96,Studio B5,150,No experience required,20,/images/yoga-5.jpg
+300050,Weekend Cycling HIIT Class,2025-08-12,2025-11-04,09:00,11:00,2.0,102477,410,Studio A1,90,Medical clearance needed,25,/images/cycling-4.jpg
+300411,Evening Weightlifting Strength Class,2025-08-12,2025-10-07,18:00,20:00,2.0,102602,162,Studio B5,60,Age 16+,20,/images/weightlifting-2.jpg
+300429,Evening Yoga Prenatal Class,2025-08-12,2025-10-07,18:00,20:00,2.0,102463,449,Studio C2,100,No experience required,20,/images/yoga-1.jpg
+300043,Weekend Pilates Clinical Class,2025-08-12,2025-11-04,18:00,20:00,2.0,100899,188,Studio C3,140,Medical clearance needed,25,/images/pilates-3.jpg
+300415,Weekend Dance Hip-hop Class,2025-08-12,2025-11-04,09:00,11:00,2.0,101579,325,Studio C5,250,Medical clearance needed,20,/images/dance-2.jpg
+300099,Afternoon Cycling Endurance Class,2025-08-13,2025-11-05,18:00,20:00,2.0,102789,140,Studio A2,210,Basic fitness required,20,/images/cycling-5.jpg
+300287,Afternoon Dance Zumba Session,2025-08-13,2025-11-05,18:00,20:00,2.0,102963,401,Studio B3,100,Basic fitness required,20,/images/dance-4.jpg
+300154,Evening Martial Arts Kickboxing Class,2025-08-13,2025-10-08,19:00,21:00,2.0,102682,289,Studio C5,240,Medical clearance needed,20,/images/martial arts-5.jpg
+300478,Afternoon Pilates Mat Class,2025-08-13,2025-10-08,19:00,21:00,2.0,101914,114,Studio B3,140,Age 16+,25,/images/pilates-2.jpg
+300207,Weekend Dance Aerobic Class,2025-08-13,2025-10-08,18:00,20:00,2.0,101191,292,Studio A2,90,Medical clearance needed,20,/images/dance-4.jpg
+300449,Weekend Dance Zumba Session,2025-08-13,2025-11-05,09:00,11:00,2.0,100736,113,Studio C2,200,No experience required,25,/images/dance-5.jpg
+300322,Evening Yoga Advanced Class,2025-08-13,2025-10-08,14:00,16:00,2.0,102202,277,Studio C1,220,No experience required,25,/images/yoga-4.jpg
+300388,Weekend Cycling Endurance Workshop,2025-08-14,2025-11-06,09:00,11:00,2.0,100640,474,Studio B4,140,Medical clearance needed,20,/images/cycling-1.jpg
+300383,Morning Martial Arts MMA Session,2025-08-14,2025-10-09,09:00,11:00,2.0,101353,413,Studio C4,250,No experience required,25,/images/martial arts-5.jpg
+300182,Evening Yoga Hot Program,2025-08-14,2025-10-09,14:00,16:00,2.0,101680,19,Studio A4,160,Medical clearance needed,30,/images/yoga-4.jpg
+300144,Morning Pilates Group Class,2025-08-14,2025-09-11,19:00,21:00,2.0,101879,307,Studio A2,260,Basic fitness required,20,/images/pilates-3.jpg
+300472,Evening Yoga Prenatal Session,2025-08-14,2025-09-11,09:00,11:00,2.0,102161,149,Studio A4,140,Age 16+,20,/images/yoga-1.jpg
+300136,Morning Yoga Hot Program,2025-08-14,2025-10-09,18:00,20:00,2.0,101063,435,Studio C1,100,Basic fitness required,15,/images/yoga-4.jpg
+300130,Evening Cycling HIIT Session,2025-08-14,2025-11-06,18:00,20:00,2.0,100260,37,Studio C3,110,Age 16+,20,/images/cycling-5.jpg
+300417,Weekend Weightlifting Olympic Class,2025-08-14,2025-11-06,14:00,16:00,2.0,100716,88,Studio A3,110,Basic fitness required,20,/images/weightlifting-4.jpg
+300377,Afternoon Dance Aerobic Class,2025-08-14,2025-11-06,19:00,21:00,2.0,100777,279,Studio C4,70,Medical clearance needed,25,/images/dance-3.jpg
+300222,Morning Pilates Reformer Class,2025-08-15,2025-11-07,09:00,11:00,2.0,101630,187,Studio A5,210,Medical clearance needed,30,/images/pilates-1.jpg
+300259,Morning Weightlifting Technique Class,2025-08-15,2025-10-10,19:00,21:00,2.0,102184,103,Studio B4,140,Medical clearance needed,20,/images/weightlifting-1.jpg
+300328,Evening Dance Hip-hop Program,2025-08-15,2025-10-10,18:00,20:00,2.0,101024,268,Studio B3,220,Medical clearance needed,25,/images/dance-1.jpg
+300058,Morning Martial Arts Boxing Program,2025-08-15,2025-10-10,09:00,11:00,2.0,101942,14,Studio C2,180,Basic fitness required,30,/images/martial arts-5.jpg
+300461,Weekend Cycling HIIT Session,2025-08-15,2025-10-10,18:00,20:00,2.0,101093,176,Studio A2,240,Age 16+,15,/images/cycling-4.jpg
+300249,Evening Cycling HIIT Workshop,2025-08-16,2025-10-11,19:00,21:00,2.0,100259,425,Studio A2,280,No experience required,20,/images/cycling-3.jpg
+300185,Afternoon Cycling HIIT Workshop,2025-08-16,2025-11-08,14:00,16:00,2.0,101215,227,Studio C5,90,No experience required,25,/images/cycling-5.jpg
+300427,Afternoon Dance Hip-hop Workshop,2025-08-16,2025-11-08,14:00,16:00,2.0,102704,312,Studio B2,260,Age 16+,20,/images/dance-5.jpg
+300236,Weekend Yoga Hot Workshop,2025-08-16,2025-11-08,18:00,20:00,2.0,102603,366,Studio A3,50,Basic fitness required,30,/images/yoga-5.jpg
+300349,Weekend Yoga Advanced Workshop,2025-08-17,2025-11-09,09:00,11:00,2.0,100328,330,Studio B2,200,Basic fitness required,15,/images/yoga-1.jpg
+300312,Weekend Martial Arts MMA Session,2025-08-17,2025-11-09,09:00,11:00,2.0,102879,199,Studio A5,90,Basic fitness required,30,/images/martial arts-3.jpg
+300414,Morning Martial Arts Boxing Session,2025-08-17,2025-11-09,09:00,11:00,2.0,102671,230,Studio A2,230,Medical clearance needed,15,/images/martial arts-1.jpg
+300491,Weekend Weightlifting Technique Program,2025-08-17,2025-10-12,19:00,21:00,2.0,102770,319,Studio A1,180,Basic fitness required,25,/images/weightlifting-5.jpg
+300026,Evening Martial Arts Boxing Program,2025-08-17,2025-09-14,14:00,16:00,2.0,102664,14,Studio B2,200,No experience required,20,/images/martial arts-2.jpg
+300442,Morning Pilates Reformer Session,2025-08-17,2025-11-09,19:00,21:00,2.0,101117,43,Studio A3,220,No experience required,30,/images/pilates-3.jpg
+300163,Morning Pilates Clinical Program,2025-08-18,2025-09-15,14:00,16:00,2.0,101186,187,Studio C4,190,Medical clearance needed,30,/images/pilates-1.jpg
+300402,Weekend Martial Arts MMA Class,2025-08-18,2025-10-13,09:00,11:00,2.0,100008,106,Studio C4,270,Basic fitness required,25,/images/martial arts-5.jpg
+300394,Weekend Yoga Advanced Session,2025-08-18,2025-11-10,19:00,21:00,2.0,100759,79,Studio A4,180,No experience required,30,/images/yoga-3.jpg
+300108,Evening Weightlifting Strength Workshop,2025-08-18,2025-11-10,19:00,21:00,2.0,102160,430,Studio A3,170,Medical clearance needed,25,/images/weightlifting-1.jpg
+300057,Weekend Cycling Indoor Workshop,2025-08-18,2025-09-15,19:00,21:00,2.0,102606,408,Studio A5,60,No experience required,25,/images/cycling-2.jpg
+300053,Afternoon Yoga Prenatal Program,2025-08-18,2025-09-15,14:00,16:00,2.0,102001,358,Studio C1,70,Medical clearance needed,30,/images/yoga-1.jpg
+300021,Weekend Yoga Advanced Class,2025-08-18,2025-09-15,09:00,11:00,2.0,102717,403,Studio B5,300,No experience required,20,/images/yoga-3.jpg
+300243,Weekend Dance Hip-hop Workshop,2025-08-18,2025-10-13,19:00,21:00,2.0,101709,115,Studio B1,230,Age 16+,15,/images/dance-2.jpg
+300124,Weekend Weightlifting Strength Session,2025-08-19,2025-10-14,09:00,11:00,2.0,101179,111,Studio B4,80,No experience required,20,/images/weightlifting-4.jpg
+300338,Evening Cycling HIIT Class,2025-08-19,2025-09-16,18:00,20:00,2.0,102569,57,Studio C5,270,No experience required,25,/images/cycling-3.jpg
+300374,Evening Cycling HIIT Class,2025-08-19,2025-09-16,14:00,16:00,2.0,100232,23,Studio B3,170,Medical clearance needed,25,/images/cycling-2.jpg
+300444,Morning Martial Arts Boxing Program,2025-08-19,2025-09-16,18:00,20:00,2.0,102433,435,Studio B4,240,Basic fitness required,20,/images/martial arts-4.jpg
+300103,Morning Cycling HIIT Program,2025-08-19,2025-11-11,19:00,21:00,2.0,100946,230,Studio B5,200,No experience required,30,/images/cycling-2.jpg
+300004,Weekend Pilates Mat Class,2025-08-19,2025-10-14,14:00,16:00,2.0,100974,500,Studio B1,260,Medical clearance needed,20,/images/pilates-5.jpg
+300396,Weekend Pilates Reformer Class,2025-08-19,2025-09-16,14:00,16:00,2.0,100936,199,Studio B1,60,Basic fitness required,30,/images/pilates-4.jpg
+300146,Weekend Cycling HIIT Workshop,2025-08-19,2025-11-11,09:00,11:00,2.0,100935,495,Studio C4,80,Medical clearance needed,25,/images/cycling-2.jpg
+300455,Afternoon Martial Arts MMA Class,2025-08-19,2025-10-14,09:00,11:00,2.0,102463,85,Studio C1,50,Medical clearance needed,15,/images/martial arts-1.jpg
+300080,Morning Dance Zumba Session,2025-08-20,2025-09-17,09:00,11:00,2.0,102857,240,Studio C1,290,Basic fitness required,20,/images/dance-1.jpg
+300226,Morning Martial Arts Boxing Program,2025-08-20,2025-10-15,19:00,21:00,2.0,102567,79,Studio A2,120,Age 16+,20,/images/martial arts-3.jpg
+300090,Weekend Pilates Group Session,2025-08-20,2025-11-12,18:00,20:00,2.0,101846,447,Studio A2,180,Age 16+,20,/images/pilates-2.jpg
+300007,Evening Martial Arts MMA Workshop,2025-08-20,2025-09-17,19:00,21:00,2.0,101483,99,Studio C3,120,No experience required,30,/images/martial arts-4.jpg
+300454,Afternoon Weightlifting Technique Program,2025-08-20,2025-10-15,14:00,16:00,2.0,101117,326,Studio A3,120,No experience required,25,/images/weightlifting-1.jpg
+300281,Evening Yoga Prenatal Program,2025-08-20,2025-11-12,18:00,20:00,2.0,102101,19,Studio A1,250,Medical clearance needed,20,/images/yoga-1.jpg
+300366,Morning Yoga Hot Program,2025-08-21,2025-11-13,09:00,11:00,2.0,101889,458,Studio B1,250,Age 16+,30,/images/yoga-1.jpg
+300011,Afternoon Yoga Beginner Session,2025-08-21,2025-10-16,09:00,11:00,2.0,101610,449,Studio A1,240,Medical clearance needed,15,/images/yoga-2.jpg
+300420,Afternoon Yoga Intermediate Program,2025-08-21,2025-10-16,14:00,16:00,2.0,101764,411,Studio A1,210,Medical clearance needed,25,/images/yoga-2.jpg
+300123,Afternoon Yoga Beginner Class,2025-08-21,2025-09-18,18:00,20:00,2.0,102402,319,Studio C3,170,Age 16+,30,/images/yoga-5.jpg
+300463,Afternoon Pilates Mat Class,2025-08-21,2025-10-16,14:00,16:00,2.0,102160,341,Studio A1,220,No experience required,30,/images/pilates-4.jpg
+300462,Afternoon Yoga Prenatal Program,2025-08-21,2025-10-16,19:00,21:00,2.0,100974,465,Studio C2,300,Medical clearance needed,25,/images/yoga-2.jpg
+300219,Afternoon Dance Hip-hop Workshop,2025-08-21,2025-10-16,09:00,11:00,2.0,101610,22,Studio A3,220,No experience required,30,/images/dance-1.jpg
+300400,Weekend Weightlifting Technique Program,2025-08-21,2025-11-13,18:00,20:00,2.0,102759,308,Studio C3,230,No experience required,30,/images/weightlifting-4.jpg
+300378,Morning Dance Zumba Class,2025-08-21,2025-10-16,14:00,16:00,2.0,102042,293,Studio C3,150,Age 16+,20,/images/dance-1.jpg
+300260,Evening Cycling Endurance Workshop,2025-08-22,2025-10-17,14:00,16:00,2.0,101888,483,Studio C2,160,Basic fitness required,30,/images/cycling-5.jpg
+300046,Weekend Pilates Mat Workshop,2025-08-24,2025-11-16,18:00,20:00,2.0,102905,99,Studio C5,80,Medical clearance needed,20,/images/pilates-5.jpg
+300293,Afternoon Weightlifting Strength Program,2025-08-25,2025-09-22,18:00,20:00,2.0,101733,482,Studio C3,180,Medical clearance needed,25,/images/weightlifting-2.jpg
+300100,Morning Pilates Reformer Program,2025-08-25,2025-11-17,19:00,21:00,2.0,102426,258,Studio B1,80,Basic fitness required,20,/images/pilates-4.jpg
+300120,Evening Pilates Mat Session,2025-08-25,2025-09-22,18:00,20:00,2.0,101481,161,Studio C5,140,No experience required,20,/images/pilates-5.jpg
+300265,Evening Dance Zumba Class,2025-08-26,2025-10-21,14:00,16:00,2.0,101907,223,Studio C4,220,Medical clearance needed,25,/images/dance-2.jpg
+300223,Weekend Martial Arts Boxing Workshop,2025-08-26,2025-10-21,09:00,11:00,2.0,100008,421,Studio C4,240,No experience required,25,/images/martial arts-5.jpg
