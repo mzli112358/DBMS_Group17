@@ -1,0 +1,140 @@
+{% extends 'base.html' %}
+{% block body %}
+<h3>Course Template Management</h3>
+
+<!-- 添加模板按钮 -->
+<a class="btn btn-success mb-3" href="#" data-bs-toggle="modal" data-bs-target="#addTemplateModal">Add Template</a>
+
+<!-- 课程模板表格 -->
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Course ID</th>
+      <th>Coach ID</th>
+      <th>Weekly</th>
+      <th>Time</th>
+      <th>Location</th>
+      <th>Period</th>
+      <th>Fee</th>
+      <th>Max Seats</th>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for t in templates %}
+    <tr>
+      <td>{{ t.template_id }}</td>
+      <td>{{ t.name }}</td>
+      <td>{{ t.course_id }}</td>
+      <td>{{ t.coach_id }}</td>
+      <td>
+        {% set week_map = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'] %}
+        {{ week_map[t.weekly]|default('N/A') }}
+      </td>
+      <td>{{ t.start_time }} ~ {{ t.end_time }}</td>
+      <td>{{ t.location }}</td>
+      <td>{{ t.valid_from }} ~ {{ t.valid_to }}</td>
+      <td>{{ t.fee }}</td>
+      <td>{{ t.max_seats }}</td>
+      <td>{{ t.requirement or '-' }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<!-- 模态框：新增模板 -->
+<div class="modal fade" id="addTemplateModal" tabindex="-1">
+  <div class="modal-dialog modal-lg">
+    <form method="post" action="{{ url_for('add_course_template') }}">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Add New Course Template</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body row g-3">
+          <div class="col-md-6">
+            <label>Name</label>
+            <input type="text" class="form-control" name="name" required>
+          </div>
+          <div class="col-md-3">
+            <label>Coach ID</label>
+            <input type="number" class="form-control" name="coach_id" required>
+          </div>
+          <div class="col-md-3">
+            <label>Branch ID</label>
+            <input type="number" class="form-control" name="branch_id" required>
+          </div>
+
+          <div class="col-md-6">
+            <label>Course ID</label>
+            <select name="course_id" class="form-select" required>
+              {% for c in courses %}
+                <option value="{{ c.course_id }}">{{ c.course_id }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label>Course Name</label>
+            <select name="course_name" class="form-select" required>
+              {% for c in courses %}
+                <option value="{{ c.name }}">{{ c.name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+
+          <div class="col-md-3">
+            <label>Weekly</label>
+            <select class="form-select" name="weekly" required>
+              <option value="0">Monday</option>
+              <option value="1">Tuesday</option>
+              <option value="2">Wednesday</option>
+              <option value="3">Thursday</option>
+              <option value="4">Friday</option>
+              <option value="5">Saturday</option>
+              <option value="6">Sunday</option>
+            </select>
+          </div>
+          <div class="col-md-3">
+            <label>Start Time</label>
+            <input type="time" class="form-control" name="start_time" required>
+          </div>
+          <div class="col-md-3">
+            <label>End Time</label>
+            <input type="time" class="form-control" name="end_time" required>
+          </div>
+          <div class="col-md-3">
+            <label>Location</label>
+            <input type="text" class="form-control" name="location" required>
+          </div>
+          <div class="col-md-3">
+            <label>Max Seats</label>
+            <input type="number" class="form-control" name="max_seats" min="1" required>
+          </div>
+          <div class="col-md-3">
+            <label>Fee</label>
+            <input type="number" class="form-control" name="fee" step="0.01" required>
+          </div>
+          <div class="col-md-3">
+            <label>Valid From</label>
+            <input type="date" class="form-control" name="valid_from" required>
+          </div>
+          <div class="col-md-3">
+            <label>Valid To</label>
+            <input type="date" class="form-control" name="valid_to" required>
+          </div>
+          <div class="col-12">
+            <label>Requirement (Optional)</label>
+            <input type="text" class="form-control" name="requirement">
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-success">Add Template</button>
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}
