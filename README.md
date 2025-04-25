@@ -28,14 +28,14 @@ app.config['MYSQL_DB'] = 'gym_0424_generate_at_0424_2257'
 5月8日做完PPT排练
 5月12日演讲
 ```
+# 一些链接
+项目要求：https://kdocs.cn/l/ckDkthRPAwRN
 
-# ER图
-以讨论的`ER图.jpg（讨论拍照）`为基底，结合`gym_0418.sql（当前网页用的数据集）`以及`gym_0418数据库的说明(ER).md`，完成ER图
+ER图：以讨论的，结合`自动生成gym_0424_generate_at_0424_2315数据库介绍.pdf`，完成ER图
 
 https://boardmix.cn/app/share/CAE.CPGegA0gASoQLjnFbbSSCNDDlW-Yj4dhbzAFQAE/aPXjpf
 
-# 书面报告
-https://1drv.ms/w/c/e9c95fee6e8a1ea7/EV0CP4F21kJDrTbo920r3MoB0ZaCpaQDg-g8JExG-tXREQ?e=KLBZlN
+书面报告：https://1drv.ms/w/c/e9c95fee6e8a1ea7/EV0CP4F21kJDrTbo920r3MoB0ZaCpaQDg-g8JExG-tXREQ?e=KLBZlN
 
 
 # 数据库
