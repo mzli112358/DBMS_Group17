@@ -101,6 +101,7 @@ https://boardmix.cn/app/share/CAE.CPGegA0gASoQLjnFbbSSCNDDlW-Yj4dhbzAFQAE/aPXjpf
 密码：123456
 Host IP：8.138.123.42
 端口：23036
+数据库名：gym_0424_generate_at_0424_2257
 ```
 
 # 网页登录测试账号
