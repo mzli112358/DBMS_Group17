@@ -1,0 +1,26 @@
+Username	Password
+gym_0424之后:	
+admin:	
+clivingston	!c5gEgd6y5rm
+staff:	
+jadehughes	T61EHK^j^vwD
+coach:	
+lhumphrey	ZM6RbAKpA!nA
+mem:	
+karenellis	lx4G5Hw#u%*8
+
+gym_0423之前:	
+Username	Password
+admin	admin123
+staff1	staff123
+warehouse1	wh123
+coachA	coach123
+coachB	coach123
+coachC	coach123
+coachD	coach123
+coachE	coach123
+mem01	mem123
+mem02	mem123
+mem03	mem123
+mem04	mem123
+mem05	mem123

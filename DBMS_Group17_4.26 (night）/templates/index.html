@@ -1,0 +1,130 @@
+{% extends "base.html" %}
+
+{% block body %}
+<link href="{{ url_for('static', filename='css/home.css') }}" rel="stylesheet"/>
+
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="container">
+        <h1>Transform Your Body, </h1>
+        <h1>Transform Your Life</h1>
+        <p class="lead">Join our premium gym and start your fitness journey today</p>
+        <a href="{{ url_for('register') }}" class="btn btn-primary btn-lg">Get Started</a>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section class="features-section">
+    <div class="container">
+        <h2 class="text-center mb-5">Why Choose Us</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <i class="bi bi-people feature-icon"></i>
+                    <h3>Expert Trainers</h3>
+                    <p>Our certified trainers are here to guide you every step of the way.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <i class="bi bi-geo-alt feature-icon"></i>
+                    <h3>Multiple Locations</h3>
+                    <p>Access our facilities at convenient locations across the city.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <i class="bi bi-calendar-check feature-icon"></i>
+                    <h3>Flexible Schedule</h3>
+                    <p>Choose from a variety of classes that fit your busy schedule.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Classes Section -->
+<section class="classes-section">
+    <div class="container">
+        <h2 class="text-center mb-5">Popular Classes</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="class-card">
+                    <img src="{{ url_for('static', filename='images/home/yoga.jpg') }}" class="card-img-top" alt="Yoga Class">
+                    <div class="card-body">
+                        <h5 class="card-title">Yoga</h5>
+                        <p class="card-text">Improve flexibility and find your inner peace.</p>
+                        <a href="{{ url_for('courses') }}" class="btn btn-outline-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="class-card">
+                    <img src="{{ url_for('static', filename='images/home/crossfit.jpg') }}" class="card-img-top" alt="CrossFit Class">
+                    <div class="card-body">
+                        <h5 class="card-title">CrossFit</h5>
+                        <p class="card-text">High-intensity workouts for maximum results.</p>
+                        <a href="{{ url_for('courses') }}" class="btn btn-outline-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="class-card">
+                    <img src="{{ url_for('static', filename='images/home/pilates.jpg') }}" class="card-img-top" alt="Pilates Class">
+                    <div class="card-body">
+                        <h5 class="card-title">Pilates</h5>
+                        <p class="card-text">Strengthen your core and improve posture.</p>
+                        <a href="{{ url_for('courses') }}" class="btn btn-outline-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Testimonials Section -->
+<section class="testimonials-section">
+    <div class="container">
+        <h2 class="text-center mb-5">What Our Members Say</h2>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ url_for('static', filename='images/home/testimonial1.jpg') }}" alt="Member 1">
+                    <h5>Mingzhe LI</h5>
+                    <p>"The trainers are amazing and the facilities are top-notch. I've never felt better!"</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ url_for('static', filename='images/home/testimonial2.jpg') }}" alt="Member 2">
+                    <h5>Shaopeng CHEN</h5>
+                    <p>"The variety of classes and equipment here is unmatched. I love coming here every day!"</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ url_for('static', filename='images/home/testimonial3.jpg') }}" alt="Member 3">
+                    <h5>Chenwen FAN</h5>
+                    <p>"I've achieved my fitness goals faster than I ever thought possible."</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ url_for('static', filename='images/home/testimonial4.jpg') }}" alt="Member 4">
+                    <h5>Yishuo ZHANG</h5>
+                    <p>"The personal training sessions have completely transformed my workout routine. Highly recommended!"</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+    <div class="container">
+        <h2>Ready to Start Your Fitness Journey?</h2>
+        <p>Join our community of fitness enthusiasts today</p>
+        <a href="{{ url_for('register') }}" class="btn btn-primary btn-lg">Join Now</a>
+    </div>
+</section>
+{% endblock %}
