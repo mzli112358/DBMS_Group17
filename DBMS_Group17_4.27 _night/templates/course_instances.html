@@ -1,0 +1,166 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div class="container mt-4">
+    <h2 class="text-center mb-4">My Course Schedule</h2>
+
+    <!-- 🔥 倒计时展示区 -->
+    {% if next_course %}
+    <div class="alert alert-info text-center" id="countdown-box">
+        ⏳ Next course "{{ next_course.course_name }}" starts in 
+        <span id="countdown">Loading...</span>
+    </div>
+    {% endif %}
+
+    <!-- 课程卡片区域 -->
+    {% if enrolled_instances %}
+    <div class="row g-4">
+        {% for instance in enrolled_instances %}
+        <div class="col-md-4">
+            <div class="card shadow-sm hover-card h-100">
+                <div class="card-body d-flex flex-column justify-content-between">
+                    <div>
+                        <h5 class="card-title text-primary">{{ instance.course_name }}</h5>
+                        <p class="card-text mb-1"><b>Coach:</b> {{ instance.coach_first_name }} {{ instance.coach_last_name }}</p>
+                        <p class="card-text mb-1">
+                            <b>Date:</b> {{ instance.start_datetime.strftime('%Y-%m-%d') }} 
+                            ({{ instance.start_datetime.strftime('%A') }})
+                        </p>
+                        <p class="card-text mb-1">
+                            <b>Time:</b> {{ instance.start_datetime.strftime('%H:%M') }} - {{ instance.end_datetime.strftime('%H:%M') }}
+                        </p>
+                        <p class="card-text mb-1"><b>Location:</b> {{ instance.location }}</p>
+                        <p class="card-text mb-2"><b>Description:</b> No description provided.</p>
+                    </div>
+                    <!-- ❌ 这里不再显示Drop按钮了 -->
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="alert alert-info text-center">
+        You have not enrolled in any upcoming courses yet.
+    </div>
+    {% endif %}
+</div>
+
+<!-- 样式 -->
+<style>
+.hover-card {
+    transition: all 0.3s ease;
+    border: none;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.hover-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.card-title {
+    color: #007bff;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.card-text {
+    font-size: 0.9rem;
+    color: #333;
+}
+</style>
+
+<!-- 倒计时JS逻辑 -->
+{% if next_course %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const startTime = new Date("{{ next_course.start_datetime.isoformat() }}");
+
+    function updateCountdown() {
+        const now = new Date();
+        const diff = startTime - now;
+
+        if (diff <= 0) {
+            document.getElementById('countdown').innerHTML = "Class is starting!";
+            return;
+        }
+
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+        document.getElementById('countdown').innerHTML = 
+            (days > 0 ? days + "d " : "") + 
+            (hours > 0 ? hours + "h " : "") + 
+            minutes + "m " + seconds + "s";
+    }
+
+    updateCountdown(); // 立即执行一次
+    setInterval(updateCountdown, 1000); // 每1秒刷新
+});
+</script>
+<!-- 专业版：我的一周课程表 -->
+<hr class="my-5">
+
+<h3 class="text-center mb-4">My Weekly Course Schedule</h3>
+
+<div class="table-responsive">
+  <table class="table table-bordered text-center align-middle">
+    <thead class="table-primary">
+      <tr>
+        <th>Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+        <th>Sunday</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% set printed_keys = {} %}
+      {% for hour in range(6, 24) %}
+      <tr>
+        <th class="bg-light">{{ "%02d:00" % hour }}</th>
+        {% for day in range(7) %}
+        <td>
+          {% set found = False %}
+          {% for instance in enrolled_instances %}
+            {% set instance_day = instance.start_datetime.weekday() %}
+            {% set start_hour = instance.start_datetime.hour %}
+            {% set end_hour = instance.end_datetime.hour %}
+            {% set key = instance.course_name ~ "_" ~ instance.coach_first_name ~ "_" ~ instance.coach_last_name ~ "_" ~ instance_day %}
+            {% if instance_day == day and start_hour == hour and (key not in printed_keys) %}
+              {% set rowspan = end_hour - start_hour %}
+              <div class="bg-success bg-opacity-25 p-2 rounded">
+                <strong>{{ instance.course_name }}</strong><br>
+                <small>{{ instance.coach_first_name }} {{ instance.coach_last_name }}</small>
+              </div>
+              {% set _ = printed_keys.update({key: True}) %}
+              {% if rowspan > 1 %}
+              <script>
+                document.currentScript.parentElement.setAttribute('rowspan', '{{ rowspan }}');
+              </script>
+              {% endif %}
+              {% set found = True %}
+            {% endif %}
+          {% endfor %}
+          {% if not found %}
+            &nbsp;
+          {% endif %}
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% endif %}
+{% endblock %}
